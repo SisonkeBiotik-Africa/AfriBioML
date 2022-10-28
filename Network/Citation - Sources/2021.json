@@ -1,0 +1,1383 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": 1,
+				"label": "17th international computer engineering conference, icenco 2021",
+				"x": 0.8480,
+				"y": 0.0429,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 3.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.1647
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.3333,
+					"Avg. norm. citations": 0.0549
+				}
+			},
+			{
+				"id": 38,
+				"label": "2021 international conference on theoretical and applicative aspects of computer science, ictaacs 2021",
+				"x": 0.8135,
+				"y": 0.4919,
+				"cluster": 9,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 2.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 44,
+				"label": "2021 proceedings of the international conference on artificial intelligence for cyber security systems and privacy, ai-csp 2021",
+				"x": -0.5600,
+				"y": 0.2033,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 5.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 61,
+				"label": "advances in intelligent systems and computing",
+				"x": 0.2620,
+				"y": -0.5342,
+				"cluster": 16,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 21.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 2.1413
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.6190,
+					"Avg. norm. citations": 0.1020
+				}
+			},
+			{
+				"id": 63,
+				"label": "advances in wound care",
+				"x": 0.8431,
+				"y": 0.0422,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 1.3177
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 8.0000,
+					"Avg. norm. citations": 1.3177
+				}
+			},
+			{
+				"id": 78,
+				"label": "annals of operations research",
+				"x": -0.7212,
+				"y": 0.0065,
+				"cluster": 7,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 2.0000,
+					"Citations": 36.0000,
+					"Norm. citations": 5.9297
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 18.0000,
+					"Avg. norm. citations": 2.9649
+				}
+			},
+			{
+				"id": 83,
+				"label": "applied sciences (switzerland)",
+				"x": 0.2624,
+				"y": -0.8878,
+				"cluster": 10,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 5.0000,
+					"Citations": 28.0000,
+					"Norm. citations": 4.6120
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 5.6000,
+					"Avg. norm. citations": 0.9224
+				}
+			},
+			{
+				"id": 84,
+				"label": "applied soft computing",
+				"x": -0.5734,
+				"y": -0.2563,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 22.0000,
+					"Norm. citations": 3.6237
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 22.0000,
+					"Avg. norm. citations": 3.6237
+				}
+			},
+			{
+				"id": 92,
+				"label": "artificial intelligence review",
+				"x": -0.5874,
+				"y": -0.0073,
+				"cluster": 11,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 2.0000,
+					"Citations": 51.0000,
+					"Norm. citations": 8.4005
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 25.5000,
+					"Avg. norm. citations": 4.2002
+				}
+			},
+			{
+				"id": 101,
+				"label": "biomed research international",
+				"x": 0.8445,
+				"y": 0.0396,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 5.0000,
+					"Citations": 37.0000,
+					"Norm. citations": 6.0945
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 7.4000,
+					"Avg. norm. citations": 1.2189
+				}
+			},
+			{
+				"id": 104,
+				"label": "biomedical signal processing and control",
+				"x": -0.6105,
+				"y": -0.0149,
+				"cluster": 4,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 10.0000,
+					"Citations": 120.0000,
+					"Norm. citations": 19.7658
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 12.0000,
+					"Avg. norm. citations": 1.9766
+				}
+			},
+			{
+				"id": 111,
+				"label": "bmc psychology",
+				"x": -0.1985,
+				"y": 0.9057,
+				"cluster": 12,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 18.0000,
+					"Norm. citations": 2.9649
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 18.0000,
+					"Avg. norm. citations": 2.9649
+				}
+			},
+			{
+				"id": 129,
+				"label": "clean technologies and environmental policy",
+				"x": 0.2623,
+				"y": -0.8877,
+				"cluster": 10,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 16.0000,
+					"Norm. citations": 2.6354
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 16.0000,
+					"Avg. norm. citations": 2.6354
+				}
+			},
+			{
+				"id": 137,
+				"label": "cogent engineering",
+				"x": 0.8474,
+				"y": 0.0401,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.1647
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 1.0000,
+					"Avg. norm. citations": 0.1647
+				}
+			},
+			{
+				"id": 138,
+				"label": "cognitive computation",
+				"x": 0.8523,
+				"y": -0.4222,
+				"cluster": 18,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 1.9766
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 12.0000,
+					"Avg. norm. citations": 1.9766
+				}
+			},
+			{
+				"id": 140,
+				"label": "communications in computer and information science",
+				"x": -0.3867,
+				"y": -0.9093,
+				"cluster": 13,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 5.0000,
+					"Citations": 15.0000,
+					"Norm. citations": 2.4707
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 3.0000,
+					"Avg. norm. citations": 0.4941
+				}
+			},
+			{
+				"id": 142,
+				"label": "complex and intelligent systems",
+				"x": -0.5775,
+				"y": 0.1281,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 2.0000,
+					"Citations": 51.0000,
+					"Norm. citations": 8.4005
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 25.5000,
+					"Avg. norm. citations": 4.2002
+				}
+			},
+			{
+				"id": 145,
+				"label": "computational and mathematical methods in medicine",
+				"x": -0.4745,
+				"y": 0.8648,
+				"cluster": 17,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 2.0000,
+					"Documents": 11.0000,
+					"Citations": 62.0000,
+					"Norm. citations": 10.2123
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 5.6364,
+					"Avg. norm. citations": 0.9284
+				}
+			},
+			{
+				"id": 151,
+				"label": "computerized medical imaging and graphics",
+				"x": -0.0573,
+				"y": -0.9196,
+				"cluster": 8,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 3.0000,
+					"Citations": 35.0000,
+					"Norm. citations": 5.7650
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 11.6667,
+					"Avg. norm. citations": 1.9217
+				}
+			},
+			{
+				"id": 154,
+				"label": "computers in biology and medicine",
+				"x": -0.5868,
+				"y": -0.1656,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 4.0000,
+					"Documents": 11.0000,
+					"Citations": 169.0000,
+					"Norm. citations": 27.8368
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 15.3636,
+					"Avg. norm. citations": 2.5306
+				}
+			},
+			{
+				"id": 156,
+				"label": "computers, materials and continua",
+				"x": -0.5660,
+				"y": 0.1783,
+				"cluster": 3,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Documents": 21.0000,
+					"Citations": 125.0000,
+					"Norm. citations": 20.5894
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 5.9524,
+					"Avg. norm. citations": 0.9804
+				}
+			},
+			{
+				"id": 158,
+				"label": "conference of open innovation association, fruct",
+				"x": 0.0384,
+				"y": 0.9470,
+				"cluster": 14,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 1.3177
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 8.0000,
+					"Avg. norm. citations": 1.3177
+				}
+			},
+			{
+				"id": 159,
+				"label": "contrast media and molecular imaging",
+				"x": -0.5898,
+				"y": -0.0077,
+				"cluster": 11,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 3.0000,
+					"Documents": 2.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 2.1413
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 6.5000,
+					"Avg. norm. citations": 1.0706
+				}
+			},
+			{
+				"id": 167,
+				"label": "data science and management",
+				"x": 0.4037,
+				"y": 0.6865,
+				"cluster": 5,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.6589
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 4.0000,
+					"Avg. norm. citations": 0.6589
+				}
+			},
+			{
+				"id": 171,
+				"label": "diagnostics",
+				"x": -0.6102,
+				"y": -0.0112,
+				"cluster": 4,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 10.0000,
+					"Documents": 7.0000,
+					"Citations": 92.0000,
+					"Norm. citations": 15.1538
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 13.1429,
+					"Avg. norm. citations": 2.1648
+				}
+			},
+			{
+				"id": 174,
+				"label": "eai endorsed transactions on pervasive health and technology",
+				"x": 0.5402,
+				"y": -0.7904,
+				"cluster": 19,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 17.0000,
+					"Norm. citations": 2.8002
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 17.0000,
+					"Avg. norm. citations": 2.8002
+				}
+			},
+			{
+				"id": 181,
+				"label": "electronics (switzerland)",
+				"x": 0.4145,
+				"y": 0.7028,
+				"cluster": 6,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Documents": 5.0000,
+					"Citations": 32.0000,
+					"Norm. citations": 5.2709
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 6.4000,
+					"Avg. norm. citations": 1.0542
+				}
+			},
+			{
+				"id": 183,
+				"label": "energies",
+				"x": 0.4160,
+				"y": 0.7039,
+				"cluster": 6,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.9883
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 6.0000,
+					"Avg. norm. citations": 0.9883
+				}
+			},
+			{
+				"id": 195,
+				"label": "expert systems with applications",
+				"x": 0.8136,
+				"y": 0.4919,
+				"cluster": 9,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 4.0000,
+					"Citations": 136.0000,
+					"Norm. citations": 22.4012
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 34.0000,
+					"Avg. norm. citations": 5.6003
+				}
+			},
+			{
+				"id": 208,
+				"label": "frontiers in psychology",
+				"x": -0.1986,
+				"y": 0.9057,
+				"cluster": 12,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.6589
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 4.0000,
+					"Avg. norm. citations": 0.6589
+				}
+			},
+			{
+				"id": 209,
+				"label": "frontiers in public health",
+				"x": 0.4151,
+				"y": 0.7045,
+				"cluster": 6,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 4.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 1.9766
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 3.0000,
+					"Avg. norm. citations": 0.4941
+				}
+			},
+			{
+				"id": 211,
+				"label": "future generation computer systems",
+				"x": -0.5642,
+				"y": 0.1875,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 2.0000,
+					"Citations": 17.0000,
+					"Norm. citations": 2.8002
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 8.5000,
+					"Avg. norm. citations": 1.4001
+				}
+			},
+			{
+				"id": 238,
+				"label": "ieee access",
+				"x": 0.8458,
+				"y": 0.0417,
+				"cluster": 2,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Documents": 37.0000,
+					"Citations": 298.0000,
+					"Norm. citations": 49.0851
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 8.0541,
+					"Avg. norm. citations": 1.3266
+				}
+			},
+			{
+				"id": 246,
+				"label": "iet smart cities",
+				"x": 0.0384,
+				"y": 0.9469,
+				"cluster": 14,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.4941
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 3.0000,
+					"Avg. norm. citations": 0.4941
+				}
+			},
+			{
+				"id": 255,
+				"label": "informatics in medicine unlocked",
+				"x": 0.4051,
+				"y": 0.6888,
+				"cluster": 5,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Documents": 10.0000,
+					"Citations": 58.0000,
+					"Norm. citations": 9.5535
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 5.8000,
+					"Avg. norm. citations": 0.9553
+				}
+			},
+			{
+				"id": 258,
+				"label": "ingenierie des systemes d'information",
+				"x": 0.3780,
+				"y": -0.0478,
+				"cluster": 15,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.3294
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 2.0000,
+					"Avg. norm. citations": 0.3294
+				}
+			},
+			{
+				"id": 263,
+				"label": "intelligent systems reference library",
+				"x": -0.3868,
+				"y": -0.9092,
+				"cluster": 13,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 2.0000,
+					"Citations": 14.0000,
+					"Norm. citations": 2.3060
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 7.0000,
+					"Avg. norm. citations": 1.1530
+				}
+			},
+			{
+				"id": 269,
+				"label": "international journal of advanced computer science and applications",
+				"x": 0.3779,
+				"y": -0.0477,
+				"cluster": 15,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 13.0000,
+					"Citations": 11.0000,
+					"Norm. citations": 1.8119
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.8462,
+					"Avg. norm. citations": 0.1394
+				}
+			},
+			{
+				"id": 283,
+				"label": "international journal of environmental research and public health",
+				"x": -0.7174,
+				"y": 0.0062,
+				"cluster": 7,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Documents": 8.0000,
+					"Citations": 89.0000,
+					"Norm. citations": 14.6596
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 11.1250,
+					"Avg. norm. citations": 1.8325
+				}
+			},
+			{
+				"id": 322,
+				"label": "journal of biomedical informatics",
+				"x": -0.7213,
+				"y": 0.0072,
+				"cluster": 7,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 5.0000,
+					"Citations": 64.0000,
+					"Norm. citations": 10.5418
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 12.8000,
+					"Avg. norm. citations": 2.1084
+				}
+			},
+			{
+				"id": 347,
+				"label": "journal of parallel and distributed computing",
+				"x": -0.5768,
+				"y": -0.2324,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 61.0000,
+					"Norm. citations": 10.0476
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 61.0000,
+					"Avg. norm. citations": 10.0476
+				}
+			},
+			{
+				"id": 360,
+				"label": "knowledge-based systems",
+				"x": -0.5637,
+				"y": 0.1872,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 27.0000,
+					"Norm. citations": 4.4473
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 27.0000,
+					"Avg. norm. citations": 4.4473
+				}
+			},
+			{
+				"id": 361,
+				"label": "lecture notes in business information processing",
+				"x": 0.2620,
+				"y": -0.5342,
+				"cluster": 16,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 4.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.1647
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.2500,
+					"Avg. norm. citations": 0.0412
+				}
+			},
+			{
+				"id": 362,
+				"label": "lecture notes in computer science (including subseries lecture notes in artificial intelligence and lecture notes in bioinformatics)",
+				"x": -0.0573,
+				"y": -0.9201,
+				"cluster": 8,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 23.0000,
+					"Citations": 32.0000,
+					"Norm. citations": 5.2709
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 1.3913,
+					"Avg. norm. citations": 0.2292
+				}
+			},
+			{
+				"id": 365,
+				"label": "life",
+				"x": -0.6149,
+				"y": -0.0115,
+				"cluster": 4,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.1647
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 1.0000,
+					"Avg. norm. citations": 0.1647
+				}
+			},
+			{
+				"id": 376,
+				"label": "mathematics",
+				"x": -0.4747,
+				"y": 0.8648,
+				"cluster": 17,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 2.0000,
+					"Documents": 3.0000,
+					"Citations": 36.0000,
+					"Norm. citations": 5.9297
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 12.0000,
+					"Avg. norm. citations": 1.9766
+				}
+			},
+			{
+				"id": 377,
+				"label": "measurement: journal of the international measurement confederation",
+				"x": -0.5776,
+				"y": -0.2272,
+				"cluster": 1,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 4.0000,
+					"Documents": 2.0000,
+					"Citations": 307.0000,
+					"Norm. citations": 50.5675
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 153.5000,
+					"Avg. norm. citations": 25.2837
+				}
+			},
+			{
+				"id": 388,
+				"label": "molecules",
+				"x": 0.4053,
+				"y": 0.6869,
+				"cluster": 5,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 2.0000,
+					"Citations": 26.0000,
+					"Norm. citations": 4.2826
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 13.0000,
+					"Avg. norm. citations": 2.1413
+				}
+			},
+			{
+				"id": 389,
+				"label": "multimedia tools and applications",
+				"x": -0.5592,
+				"y": 0.2067,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 7.0000,
+					"Citations": 24.0000,
+					"Norm. citations": 3.9532
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 3.4286,
+					"Avg. norm. citations": 0.5647
+				}
+			},
+			{
+				"id": 403,
+				"label": "neurocomputing",
+				"x": -0.0572,
+				"y": -0.9206,
+				"cluster": 8,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 14.0000,
+					"Norm. citations": 2.3060
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 14.0000,
+					"Avg. norm. citations": 2.3060
+				}
+			},
+			{
+				"id": 406,
+				"label": "neutrosophic sets and systems",
+				"x": 0.8523,
+				"y": -0.4223,
+				"cluster": 18,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 0.0000,
+					"Avg. norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 421,
+				"label": "peerj computer science",
+				"x": -0.6114,
+				"y": -0.0076,
+				"cluster": 4,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 2.0000,
+					"Documents": 9.0000,
+					"Citations": 70.0000,
+					"Norm. citations": 11.5300
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 7.7778,
+					"Avg. norm. citations": 1.2811
+				}
+			},
+			{
+				"id": 449,
+				"label": "proceedings - 20th ieee international conference on machine learning and applications, icmla 2021",
+				"x": -0.5803,
+				"y": -0.2084,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.6589
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 4.0000,
+					"Avg. norm. citations": 0.6589
+				}
+			},
+			{
+				"id": 491,
+				"label": "scientific reports",
+				"x": 0.8452,
+				"y": 0.0443,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 7.0000,
+					"Citations": 57.0000,
+					"Norm. citations": 9.3888
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 8.1429,
+					"Avg. norm. citations": 1.3413
+				}
+			},
+			{
+				"id": 502,
+				"label": "sn computer science",
+				"x": 0.5403,
+				"y": -0.7904,
+				"cluster": 19,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 4.0000,
+					"Citations": 91.0000,
+					"Norm. citations": 14.9891
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 22.7500,
+					"Avg. norm. citations": 3.7473
+				}
+			},
+			{
+				"id": 505,
+				"label": "soft computing",
+				"x": -0.5739,
+				"y": -0.2527,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Documents": 3.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 2.1413
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 4.3333,
+					"Avg. norm. citations": 0.7138
+				}
+			},
+			{
+				"id": 517,
+				"label": "sustainable cities and society",
+				"x": -0.5807,
+				"y": -0.2057,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Documents": 4.0000,
+					"Citations": 193.0000,
+					"Norm. citations": 31.7900
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 48.2500,
+					"Avg. norm. citations": 7.9475
+				}
+			},
+			{
+				"id": 518,
+				"label": "sustainable operations and computers",
+				"x": 0.4031,
+				"y": 0.6883,
+				"cluster": 5,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 17.0000,
+					"Norm. citations": 2.8002
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 17.0000,
+					"Avg. norm. citations": 2.8002
+				}
+			},
+			{
+				"id": 525,
+				"label": "the lancet planetary health",
+				"x": 0.6426,
+				"y": -0.5451,
+				"cluster": 20,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 1.9766
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 12.0000,
+					"Avg. norm. citations": 1.9766
+				}
+			},
+			{
+				"id": 539,
+				"label": "wellcome open research",
+				"x": 0.6425,
+				"y": -0.5450,
+				"cluster": 20,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Documents": 2.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.4941
+				},
+				"scores": {
+					"Avg. pub. year": 2021.0000,
+					"Avg. citations": 1.5000,
+					"Avg. norm. citations": 0.2471
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 1,
+				"target_id": 238,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 195,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 156,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 389,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 61,
+				"target_id": 361,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 63,
+				"target_id": 238,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 78,
+				"target_id": 283,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 83,
+				"target_id": 129,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 84,
+				"target_id": 505,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 92,
+				"target_id": 159,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 101,
+				"target_id": 238,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 104,
+				"target_id": 171,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 111,
+				"target_id": 208,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 137,
+				"target_id": 238,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 138,
+				"target_id": 406,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 140,
+				"target_id": 263,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 142,
+				"target_id": 156,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 142,
+				"target_id": 171,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 145,
+				"target_id": 376,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 151,
+				"target_id": 362,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 171,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 377,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 154,
+				"target_id": 517,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 211,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 156,
+				"target_id": 360,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 158,
+				"target_id": 246,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 159,
+				"target_id": 171,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 167,
+				"target_id": 255,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 171,
+				"target_id": 283,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 171,
+				"target_id": 365,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 171,
+				"target_id": 421,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 174,
+				"target_id": 502,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 181,
+				"target_id": 183,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 181,
+				"target_id": 209,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 181,
+				"target_id": 255,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 211,
+				"target_id": 360,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 238,
+				"target_id": 491,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 255,
+				"target_id": 388,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 255,
+				"target_id": 518,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 258,
+				"target_id": 269,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 283,
+				"target_id": 322,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 347,
+				"target_id": 377,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 362,
+				"target_id": 403,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 377,
+				"target_id": 505,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 377,
+				"target_id": 517,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 449,
+				"target_id": 517,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 525,
+				"target_id": 539,
+				"strength": 1.0000
+			}
+		]
+	}
+}

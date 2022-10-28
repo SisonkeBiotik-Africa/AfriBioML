@@ -1,0 +1,774 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": 20,
+				"label": "2020 international conference on decision aid sciences and application, dasa 2020",
+				"x": -0.4946,
+				"y": -0.7783,
+				"cluster": 7,
+				"weights": {
+					"Links": 1.0000,
+					"Documents": 3.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.2842
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 1.3333,
+					"Avg. norm. citations": 0.0947
+				}
+			},
+			{
+				"id": 34,
+				"label": "acm international conference proceeding series",
+				"x": 0.1865,
+				"y": 0.4447,
+				"cluster": 11,
+				"weights": {
+					"Links": 1.0000,
+					"Documents": 13.0000,
+					"Citations": 35.0000,
+					"Norm. citations": 2.4872
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 2.6923,
+					"Avg. norm. citations": 0.1913
+				}
+			},
+			{
+				"id": 58,
+				"label": "biocybernetics and biomedical engineering",
+				"x": -0.5504,
+				"y": 0.4847,
+				"cluster": 3,
+				"weights": {
+					"Links": 1.0000,
+					"Documents": 2.0000,
+					"Citations": 39.0000,
+					"Norm. citations": 2.7714
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 19.5000,
+					"Avg. norm. citations": 1.3857
+				}
+			},
+			{
+				"id": 64,
+				"label": "biosystems engineering",
+				"x": 0.7242,
+				"y": 0.5509,
+				"cluster": 8,
+				"weights": {
+					"Links": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 28.0000,
+					"Norm. citations": 1.9897
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 28.0000,
+					"Avg. norm. citations": 1.9897
+				}
+			},
+			{
+				"id": 78,
+				"label": "chaos, solitons and fractals",
+				"x": -0.0641,
+				"y": -0.8659,
+				"cluster": 14,
+				"weights": {
+					"Links": 1.0000,
+					"Documents": 3.0000,
+					"Citations": 266.0000,
+					"Norm. citations": 18.9026
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 88.6667,
+					"Avg. norm. citations": 6.3009
+				}
+			},
+			{
+				"id": 85,
+				"label": "communications in computer and information science",
+				"x": 0.7243,
+				"y": 0.5508,
+				"cluster": 8,
+				"weights": {
+					"Links": 1.0000,
+					"Documents": 4.0000,
+					"Citations": 17.0000,
+					"Norm. citations": 1.2081
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 4.2500,
+					"Avg. norm. citations": 0.3020
+				}
+			},
+			{
+				"id": 92,
+				"label": "computer science review",
+				"x": -0.5216,
+				"y": 0.5161,
+				"cluster": 2,
+				"weights": {
+					"Links": 2.0000,
+					"Documents": 2.0000,
+					"Citations": 108.0000,
+					"Norm. citations": 7.6747
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 54.0000,
+					"Avg. norm. citations": 3.8374
+				}
+			},
+			{
+				"id": 94,
+				"label": "computers in biology and medicine",
+				"x": 0.3212,
+				"y": -0.8285,
+				"cluster": 9,
+				"weights": {
+					"Links": 1.0000,
+					"Documents": 5.0000,
+					"Citations": 111.0000,
+					"Norm. citations": 7.8879
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 22.2000,
+					"Avg. norm. citations": 1.5776
+				}
+			},
+			{
+				"id": 105,
+				"label": "diagnostics",
+				"x": 0.7069,
+				"y": -0.1699,
+				"cluster": 4,
+				"weights": {
+					"Links": 1.0000,
+					"Documents": 5.0000,
+					"Citations": 92.0000,
+					"Norm. citations": 6.5377
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 18.4000,
+					"Avg. norm. citations": 1.3075
+				}
+			},
+			{
+				"id": 110,
+				"label": "electronics (switzerland)",
+				"x": 0.7005,
+				"y": -0.2145,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Documents": 4.0000,
+					"Citations": 83.0000,
+					"Norm. citations": 5.8982
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 20.7500,
+					"Avg. norm. citations": 1.4745
+				}
+			},
+			{
+				"id": 131,
+				"label": "future generation computer systems",
+				"x": -0.8967,
+				"y": -0.0356,
+				"cluster": 10,
+				"weights": {
+					"Links": 1.0000,
+					"Documents": 3.0000,
+					"Citations": 206.0000,
+					"Norm. citations": 14.6388
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 68.6667,
+					"Avg. norm. citations": 4.8796
+				}
+			},
+			{
+				"id": 143,
+				"label": "iceis 2020 - proceedings of the 22nd international conference on enterprise information systems",
+				"x": -0.7015,
+				"y": -0.4052,
+				"cluster": 6,
+				"weights": {
+					"Links": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.2132
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 3.0000,
+					"Avg. norm. citations": 0.2132
+				}
+			},
+			{
+				"id": 144,
+				"label": "ieee access",
+				"x": 0.7093,
+				"y": -0.2037,
+				"cluster": 1,
+				"weights": {
+					"Links": 3.0000,
+					"Documents": 29.0000,
+					"Citations": 695.0000,
+					"Norm. citations": 49.3883
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 23.9655,
+					"Avg. norm. citations": 1.7030
+				}
+			},
+			{
+				"id": 159,
+				"label": "informatics in medicine unlocked",
+				"x": 0.6987,
+				"y": -0.2166,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Documents": 6.0000,
+					"Citations": 82.0000,
+					"Norm. citations": 5.8271
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 13.6667,
+					"Avg. norm. citations": 0.9712
+				}
+			},
+			{
+				"id": 162,
+				"label": "ingenierie des systemes d'information",
+				"x": -0.5197,
+				"y": 0.5182,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Documents": 2.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.2842
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 2.0000,
+					"Avg. norm. citations": 0.1421
+				}
+			},
+			{
+				"id": 167,
+				"label": "international journal of advanced computer science and applications",
+				"x": -0.8967,
+				"y": -0.0354,
+				"cluster": 10,
+				"weights": {
+					"Links": 1.0000,
+					"Documents": 8.0000,
+					"Citations": 25.0000,
+					"Norm. citations": 1.7766
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 3.1250,
+					"Avg. norm. citations": 0.2221
+				}
+			},
+			{
+				"id": 169,
+				"label": "international journal of advanced science and technology",
+				"x": -0.7033,
+				"y": -0.4058,
+				"cluster": 6,
+				"weights": {
+					"Links": 1.0000,
+					"Documents": 2.0000,
+					"Citations": 19.0000,
+					"Norm. citations": 1.3502
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 9.5000,
+					"Avg. norm. citations": 0.6751
+				}
+			},
+			{
+				"id": 175,
+				"label": "international journal of computer assisted radiology and surgery",
+				"x": 0.7052,
+				"y": -0.1701,
+				"cluster": 4,
+				"weights": {
+					"Links": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 66.0000,
+					"Norm. citations": 4.6901
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 66.0000,
+					"Avg. norm. citations": 4.6901
+				}
+			},
+			{
+				"id": 206,
+				"label": "journal of applied clinical medical physics",
+				"x": 0.3990,
+				"y": 0.7743,
+				"cluster": 12,
+				"weights": {
+					"Links": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 0.5685
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 8.0000,
+					"Avg. norm. citations": 0.5685
+				}
+			},
+			{
+				"id": 220,
+				"label": "journal of imaging",
+				"x": 0.7065,
+				"y": -0.1740,
+				"cluster": 4,
+				"weights": {
+					"Links": 3.0000,
+					"Documents": 2.0000,
+					"Citations": 27.0000,
+					"Norm. citations": 1.9187
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 13.5000,
+					"Avg. norm. citations": 0.9593
+				}
+			},
+			{
+				"id": 242,
+				"label": "journal of theoretical and applied information technology",
+				"x": -0.0801,
+				"y": -0.3477,
+				"cluster": 5,
+				"weights": {
+					"Links": 2.0000,
+					"Documents": 3.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 0.6396
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 3.0000,
+					"Avg. norm. citations": 0.2132
+				}
+			},
+			{
+				"id": 244,
+				"label": "journal of x-ray science and technology",
+				"x": 0.1866,
+				"y": 0.4446,
+				"cluster": 11,
+				"weights": {
+					"Links": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 0.6396
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 9.0000,
+					"Avg. norm. citations": 0.6396
+				}
+			},
+			{
+				"id": 259,
+				"label": "medical physics",
+				"x": 0.3995,
+				"y": 0.7744,
+				"cluster": 12,
+				"weights": {
+					"Links": 1.0000,
+					"Documents": 4.0000,
+					"Citations": 82.0000,
+					"Norm. citations": 5.8271
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 20.5000,
+					"Avg. norm. citations": 1.4568
+				}
+			},
+			{
+				"id": 264,
+				"label": "molecular psychiatry",
+				"x": 0.0357,
+				"y": 0.9006,
+				"cluster": 13,
+				"weights": {
+					"Links": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 50.0000,
+					"Norm. citations": 3.5531
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 50.0000,
+					"Avg. norm. citations": 3.5531
+				}
+			},
+			{
+				"id": 266,
+				"label": "multimedia tools and applications",
+				"x": -0.5485,
+				"y": 0.4870,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Documents": 5.0000,
+					"Citations": 118.0000,
+					"Norm. citations": 8.3853
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 23.6000,
+					"Avg. norm. citations": 1.6771
+				}
+			},
+			{
+				"id": 273,
+				"label": "neurocomputing",
+				"x": 0.7194,
+				"y": -0.2134,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Documents": 4.0000,
+					"Citations": 148.0000,
+					"Norm. citations": 10.5172
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 37.0000,
+					"Avg. norm. citations": 2.6293
+				}
+			},
+			{
+				"id": 275,
+				"label": "neutrosophic sets and systems",
+				"x": -0.5301,
+				"y": 0.5071,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 20.0000,
+					"Norm. citations": 1.4212
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 20.0000,
+					"Avg. norm. citations": 1.4212
+				}
+			},
+			{
+				"id": 280,
+				"label": "pattern recognition letters",
+				"x": -0.0641,
+				"y": -0.8658,
+				"cluster": 14,
+				"weights": {
+					"Links": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 23.0000,
+					"Norm. citations": 1.6344
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 23.0000,
+					"Avg. norm. citations": 1.6344
+				}
+			},
+			{
+				"id": 293,
+				"label": "plos one",
+				"x": -0.0807,
+				"y": -0.3471,
+				"cluster": 5,
+				"weights": {
+					"Links": 1.0000,
+					"Documents": 6.0000,
+					"Citations": 225.0000,
+					"Norm. citations": 15.9890
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 37.5000,
+					"Avg. norm. citations": 2.6648
+				}
+			},
+			{
+				"id": 298,
+				"label": "procedia computer science",
+				"x": -0.7025,
+				"y": -0.4056,
+				"cluster": 6,
+				"weights": {
+					"Links": 2.0000,
+					"Documents": 6.0000,
+					"Citations": 33.0000,
+					"Norm. citations": 2.3451
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 5.5000,
+					"Avg. norm. citations": 0.3908
+				}
+			},
+			{
+				"id": 330,
+				"label": "reviews in cardiovascular medicine",
+				"x": 0.3218,
+				"y": -0.8286,
+				"cluster": 9,
+				"weights": {
+					"Links": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 17.0000,
+					"Norm. citations": 1.2081
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 17.0000,
+					"Avg. norm. citations": 1.2081
+				}
+			},
+			{
+				"id": 334,
+				"label": "scientific african",
+				"x": -0.4945,
+				"y": -0.7783,
+				"cluster": 7,
+				"weights": {
+					"Links": 1.0000,
+					"Documents": 2.0000,
+					"Citations": 31.0000,
+					"Norm. citations": 2.2029
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 15.5000,
+					"Avg. norm. citations": 1.1015
+				}
+			},
+			{
+				"id": 336,
+				"label": "sensors (switzerland)",
+				"x": 0.7211,
+				"y": -0.2154,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Documents": 8.0000,
+					"Citations": 156.0000,
+					"Norm. citations": 11.0857
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 19.5000,
+					"Avg. norm. citations": 1.3857
+				}
+			},
+			{
+				"id": 349,
+				"label": "sustainability (switzerland)",
+				"x": -0.0795,
+				"y": -0.3484,
+				"cluster": 5,
+				"weights": {
+					"Links": 1.0000,
+					"Documents": 2.0000,
+					"Citations": 48.0000,
+					"Norm. citations": 3.4110
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 24.0000,
+					"Avg. norm. citations": 1.7055
+				}
+			},
+			{
+				"id": 351,
+				"label": "symmetry",
+				"x": -0.5310,
+				"y": 0.5062,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Documents": 3.0000,
+					"Citations": 337.0000,
+					"Norm. citations": 23.9480
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 112.3333,
+					"Avg. norm. citations": 7.9827
+				}
+			},
+			{
+				"id": 357,
+				"label": "translational psychiatry",
+				"x": 0.0353,
+				"y": 0.9003,
+				"cluster": 13,
+				"weights": {
+					"Links": 1.0000,
+					"Documents": 1.0000,
+					"Citations": 16.0000,
+					"Norm. citations": 1.1370
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 16.0000,
+					"Avg. norm. citations": 1.1370
+				}
+			},
+			{
+				"id": 362,
+				"label": "viruses",
+				"x": -0.5422,
+				"y": 0.4941,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Documents": 1.0000,
+					"Citations": 98.0000,
+					"Norm. citations": 6.9641
+				},
+				"scores": {
+					"Avg. pub. year": 2020.0000,
+					"Avg. citations": 98.0000,
+					"Avg. norm. citations": 6.9641
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 20,
+				"target_id": 334
+			},
+			{
+				"source_id": 34,
+				"target_id": 244
+			},
+			{
+				"source_id": 58,
+				"target_id": 266
+			},
+			{
+				"source_id": 64,
+				"target_id": 85
+			},
+			{
+				"source_id": 78,
+				"target_id": 280
+			},
+			{
+				"source_id": 92,
+				"target_id": 162
+			},
+			{
+				"source_id": 92,
+				"target_id": 351
+			},
+			{
+				"source_id": 94,
+				"target_id": 330
+			},
+			{
+				"source_id": 105,
+				"target_id": 220
+			},
+			{
+				"source_id": 110,
+				"target_id": 144
+			},
+			{
+				"source_id": 110,
+				"target_id": 159
+			},
+			{
+				"source_id": 131,
+				"target_id": 167
+			},
+			{
+				"source_id": 143,
+				"target_id": 298
+			},
+			{
+				"source_id": 144,
+				"target_id": 220
+			},
+			{
+				"source_id": 144,
+				"target_id": 273
+			},
+			{
+				"source_id": 169,
+				"target_id": 298
+			},
+			{
+				"source_id": 175,
+				"target_id": 220
+			},
+			{
+				"source_id": 206,
+				"target_id": 259
+			},
+			{
+				"source_id": 242,
+				"target_id": 293
+			},
+			{
+				"source_id": 242,
+				"target_id": 349
+			},
+			{
+				"source_id": 264,
+				"target_id": 357
+			},
+			{
+				"source_id": 266,
+				"target_id": 362
+			},
+			{
+				"source_id": 273,
+				"target_id": 336
+			},
+			{
+				"source_id": 275,
+				"target_id": 351
+			},
+			{
+				"source_id": 351,
+				"target_id": 362
+			}
+		]
+	}
+}
