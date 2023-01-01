@@ -44428,7 +44428,7 @@ correlation;aptitude;2-s2.0-85082511150;2020;True;True;True;True
 virus;taxon;2-s2.0-85079478109;2020;True;False;True;False
 water quality;quality;2-s2.0-85091213249;2020;True;False;True;True
 mammography;process;2-s2.0-85106299573;2020;True;True;True;True
-pipeline;n;2-s2.0-85105698875;2020;True;True;True;True
+pipeline;method;2-s2.0-85105698875;2020;True;True;True;True
 similarity measure;metric;2-s2.0-85092199892;2020;True;False;True;True
 neurological disorder;class of disease;2-s2.0-85097220687;2020;True;True;True;True
 medical diagnosis;diagnosis;2-s2.0-85095773914;2020;True;False;True;False
@@ -44450,16 +44450,16 @@ medical diagnosis;diagnosis;2-s2.0-85098629308;2020;False;True;False;False
 Gabor filter;integral transform;2-s2.0-85091139230;2020;False;True;False;False
 neurological disorder;class of disease;2-s2.0-85093102517;2020;False;True;False;False
 selection;intentional human activity;2-s2.0-85088210210;2020;False;True;False;False
-pipeline;n;2-s2.0-85086371518;2020;False;True;False;True
+pipeline;method;2-s2.0-85086371518;2020;False;True;False;True
 selection;intentional human activity;2-s2.0-85100597870;2020;False;False;False;False
 cancer diagnosis;procedure;2-s2.0-85093818764;2020;False;True;False;False
 neurological disorder;class of disease;2-s2.0-85086891372;2020;False;True;False;True
 medical diagnosis;diagnosis;2-s2.0-85080886096;2020;False;True;False;False
-pipeline;n;2-s2.0-85105458487;2020;False;False;False;False
+pipeline;method;2-s2.0-85105458487;2020;False;False;False;False
 neurological disorder;class of disease;2-s2.0-85089162485;2020;False;True;False;True
 health system;type of system;2-s2.0-85084957107;2020;False;False;False;False
 cancer diagnosis;procedure;2-s2.0-85086009821;2020;False;True;False;False
-pipeline;n;2-s2.0-85085507634;2020;False;True;True;False
+pipeline;method;2-s2.0-85085507634;2020;False;True;True;False
 mammography;process;2-s2.0-85100440642;2021;True;True;True;True
 mammography;process;2-s2.0-85096024503;2021;True;True;False;True
 mammography;process;2-s2.0-85097641343;2021;True;False;False;True
@@ -44473,7 +44473,7 @@ high-throughput sequencing;genetic technique;2-s2.0-85111604788;2021;False;False
 virus;taxon;2-s2.0-85115870134;2021;False;False;True;False
 selection;intentional human activity;2-s2.0-85104637388;2021;False;True;True;False
 Signal reconstruction;applied science;2-s2.0-85103337183;2021;False;True;True;True
-pipeline;n;2-s2.0-85090316629;2021;False;True;False;True
+pipeline;method;2-s2.0-85090316629;2021;False;True;False;True
 mammography;process;2-s2.0-85117385188;2021;False;False;True;True
 neurological disorder;class of disease;2-s2.0-85101815798;2021;False;False;True;True
 correlation;aptitude;2-s2.0-85108999877;2021;False;True;False;True
@@ -44500,9 +44500,9 @@ quality of service;quality;2-s2.0-85124377427;2021;False;True;False;False
 lung disease;class of disease;2-s2.0-85123757733;2021;False;False;False;False
 statistics;academic discipline;2-s2.0-85116419681;2021;False;False;False;False
 normal distribution;stable distribution;2-s2.0-85115907281;2021;False;True;True;True
-pipeline;n;2-s2.0-85112200242;2021;False;False;False;False
+pipeline;method;2-s2.0-85112200242;2021;False;False;False;False
 lung disease;class of disease;2-s2.0-85119416149;2021;False;False;False;False
-pipeline;n;2-s2.0-85112369253;2021;False;True;True;True
+pipeline;method;2-s2.0-85112369253;2021;False;True;True;True
 selection;intentional human activity;2-s2.0-85127076238;2021;False;True;False;False
 health system;type of system;2-s2.0-85127026285;2021;False;False;False;False
 statistics;academic discipline;2-s2.0-85126765234;2021;False;True;False;False
@@ -44515,7 +44515,7 @@ Signal reconstruction;applied science;2-s2.0-85112735102;2021;False;False;False;
 normal distribution;stable distribution;2-s2.0-85110431663;2021;False;False;True;True
 Signal reconstruction;applied science;2-s2.0-85105959069;2021;False;False;False;False
 statistics;academic discipline;2-s2.0-85105868610;2021;False;False;True;False
-pipeline;n;2-s2.0-85122494522;2022;True;True;True;True
+pipeline;method;2-s2.0-85122494522;2022;True;True;True;True
 Signal reconstruction;applied science;2-s2.0-85122494522;2022;True;True;True;True
 mathematical analysis;academic discipline;2-s2.0-85124830663;2022;False;True;True;True
 Signal reconstruction;applied science;2-s2.0-85124669235;2022;False;False;False;True
@@ -44531,12 +44531,12 @@ mathematical analysis;academic discipline;2-s2.0-85120673667;2022;False;True;Fal
 cancer diagnosis;procedure;2-s2.0-85115987130;2022;False;True;True;True
 similarity measure;metric;2-s2.0-85113856766;2022;False;True;False;True
 health system;type of system;2-s2.0-85123885133;2022;False;True;False;True
-pipeline;n;2-s2.0-85125009950;2022;False;False;True;True
+pipeline;method;2-s2.0-85125009950;2022;False;False;True;True
 virus;taxon;2-s2.0-85122888445;2022;False;False;False;True
 lung disease;class of disease;2-s2.0-85130224100;2022;False;False;True;True
 mathematical analysis;academic discipline;2-s2.0-85127503177;2022;False;True;True;True
 neurological disorder;class of disease;2-s2.0-85123749598;2022;False;False;True;True
-pipeline;n;2-s2.0-85122314259;2022;False;True;True;True
+pipeline;method;2-s2.0-85122314259;2022;False;True;True;True
 high-throughput sequencing;genetic technique;2-s2.0-85137195292;2022;False;False;True;True
 neurological disorder;class of disease;2-s2.0-85134017530;2022;False;True;False;True
 correlation;aptitude;2-s2.0-85129599373;2022;False;True;False;True
@@ -44556,7 +44556,7 @@ Gabor filter;integral transform;2-s2.0-85137036627;2022;False;True;True;True
 correlation;aptitude;2-s2.0-85135748457;2022;False;True;True;True
 Gabor filter;integral transform;2-s2.0-85135131663;2022;False;False;False;True
 Gabor filter;integral transform;2-s2.0-85135064194;2022;False;True;True;True
-pipeline;n;2-s2.0-85134511105;2022;False;False;True;True
+pipeline;method;2-s2.0-85134511105;2022;False;False;True;True
 health system;type of system;2-s2.0-85134264302;2022;False;True;False;False
 medical diagnosis;diagnosis;2-s2.0-85134228404;2022;False;True;False;False
 lung disease;class of disease;2-s2.0-85134217731;2022;False;True;False;False
@@ -44564,7 +44564,7 @@ Gabor filter;integral transform;2-s2.0-85133974950;2022;False;True;True;True
 health system;type of system;2-s2.0-85133120142;2022;False;True;True;False
 lung disease;class of disease;2-s2.0-85132451207;2022;False;False;False;True
 quality of service;quality;2-s2.0-85131397290;2022;False;False;True;True
-pipeline;n;2-s2.0-85131066859;2022;False;True;False;True
+pipeline;method;2-s2.0-85131066859;2022;False;True;False;True
 high-throughput sequencing;genetic technique;2-s2.0-85131047965;2022;False;False;True;False
 Gabor filter;integral transform;2-s2.0-85130207394;2022;False;True;True;True
 Gabor filter;integral transform;2-s2.0-85128801072;2022;False;False;True;True
