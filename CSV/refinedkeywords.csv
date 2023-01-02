@@ -38913,9 +38913,9 @@ functional magnetic resonance imaging;process;2-s2.0-85093870694;2020;False;True
 functional magnetic resonance imaging;process;2-s2.0-85111912053;2021;False;False;True;False
 functional magnetic resonance imaging;process;2-s2.0-85134181253;2022;False;True;True;False
 functional magnetic resonance imaging;process;2-s2.0-85065246536;2019;False;False;True;True
-interferon gamma;protein family;2-s2.0-85088794500;2020;True;False;True;True
-interferon gamma;protein family;2-s2.0-85089491588;2020;False;False;True;True
-interferon gamma;protein family;2-s2.0-85104715107;2021;False;False;True;True
+Interferon gamma;protein family;2-s2.0-85088794500;2020;True;False;True;True
+Interferon gamma;protein family;2-s2.0-85089491588;2020;False;False;True;True
+Interferon gamma;protein family;2-s2.0-85104715107;2021;False;False;True;True
 image analysis;inquiry;2-s2.0-85122404489;2021;False;True;True;True
 image analysis;inquiry;2-s2.0-85135488275;2022;False;False;False;False
 image analysis;inquiry;2-s2.0-85125938153;2022;False;True;False;True
@@ -40993,7 +40993,7 @@ coronary artery disease;class of disease;2-s2.0-85085520742;2020;True;True;False
 text processing;process;2-s2.0-85082804987;2020;True;True;True;True
 drug design;new product development;2-s2.0-85085147905;2020;True;False;True;True
 comparison;process;2-s2.0-85085494040;2020;True;True;False;False
-discrete wavelet transform;transform;2-s2.0-85077731914;2020;True;True;False;True
+discrete wavelet transform;integral transform;2-s2.0-85077731914;2020;True;True;False;True
 coronary artery disease;class of disease;2-s2.0-85093645755;2020;False;True;False;False
 statistics;academic discipline;2-s2.0-85086905717;2020;False;False;True;True
 noninvasive;procedure;2-s2.0-85075446441;2020;False;True;False;True
@@ -41058,7 +41058,7 @@ noninvasive;procedure;2-s2.0-85100171320;2021;False;True;False;True
 heart disease;class of disease;2-s2.0-85100171320;2021;False;True;False;True
 infectious disease;class of disease;2-s2.0-85121836653;2021;False;True;True;True
 drug design;new product development;2-s2.0-85111604788;2021;False;False;True;True
-discrete wavelet transform;transform;2-s2.0-85105763483;2021;False;True;True;True
+discrete wavelet transform;integral transform;2-s2.0-85105763483;2021;False;True;True;True
 comparison;process;2-s2.0-85105116735;2021;False;False;True;True
 infectious disease;class of disease;2-s2.0-85115870134;2021;False;False;True;False
 infectious disease;class of disease;2-s2.0-85111860579;2021;False;False;True;True
@@ -41066,7 +41066,7 @@ polymerase chain reaction;medical test;2-s2.0-85105504561;2021;False;True;True;T
 statistics;academic discipline;2-s2.0-85106364142;2021;False;True;True;True
 Semantic Web;information system;2-s2.0-85106364142;2021;False;True;True;True
 semi-supervised learning;specialization;2-s2.0-85110619385;2021;False;False;True;False
-discrete wavelet transform;transform;2-s2.0-85103337183;2021;False;True;True;True
+discrete wavelet transform;integral transform;2-s2.0-85103337183;2021;False;True;True;True
 comparison;process;2-s2.0-85117385188;2021;False;False;True;True
 drug design;new product development;2-s2.0-85102738659;2021;False;False;True;False
 cancer staging;medical classification;2-s2.0-85117584569;2021;False;True;True;False
@@ -41074,13 +41074,13 @@ accuracy;measure;2-s2.0-85106858928;2021;False;True;False;True
 cancer staging;medical classification;2-s2.0-85103975061;2021;False;True;False;True
 polymerase chain reaction;medical test;2-s2.0-85108029799;2021;False;True;True;True
 polymerase chain reaction;medical test;2-s2.0-85109057117;2021;False;False;True;False
-discrete wavelet transform;transform;2-s2.0-85102892758;2021;False;True;False;True
+discrete wavelet transform;integral transform;2-s2.0-85102892758;2021;False;True;False;True
 electrocardiogram;medical attribute;2-s2.0-85101176437;2021;False;True;True;True
 text processing;process;2-s2.0-85103681408;2021;False;False;True;False
 drug design;new product development;2-s2.0-85098664554;2021;False;False;False;False
 drug design;new product development;2-s2.0-85120747216;2021;False;True;True;False
 real-time;quality;2-s2.0-85125857540;2021;False;True;True;False
-discrete wavelet transform;transform;2-s2.0-85123854330;2021;False;False;True;False
+discrete wavelet transform;integral transform;2-s2.0-85123854330;2021;False;False;True;False
 sensitivity analysis;process;2-s2.0-85099622090;2021;False;False;True;True
 accuracy;measure;2-s2.0-85097763055;2021;False;False;True;True
 text processing;process;2-s2.0-85118956252;2021;False;False;True;True
@@ -41101,11 +41101,11 @@ medical education;specialization;2-s2.0-85104299603;2021;False;False;True;False
 feature selection;calculation;2-s2.0-85101042950;2021;False;True;True;True
 electrocardiogram;medical attribute;2-s2.0-85115688602;2021;False;True;False;True
 cancer staging;medical classification;2-s2.0-85114998703;2021;False;False;False;True
-discrete wavelet transform;transform;2-s2.0-85112360158;2021;False;True;False;True
+discrete wavelet transform;integral transform;2-s2.0-85112360158;2021;False;True;False;True
 cancer staging;medical classification;2-s2.0-85105123274;2021;False;True;False;True
 motion compensation;compensation;2-s2.0-85103687967;2021;False;True;False;True
 coronary artery disease;class of disease;2-s2.0-85103549682;2021;False;True;False;True
-discrete wavelet transform;transform;2-s2.0-85107199190;2021;False;True;False;False
+discrete wavelet transform;integral transform;2-s2.0-85107199190;2021;False;True;False;False
 polymerase chain reaction;medical test;2-s2.0-85098213735;2021;False;False;False;False
 Semantic Web;information system;2-s2.0-85115907938;2021;False;True;True;True
 electrocardiogram;medical attribute;2-s2.0-85114903760;2021;False;True;False;True
@@ -41139,14 +41139,14 @@ statistics;academic discipline;2-s2.0-85096446079;2021;False;True;False;False
 text processing;process;2-s2.0-85112867411;2021;False;True;False;True
 infectious disease;class of disease;2-s2.0-85115804850;2021;False;False;False;False
 real-time;quality;2-s2.0-85119507862;2021;False;True;False;False
-discrete wavelet transform;transform;2-s2.0-85111388838;2021;False;True;False;False
+discrete wavelet transform;integral transform;2-s2.0-85111388838;2021;False;True;False;False
 sensitivity analysis;process;2-s2.0-85118943646;2021;False;False;False;False
 accuracy;measure;2-s2.0-85102658100;2021;False;True;True;True
 fall;gravitational motion;2-s2.0-85103842815;2021;False;True;False;False
 electrocardiogram;medical attribute;2-s2.0-85099296901;2021;False;True;True;False
 noninvasive;procedure;2-s2.0-85127070179;2021;False;True;False;False
 real-time;quality;2-s2.0-85127026285;2021;False;False;False;False
-discrete wavelet transform;transform;2-s2.0-85125424488;2021;False;True;True;False
+discrete wavelet transform;integral transform;2-s2.0-85125424488;2021;False;True;True;False
 text processing;process;2-s2.0-85125339007;2021;False;False;False;False
 drug design;new product development;2-s2.0-85125332023;2021;False;True;False;False
 electrocardiogram;medical attribute;2-s2.0-85123728650;2021;False;True;False;False
@@ -41157,38 +41157,38 @@ accuracy;measure;2-s2.0-85120859179;2021;False;True;True;True
 medical education;specialization;2-s2.0-85120053889;2021;False;False;True;True
 statistics;academic discipline;2-s2.0-85118546270;2021;False;False;False;True
 real-time;quality;2-s2.0-85115204493;2021;False;True;True;False
-discrete wavelet transform;transform;2-s2.0-85112735102;2021;False;False;False;False
+discrete wavelet transform;integral transform;2-s2.0-85112735102;2021;False;False;False;False
 comparison;process;2-s2.0-85112735102;2021;False;False;False;False
 electrocardiogram;medical attribute;2-s2.0-85112735102;2021;False;False;False;False
 motion compensation;compensation;2-s2.0-85111403333;2021;False;False;False;False
 computer-aided diagnosis;procedure;2-s2.0-85111138156;2021;False;True;False;False
 statistics;academic discipline;2-s2.0-85106373941;2021;False;True;True;True
-discrete wavelet transform;transform;2-s2.0-85105959069;2021;False;False;False;False
+discrete wavelet transform;integral transform;2-s2.0-85105959069;2021;False;False;False;False
 electrocardiogram;medical attribute;2-s2.0-85102407866;2021;False;True;False;True
 text processing;process;2-s2.0-85102066077;2021;False;True;True;True
 medical education;specialization;2-s2.0-85090054948;2021;False;True;False;False
-discrete wavelet transform;transform;2-s2.0-85116431145;2022;True;True;False;True
+discrete wavelet transform;integral transform;2-s2.0-85116431145;2022;True;True;False;True
 chronic condition;class of disease;2-s2.0-85123745975;2022;True;False;True;True
-discrete wavelet transform;transform;2-s2.0-85122494522;2022;True;True;True;True
+discrete wavelet transform;integral transform;2-s2.0-85122494522;2022;True;True;True;True
 chronic condition;class of disease;2-s2.0-85123934462;2022;False;True;True;True
 heart disease;class of disease;2-s2.0-85123934462;2022;False;True;True;True
 heart disease;class of disease;2-s2.0-85128986329;2022;False;False;True;True
 infectious disease;class of disease;2-s2.0-85121576140;2022;False;True;True;True
 coronary artery disease;class of disease;2-s2.0-85124596022;2022;False;False;True;False
-discrete wavelet transform;transform;2-s2.0-85124669235;2022;False;False;False;True
+discrete wavelet transform;integral transform;2-s2.0-85124669235;2022;False;False;False;True
 chronic condition;class of disease;2-s2.0-85132723142;2022;False;True;True;True
 electrocardiogram;medical attribute;2-s2.0-85109634022;2022;False;True;False;True
 real-time;quality;2-s2.0-85123087899;2022;False;True;False;True
 accuracy;measure;2-s2.0-85124105964;2022;False;True;True;True
 cancer staging;medical classification;2-s2.0-85118444125;2022;False;False;True;True
-discrete wavelet transform;transform;2-s2.0-85129411587;2022;False;True;True;True
+discrete wavelet transform;integral transform;2-s2.0-85129411587;2022;False;True;True;True
 heart disease;class of disease;2-s2.0-85126797804;2022;False;True;True;True
 chronic condition;class of disease;2-s2.0-85123469441;2022;False;False;True;True
 drug design;new product development;2-s2.0-85126389254;2022;False;False;False;False
 protein conformation;biomolecular structure;2-s2.0-85126389254;2022;False;False;False;False
 polymerase chain reaction;medical test;2-s2.0-85119822395;2022;False;True;False;True
 motion compensation;compensation;2-s2.0-85110958929;2022;False;True;False;True
-discrete wavelet transform;transform;2-s2.0-85125767777;2022;False;False;True;True
+discrete wavelet transform;integral transform;2-s2.0-85125767777;2022;False;False;True;True
 real-time;quality;2-s2.0-85125767777;2022;False;False;True;True
 cancer staging;medical classification;2-s2.0-85123673524;2022;False;False;True;True
 medical education;specialization;2-s2.0-85122826375;2022;False;True;True;True
@@ -41207,7 +41207,7 @@ infectious disease;class of disease;2-s2.0-85122888445;2022;False;False;False;Tr
 Semantic Web;information system;2-s2.0-85135857854;2022;False;True;True;True
 motion compensation;compensation;2-s2.0-85133120817;2022;False;True;False;False
 real-time;quality;2-s2.0-85130645597;2022;False;False;True;True
-discrete wavelet transform;transform;2-s2.0-85130224100;2022;False;False;True;True
+discrete wavelet transform;integral transform;2-s2.0-85130224100;2022;False;False;True;True
 accuracy;measure;2-s2.0-85127280154;2022;False;False;True;True
 real-time;quality;2-s2.0-85120784897;2022;False;True;True;True
 polymerase chain reaction;medical test;2-s2.0-85116968643;2022;False;True;True;True
@@ -41260,7 +41260,7 @@ polymerase chain reaction;medical test;2-s2.0-85127503768;2022;False;True;False;
 heart disease;class of disease;2-s2.0-85125316052;2022;False;False;True;True
 real-time;quality;2-s2.0-85124430569;2022;False;True;False;False
 accuracy;measure;2-s2.0-85121377009;2022;False;False;True;True
-discrete wavelet transform;transform;2-s2.0-84899008824;2014;True;True;False;True
+discrete wavelet transform;integral transform;2-s2.0-84899008824;2014;True;True;False;True
 coronary artery disease;class of disease;2-s2.0-84884915206;2014;True;True;True;True
 statistics;academic discipline;2-s2.0-85042694325;2018;True;True;True;True
 motion compensation;compensation;2-s2.0-85049506605;2018;True;False;False;False
@@ -41275,7 +41275,7 @@ cancer staging;medical classification;2-s2.0-85071073448;2019;True;True;True;Tru
 sensitivity analysis;process;2-s2.0-85047919026;2018;True;False;True;True
 heart disease;class of disease;2-s2.0-85031709378;2017;True;True;False;False
 adverse effect;side effect;2-s2.0-84941350866;2015;True;True;True;True
-discrete wavelet transform;transform;2-s2.0-84864848314;2012;True;True;False;False
+discrete wavelet transform;integral transform;2-s2.0-84864848314;2012;True;True;False;False
 protein conformation;biomolecular structure;2-s2.0-84877057831;2012;True;True;True;True
 noninvasive;procedure;2-s2.0-85008152019;2017;True;True;False;True
 polymerase chain reaction;medical test;2-s2.0-85075209594;2019;True;True;True;True
@@ -41293,8 +41293,8 @@ polymerase chain reaction;medical test;2-s2.0-84994877198;2016;True;False;True;T
 predictive modelling;representation;2-s2.0-84988815015;2016;True;False;True;False
 predictive modelling;representation;2-s2.0-84876036172;2012;True;True;False;False
 text processing;process;2-s2.0-85065194700;2019;True;True;False;True
-discrete wavelet transform;transform;2-s2.0-85040594931;2017;True;True;False;False
-discrete wavelet transform;transform;2-s2.0-85048529266;2018;True;True;False;False
+discrete wavelet transform;integral transform;2-s2.0-85040594931;2017;True;True;False;False
+discrete wavelet transform;integral transform;2-s2.0-85048529266;2018;True;True;False;False
 feature selection;calculation;2-s2.0-85051766734;2018;True;True;False;True
 medical education;specialization;2-s2.0-85026795132;2017;True;True;False;True
 noninvasive;procedure;2-s2.0-85050867903;2018;False;True;False;False
@@ -41320,7 +41320,7 @@ infectious disease;class of disease;2-s2.0-85026757173;2017;False;False;False;Fa
 infectious disease;class of disease;2-s2.0-85083293289;2019;False;True;False;False
 Semantic Web;information system;2-s2.0-85051273487;2018;False;True;True;False
 medical education;specialization;2-s2.0-85075420054;2019;False;False;True;True
-discrete wavelet transform;transform;2-s2.0-85052335395;2018;False;True;False;True
+discrete wavelet transform;integral transform;2-s2.0-85052335395;2018;False;True;False;True
 noninvasive;procedure;2-s2.0-85015767803;2017;False;True;False;False
 computer-aided diagnosis;procedure;2-s2.0-85019243929;2017;False;True;True;False
 text processing;process;2-s2.0-84966526557;2016;False;False;True;False
@@ -41732,7 +41732,7 @@ image segmentation;separation;2-s2.0-85081206269;2020;True;True;True;True
 rough set;mathematical concept;2-s2.0-85064042476;2020;False;True;False;False
 image segmentation;separation;2-s2.0-85085044696;2020;False;True;False;False
 case-based reasoning;reasoning;2-s2.0-85092042137;2020;False;True;True;True
-discrete wavelet transform;transform;2-s2.0-85089214908;2020;False;False;False;True
+discrete wavelet transform;integral transform;2-s2.0-85089214908;2020;False;False;False;True
 image segmentation;separation;2-s2.0-85100693504;2020;False;True;False;False
 autism spectrum disorder;class of disease;2-s2.0-85092717393;2020;False;True;False;False
 information retrieval;activity;2-s2.0-85094324434;2020;False;False;False;False
@@ -41749,7 +41749,7 @@ logistic regression analysis;inquiry;2-s2.0-85117169525;2021;False;False;True;Tr
 information retrieval;activity;2-s2.0-85112867411;2021;False;True;False;True
 image segmentation;separation;2-s2.0-85121784896;2021;False;False;False;False
 autism spectrum disorder;class of disease;2-s2.0-85118644392;2022;False;True;True;True
-discrete wavelet transform;transform;2-s2.0-85128481533;2022;False;True;True;True
+discrete wavelet transform;integral transform;2-s2.0-85128481533;2022;False;True;True;True
 interpretability;relation;2-s2.0-85122624142;2022;False;True;False;False
 logistic regression analysis;inquiry;2-s2.0-85137381762;2022;False;False;True;False
 heart rate;frequency;2-s2.0-85137307642;2022;False;True;True;True
@@ -41795,7 +41795,7 @@ knowledge acquisition;mental skill;2-s2.0-85075912650;2020;True;True;False;True
 health care costs;economic concept;2-s2.0-85092704142;2020;True;True;True;True
 immune response;biological process;2-s2.0-85078710978;2020;True;False;True;True
 breast cancer classification;nosology;2-s2.0-85092350461;2020;False;True;False;False
-discrete wavelet transform;transform;2-s2.0-85089814880;2020;False;True;False;True
+discrete wavelet transform;integral transform;2-s2.0-85089814880;2020;False;True;False;True
 immune response;biological process;2-s2.0-85083545354;2020;False;False;True;True
 immune response;biological process;2-s2.0-85079067273;2020;False;True;True;False
 tumor biomarkers;aptitude;2-s2.0-85079067273;2020;False;True;True;False
@@ -41859,9 +41859,9 @@ knowledge-based system;information system;2-s2.0-85119840054;2021;True;False;Tru
 early diagnosis;diagnosis;2-s2.0-85096024503;2021;True;True;False;True
 comorbidity;epidemiologic factor;2-s2.0-85112757441;2021;True;True;True;False
 information retrieval;activity;2-s2.0-85104989944;2021;True;False;True;False
-discrete wavelet transform;transform;2-s2.0-85105526991;2021;True;True;True;True
+discrete wavelet transform;integral transform;2-s2.0-85105526991;2021;True;True;True;True
 early diagnosis;diagnosis;2-s2.0-85103145466;2021;True;False;True;True
-discrete wavelet transform;transform;2-s2.0-85103323751;2021;True;True;True;True
+discrete wavelet transform;integral transform;2-s2.0-85103323751;2021;True;True;True;True
 facial recognition system;procedure;2-s2.0-85122266837;2021;True;False;True;True
 heart rate;frequency;2-s2.0-85103953372;2021;True;False;True;False
 medical guideline;policy;2-s2.0-85103953372;2021;True;False;True;False
@@ -41890,7 +41890,7 @@ mutation;biological process;2-s2.0-85117584569;2021;False;True;True;False
 body mass index;clinical sign;2-s2.0-85106864765;2021;False;False;True;True
 comorbidity;epidemiologic factor;2-s2.0-85099233220;2021;False;False;True;True
 	 birth mass;mass;2-s2.0-85118874589;2021;False;True;True;True
-discrete wavelet transform;transform;2-s2.0-85118874589;2021;False;True;True;True
+discrete wavelet transform;integral transform;2-s2.0-85118874589;2021;False;True;True;True
 tumor biomarkers;aptitude;2-s2.0-85119931744;2021;False;False;True;True
 database system;computer system;2-s2.0-85111935865;2021;False;False;True;True
 autism spectrum disorder;class of disease;2-s2.0-85102892758;2021;False;True;False;True
@@ -41911,7 +41911,7 @@ medical guideline;policy;2-s2.0-85111459388;2021;False;False;True;True
 mutation;biological process;2-s2.0-85121993748;2021;False;False;True;True
 case-based reasoning;reasoning;2-s2.0-85120450423;2021;False;False;True;True
 early diagnosis;diagnosis;2-s2.0-85117300086;2021;False;False;True;False
-discrete wavelet transform;transform;2-s2.0-85116265092;2021;False;True;True;True
+discrete wavelet transform;integral transform;2-s2.0-85116265092;2021;False;True;True;True
 immune response;biological process;2-s2.0-85122546225;2021;False;False;True;True
 	 birth mass;mass;2-s2.0-85120570702;2021;False;False;True;True
 heart rate;frequency;2-s2.0-85120570702;2021;False;False;True;True
@@ -41921,7 +41921,7 @@ comorbidity;epidemiologic factor;2-s2.0-85116078472;2021;False;False;True;True
 tumor biomarkers;aptitude;2-s2.0-85105123274;2021;False;True;False;True
 health professional;profession;2-s2.0-85098876064;2021;False;False;False;True
 health system;system;2-s2.0-85098876064;2021;False;False;False;True
-discrete wavelet transform;transform;2-s2.0-85103549682;2021;False;True;False;True
+discrete wavelet transform;integral transform;2-s2.0-85103549682;2021;False;True;False;True
 mutation;biological process;2-s2.0-85098213735;2021;False;False;False;False
 knowledge-based system;information system;2-s2.0-85115907938;2021;False;True;True;True
 artificial intelligence;specialization;2-s2.0-85097223399;2021;False;True;True;True
@@ -42054,7 +42054,7 @@ mutation;biological process;2-s2.0-85061909070;2019;True;False;True;False
 medical guideline;policy;2-s2.0-85061909070;2019;True;False;True;False
 early diagnosis;diagnosis;2-s2.0-85049506605;2018;True;False;False;False
 comorbidity;epidemiologic factor;2-s2.0-27744595524;2005;True;True;False;True
-discrete wavelet transform;transform;2-s2.0-85067489010;2019;True;True;False;False
+discrete wavelet transform;integral transform;2-s2.0-85067489010;2019;True;True;False;False
 body mass index;clinical sign;2-s2.0-84867298235;2012;True;True;False;True
 early diagnosis;diagnosis;2-s2.0-85066068064;2019;True;True;False;False
 knowledge-based system;information system;2-s2.0-84983487369;2015;True;True;False;True
@@ -42289,7 +42289,7 @@ e-health;care;2-s2.0-85095728678;2020;True;False;True;True
 wavelet transform;integral transform;2-s2.0-85100045973;2020;False;False;True;False
 cancer screening;medical test;2-s2.0-85088897885;2020;False;False;True;True
 text classification;information handling;2-s2.0-85080896507;2020;False;True;False;False
-Hilbert–Huang transform;transform;2-s2.0-85089254448;2020;False;True;False;True
+Hilbert–Huang transform;integral transform;2-s2.0-85089254448;2020;False;True;False;True
 classification;information handling;2-s2.0-85093818764;2020;False;True;False;False
 text classification;information handling;2-s2.0-85097946595;2020;False;True;False;True
 text classification;information handling;2-s2.0-85087788972;2020;False;True;True;False
@@ -42304,7 +42304,7 @@ docking;molecular modelling;2-s2.0-85120747216;2021;False;True;True;False
 survival analysis;statistical method;2-s2.0-85109957201;2021;False;True;True;True
 hospitalization;procedure;2-s2.0-85104651888;2021;False;True;True;True
 docking;molecular modelling;2-s2.0-85118569799;2021;False;True;True;True
-Hilbert–Huang transform;transform;2-s2.0-85114700275;2021;False;True;False;True
+Hilbert–Huang transform;integral transform;2-s2.0-85114700275;2021;False;True;False;True
 linear discriminant analysis;statistical method;2-s2.0-85123959112;2021;False;False;False;False
 forecasting model;economic concept;2-s2.0-85098061101;2021;False;True;True;True
 e-health;care;2-s2.0-85109189034;2021;False;True;False;False
@@ -42342,7 +42342,7 @@ hospitalization;procedure;2-s2.0-85027036396;2017;False;True;True;True
 home automation;industry;2-s2.0-84877840123;2013;False;True;False;False
 home automation;industry;2-s2.0-85077560810;2019;False;True;True;True
 brain tumor;class of disease;2-s2.0-85084281565;2019;False;True;False;False
-Hilbert–Huang transform;transform;2-s2.0-85052335395;2018;False;True;False;True
+Hilbert–Huang transform;integral transform;2-s2.0-85052335395;2018;False;True;False;True
 survival analysis;statistical method;2-s2.0-84964727297;2016;False;True;False;False
 text classification;information handling;2-s2.0-85070605647;2019;False;False;False;False
 classification;information handling;2-s2.0-84922896920;2015;False;True;False;True
@@ -42366,7 +42366,7 @@ genetic variability;measurand;2-s2.0-85079478109;2020;True;False;True;False
 biological neural network;neural network;2-s2.0-85079159036;2020;True;True;True;True
 cancer screening;medical test;2-s2.0-85092371496;2020;True;True;False;True
 cancer screening;medical test;2-s2.0-85088267988;2020;True;False;True;True
-Hilbert–Huang transform;transform;2-s2.0-85078510517;2020;True;True;False;True
+Hilbert–Huang transform;integral transform;2-s2.0-85078510517;2020;True;True;False;True
 wavelet transform;integral transform;2-s2.0-85078510517;2020;True;True;False;True
 wearable technology ;consumer electronics;2-s2.0-85097766998;2020;True;True;True;True
 cancer screening;medical test;2-s2.0-85092608643;2020;True;False;True;False
@@ -42374,7 +42374,7 @@ human–computer interaction;academic discipline;2-s2.0-85090025667;2020;True;Tr
 fuzzy neural network;specialization;2-s2.0-85088162708;2020;True;True;False;True
 genetic variability;measurand;2-s2.0-85081650747;2020;True;False;True;True
 fuzzy neural network;specialization;2-s2.0-85082989748;2020;False;True;False;False
-Hilbert–Huang transform;transform;2-s2.0-85089814880;2020;False;True;False;True
+Hilbert–Huang transform;integral transform;2-s2.0-85089814880;2020;False;True;False;True
 process optimization;optimization;2-s2.0-85086905717;2020;False;False;True;True
 genetic variability;measurand;2-s2.0-85096292157;2020;False;True;True;True
 HIV;organisms known by a particular common name;2-s2.0-85083545354;2020;False;False;True;True
@@ -42489,7 +42489,7 @@ disease progression;disease attributes;2-s2.0-85085547126;2022;True;False;True;F
 biological neural network;neural network;2-s2.0-85125307135;2022;True;True;True;True
 human–computer interaction;academic discipline;2-s2.0-85114129743;2022;True;True;True;True
 radial basis function network;specialization;2-s2.0-85116896296;2022;False;True;False;True
-Hilbert–Huang transform;transform;2-s2.0-85114132084;2022;False;True;False;True
+Hilbert–Huang transform;integral transform;2-s2.0-85114132084;2022;False;True;False;True
 genetic variability;measurand;2-s2.0-85124059458;2022;False;True;True;True
 F1 score;accuracy and precision;2-s2.0-85123895614;2022;False;True;False;True
 process optimization;optimization;2-s2.0-85129561923;2022;False;True;True;True
@@ -42518,7 +42518,7 @@ hospitalization;procedure;2-s2.0-85124088813;2022;False;True;True;True
 HIV;organisms known by a particular common name;2-s2.0-85120901915;2022;False;False;True;True
 genetic variability;measurand;2-s2.0-85137694006;2022;False;True;False;True
 F1 score;accuracy and precision;2-s2.0-85138384424;2022;False;True;True;True
-Hilbert–Huang transform;transform;2-s2.0-85134017530;2022;False;True;False;True
+Hilbert–Huang transform;integral transform;2-s2.0-85134017530;2022;False;True;False;True
 human–computer interaction;academic discipline;2-s2.0-85132712964;2022;False;True;False;True
 Medical decision-making;mental process;2-s2.0-85132995626;2022;False;False;True;False
 possibility;aptitude;2-s2.0-85131771625;2022;False;False;True;True
@@ -42574,7 +42574,7 @@ fuzzy neural network;specialization;2-s2.0-85056853631;2019;True;True;False;True
 hospitalization;procedure;2-s2.0-84939183820;2014;True;True;False;False
 possibility;aptitude;2-s2.0-85050530041;2018;True;False;True;True
 forecasting model;economic concept;2-s2.0-85042758779;2017;True;True;False;False
-Hilbert–Huang transform;transform;2-s2.0-85048733859;2018;True;True;False;True
+Hilbert–Huang transform;integral transform;2-s2.0-85048733859;2018;True;True;False;True
 possibility;aptitude;2-s2.0-85040508258;2018;True;False;False;True
 genetic variability;measurand;2-s2.0-85073143787;2019;True;False;True;True
 genetic variability;measurand;2-s2.0-85053714224;2019;True;True;False;False
@@ -42599,7 +42599,7 @@ fuzzy neural network;specialization;2-s2.0-85064412293;2019;False;False;False;Fa
 HIV;organisms known by a particular common name;2-s2.0-85070887429;2019;False;False;True;True
 human–computer interaction;academic discipline;2-s2.0-85055851517;2018;False;True;False;False
 radial basis function network;specialization;2-s2.0-84916199254;2014;False;True;False;False
-Hilbert–Huang transform;transform;2-s2.0-84916199254;2014;False;True;False;False
+Hilbert–Huang transform;integral transform;2-s2.0-84916199254;2014;False;True;False;False
 human–computer interaction;academic discipline;2-s2.0-85083459629;2019;False;True;True;True
 disease progression;disease attributes;2-s2.0-85056846184;2018;False;False;True;True
 HIV;organisms known by a particular common name;2-s2.0-85056846184;2018;False;False;True;True
@@ -42621,7 +42621,7 @@ forecasting model;economic concept;2-s2.0-85100118850;2021;True;True;True;True
 e-health;care;2-s2.0-85107378621;2021;True;False;True;True
 forecasting model;economic concept;2-s2.0-85121460631;2021;False;True;True;True
 home automation;industry;2-s2.0-85131784224;2021;False;False;False;True
-Hilbert–Huang transform;transform;2-s2.0-85134155047;2022;False;True;False;False
+Hilbert–Huang transform;integral transform;2-s2.0-85134155047;2022;False;True;False;False
 e-health;care;2-s2.0-85126852529;2022;False;True;True;True
 forecasting model;economic concept;2-s2.0-85115625750;2022;False;False;False;False
 possibility;aptitude;2-s2.0-85134584927;2022;False;False;False;True
