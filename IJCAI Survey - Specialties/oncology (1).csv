@@ -1,0 +1,623 @@
+Title;EID;DOI;DocumentType;Year;Category
+Dataset of breast ultrasound images;2-s2.0-85076119250;10.1016/j.dib.2019.104863;Data Paper;2020;oncology
+Evaluation of Combined Artificial Intelligence and Radiologist Assessment to Interpret Screening Mammograms;2-s2.0-85081118470;10.1001/jamanetworkopen.2020.0265;Article;2020;oncology
+DeepSeg: deep neural network framework for automatic brain tumor segmentation using magnetic resonance FLAIR images;2-s2.0-85085154586;10.1007/s11548-020-02186-z;Article;2020;oncology
+Deep Multi-Scale 3D Convolutional Neural Network (CNN) for MRI Gliomas Brain Tumor Classification;2-s2.0-85085353964;10.1007/s10278-020-00347-9;Article;2020;oncology
+Machine learning for assisting cervical cancer diagnosis: An ensemble approach;2-s2.0-85077746216;10.1016/j.future.2019.12.033;Article;2020;oncology
+Deep learning-based breast cancer classification through medical imaging modalities: state of the art and research challenges;2-s2.0-85067701488;10.1007/s10462-019-09716-5;Article;2020;oncology
+BreakHis based breast cancer automatic diagnosis using deep learning: Taxonomy, survey and insights;2-s2.0-85073006752;10.1016/j.neucom.2019.09.044;Article;2020;oncology
+Survey of deep learning in breast cancer image analysis;2-s2.0-85071455387;10.1007/s12530-019-09297-2;Review;2020;oncology
+Deep learning-based system for automatic melanoma detection;2-s2.0-85078315682;10.1109/ACCESS.2019.2962812;Article;2020;oncology
+Artificial intelligence (AI) and big data in cancer and precision oncology;2-s2.0-85090332832;10.1016/j.csbj.2020.08.019;Review;2020;oncology
+Cardiac substructure segmentation with deep learning for improved cardiac sparing;2-s2.0-85077871944;10.1002/mp.13940;Article;2020;oncology
+Machine Learning and Network Analyses Reveal Disease Subtypes of Pancreatic Cancer and their Molecular Characteristics;2-s2.0-85078441549;10.1038/s41598-020-58290-2;Article;2020;oncology
+Transfer learning using convolutional neural network architectures for brain tumor classification from MRI images;2-s2.0-85086239075;10.1007/978-3-030-49161-1_17;Conference Paper;2020;oncology
+Fet pet radiomics for differentiating pseudoprogression from early tumor progression in glioma patients postâ€chemoradiation;2-s2.0-85098289221;10.3390/cancers12123835;Article;2020;oncology
+Breast Cancer Image Classification via Multi-Network Features and Dual-Network Orthogonal Low-Rank Learning;2-s2.0-85079764351;10.1109/ACCESS.2020.2964276;Article;2020;oncology
+Deep Learning in Selected Cancersâ€™ Image Analysisâ€”A Survey;2-s2.0-85103857063;10.3390/jimaging6110121;Review;2020;oncology
+Melanoma skin cancer detection using deep learning and classical machine learning techniques: A hybrid approach;2-s2.0-85096595498;10.1109/ATSIP49331.2020.9231544;Conference Paper;2020;oncology
+A Novel Bio-Inspired Deep Learning Approach for Liver Cancer Diagnosis;2-s2.0-85081135693;10.3390/info11020080;Article;2020;oncology
+Breast cancer masses classification using deep convolutional neural networks and transfer learning;2-s2.0-85089507299;10.1007/s11042-020-09518-w;Article;2020;oncology
+Accuracy and efficiency of an artificial intelligence tool when counting breast mitoses;2-s2.0-85087471414;10.1186/s13000-020-00995-z;Article;2020;oncology
+PathME: Pathway based multi-modal sparse autoencoders for clustering of patient-level multi-omics data;2-s2.0-85083631768;10.1186/s12859-020-3465-2;Article;2020;oncology
+Thermogram breast cancer detection: A comparative study of two machine learning techniques;2-s2.0-85081221716;10.3390/app10020551;Article;2020;oncology
+Machine Learning Prediction Models for Diagnosing Hepatocellular Carcinoma with HCV-related Chronic Liver Disease;2-s2.0-85086722836;10.1016/j.cmpb.2020.105551;Article;2020;oncology
+Development of novel ensemble model using stacking learning and evolutionary computation techniques for automated hepatocellular carcinoma detection;2-s2.0-85092371496;10.1016/j.bbe.2020.08.007;Article;2020;oncology
+Leukemia image segmentation using a hybrid histogram-based soft covering rough K-means clustering algorithm;2-s2.0-85078983499;10.3390/electronics9010188;Article;2020;oncology
+GP-GAN: Brain tumor growth prediction using stacked 3D generative adversarial networks from longitudinal MR Images;2-s2.0-85091235764;10.1016/j.neunet.2020.09.004;Article;2020;oncology
+Spectralâ€“spatial features integrated convolution neural network for breast cancer classification;2-s2.0-85089715387;10.3390/s20174747;Article;2020;oncology
+Ensemble deep learning for cervix image selection toward improving reliability in automated cervical precancer screening;2-s2.0-85088267988;10.3390/diagnostics10070451;Article;2020;oncology
+Fairness of Classifiers Across Skin Tones in Dermatology;2-s2.0-85092762846;10.1007/978-3-030-59725-2_31;Conference Paper;2020;oncology
+Designing low-cost, accurate cervical screening strategies that take into account COVID-19: a role for self-sampled HPV typing2;2-s2.0-85092608643;10.1186/s13027-020-00325-4;Note;2020;oncology
+Breast cancer classification with reduced feature set using association rules and support vector machine;2-s2.0-85085262249;10.1007/s13721-020-00237-8;Article;2020;oncology
+Automatic contouring system for cervical cancer using convolutional neural networks;2-s2.0-85092199892;10.1002/mp.14467;Article;2020;oncology
+Classification of Patients with Breast Cancer using Neighbourhood Component Analysis and Supervised Machine Learning Techniques;2-s2.0-85093663489;10.1109/CommNet49926.2020.9199633;Conference Paper;2020;oncology
+A State-of-the-Art Survey on Deep Learning Methods for Detection of Architectural Distortion from Digital Mammography;2-s2.0-85090287534;10.1109/ACCESS.2020.3016223;Article;2020;oncology
+A New Computer-Aided Diagnosis System with Modified Genetic Feature Selection for BI-RADS Classification of Breast Masses in Mammograms;2-s2.0-85085572185;10.1155/2020/7695207;Article;2020;oncology
+Automated recognition of white blood cells using deep learning;2-s2.0-85088874801;10.1007/s13534-020-00168-3;Article;2020;oncology
+Integrating enhanced sparse autoencoder-based artificial neural network technique and softmax regression for medical diagnosis;2-s2.0-85096523004;10.3390/electronics9111963;Article;2020;oncology
+Binary Whale Optimization Algorithm and Binary Moth Flame Optimization with Clustering Algorithms for Clinical Breast Cancer Diagnoses;2-s2.0-85064503641;10.1007/s00357-018-9297-3;Article;2020;oncology
+The penile microbiota of Black South African men: Relationship with human papillomavirus and HIV infection;2-s2.0-85083071567;10.1186/s12866-020-01759-x;Article;2020;oncology
+Automatic breast cancer classification from histopathological images;2-s2.0-85092350461;10.1109/AECT47998.2020.9194194;Conference Paper;2020;oncology
+Objective diagnosis for histopathological images based on machine learning techniques: Classical approaches and new trends;2-s2.0-85094141889;10.3390/math8111863;Review;2020;oncology
+A new deep learning model selection method for colorectal cancer classification;2-s2.0-85085746975;10.4018/IJSIR.2020070105;Article;2020;oncology
+Deep learning-based CAD schemes for the detection and classification of lung nodules from CT images: A survey;2-s2.0-85089359130;10.3233/XST-190660;Article;2020;oncology
+Detection of pathogenic variants with germline genetic testing using deep learning vs standard methods in patients with prostate cancer and melanoma;2-s2.0-85096292157;10.1001/jama.2020.20457;Article;2020;oncology
+A feature-fusion framework of clinical, genomics, and histopathological data for METABRIC breast cancer subtype classification;2-s2.0-85083082824;10.1016/j.asoc.2020.106238;Article;2020;oncology
+Overall assessment of tumor-infiltrating lymphocytes in head and neck squamous cell carcinoma: time to take notice;2-s2.0-85079067273;10.1080/00016489.2020.1720284;Review;2020;oncology
+Detection and Classification of White Blood Cells Through Deep Learning Techniques;2-s2.0-85099070550;10.3991/ijoe.v16i15.15481;Article;2020;oncology
+A New Nano-robots Control Strategy for Killing Cancer Cells Using Quorum Sensing Technique and Directed Particle Swarm Optimization Algorithm;2-s2.0-85064045093;10.1007/978-3-030-14118-9_22;Conference Paper;2020;oncology
+Q-Rank: Reinforcement Learning for Recommending Algorithms to Predict Drug Sensitivity to Cancer Therapy;2-s2.0-85095799475;10.1109/JBHI.2020.3004663;Article;2020;oncology
+Applications of computational methods in biomedical breast cancer imaging diagnostics: A review;2-s2.0-85094620223;10.3390/JIMAGING6100105;Review;2020;oncology
+A mapping study of ensemble classification methods in lung cancer decision support systems;2-s2.0-85087501825;10.1007/s11517-020-02223-8;Review;2020;oncology
+Serum lipidomic biomarkers for non-small cell lung cancer in nonsmoking female patients;2-s2.0-85080130143;10.1016/j.jpba.2020.113220;Article;2020;oncology
+A hybrid data mining classifier for breast cancer prediction;2-s2.0-85080969849;10.1007/978-3-030-36664-3_2;Conference Paper;2020;oncology
+Predicting cervical cancer using machine learning methods;2-s2.0-85089005533;10.14569/IJACSA.2020.0110723;Article;2020;oncology
+Automatic Verification of Beam Apertures for Cervical Cancer Radiation Therapy;2-s2.0-85087721800;10.1016/j.prro.2020.05.001;Article;2020;oncology
+Deep learning-based image evaluation for cervical precancer screening with a smartphone targeting low resource settings - Engineering approach;2-s2.0-85089968637;10.1109/EMBC44109.2020.9175863;Conference Paper;2020;oncology
+Fully Automated Approach for Early Detection of Pigmented Skin Lesion Diagnosis Using ABCD;2-s2.0-85088159975;10.1007/s41666-020-00067-3;Article;2020;oncology
+Comparative study of machine learning algorithms using the breast cancer dataset;2-s2.0-85080951969;10.1007/978-3-030-36664-3_10;Conference Paper;2020;oncology
+Applying Deep Learning for the Detection of Abnormalities inÂ Mammograms;2-s2.0-85077496881;10.1007/978-981-15-1465-4_21;Conference Paper;2020;oncology
+Novel breast cancer classification framework based on deep learning;2-s2.0-85097104899;10.1049/iet-ipr.2020.0122;Article;2020;oncology
+Towards an oversampling method to improve hepatocellular carcinoma early prediction;2-s2.0-85100825851;10.1007/978-3-030-49815-3_16;Book Chapter;2020;oncology
+Skin Lesion Segmentation Using Local Binary Convolution-Deconvolution Architecture;2-s2.0-85099002893;10.5566/IAS.2397;Article;2020;oncology
+Real-time healthcare monitoring system using online machine learning and spark streaming;2-s2.0-85091950027;10.14569/IJACSA.2020.0110977;Article;2020;oncology
+A five-year (2015 to 2019) analysis of studies focused on breast cancer prediction using machine learning: A systematic review and bibliometric analysis;2-s2.0-85088897885;10.4081/jphr.2020.1772;Article;2020;oncology
+Directed jaya algorithm for delivering nano-robots to cancer area;2-s2.0-85088830179;10.1080/10255842.2020.1797698;Article;2020;oncology
+Channel-wise aggregation with self-correction mechanism for multi-center multi-organ nuclei segmentation in whole slide imaging;2-s2.0-85083548525;;Conference Paper;2020;oncology
+Machine learning techniques for breast cancer diagnosis: Literature review;2-s2.0-85080909346;10.1007/978-3-030-36664-3_28;Conference Paper;2020;oncology
+Data preprocessing in knowledge discovery in breast cancer: systematic mapping study;2-s2.0-85080112312;10.1080/21681163.2020.1730974;Article;2020;oncology
+Identification of novel prognostic markers of survival time in high-risk neuroblastoma using gene expression profiles;2-s2.0-85097641534;10.18632/ONCOTARGET.27808;Article;2020;oncology
+GastroNet: Abnormalities Recognition in Gastrointestinal Tract through Endoscopic Imagery using Deep Learning Techniques;2-s2.0-85098700186;10.1109/WINCOM50532.2020.9272456;Conference Paper;2020;oncology
+Improved Whale optimization Algorithm for SVM Model Selection: Application in Medical Diagnosis;2-s2.0-85096543328;10.23919/SoftCOM50211.2020.9238265;Conference Paper;2020;oncology
+Glioblastomas brain Tumor Segmentation using Optimized U-Net based on Deep Fully Convolutional Networks (D-FCNs);2-s2.0-85096533252;10.1109/ATSIP49331.2020.9231681;Conference Paper;2020;oncology
+Segmentation of medical images for the extraction of brain tumors: A comparative study between the Hidden Markov and Deep Learning approaches;2-s2.0-85093828125;10.1109/ISCV49265.2020.9204319;Conference Paper;2020;oncology
+Performance analysis of Machine learning classifiers for predicting diabetes and prostate cancer;2-s2.0-85085489496;10.1109/IRASET48871.2020.9092255;Conference Paper;2020;oncology
+A review of recent progress in deep learning-based methods for MRI brain tumor segmentation;2-s2.0-85085044696;10.1109/ICICS49469.2020.239550;Conference Paper;2020;oncology
+Classical and deep learning paradigms for detection and validation of key genes of risky outcomes of HCV;2-s2.0-85083486821;10.3390/a13030073;Article;2020;oncology
+Deep Learning Methods for Mitosis Detection in Breast Cancer Histopathological Images: A Comprehensive Review;2-s2.0-85087546221;10.1007/978-3-030-50402-1_17;Book Chapter;2020;oncology
+Machine Learning and Image Processing for Breast Cancer: A Systematic Map;2-s2.0-85085473168;10.1007/978-3-030-45697-9_5;Conference Paper;2020;oncology
+Combined Datasets for Breast Cancer Grading Based on Multi-CNN Architectures;2-s2.0-85099272967;10.1109/IPTA50016.2020.9286653;Conference Paper;2020;oncology
+A New Feature Selection Method for Enhancing Cancer Diagnosis Based on DNA Microarray;2-s2.0-85096238509;10.1109/NRSC49500.2020.9235095;Conference Paper;2020;oncology
+A Multi-view Deep Convolutional Neural Network for Reduction of False Positive Findings in Breast Cancer Screening;2-s2.0-85096582706;10.1109/ATSIP49331.2020.9231738;Conference Paper;2020;oncology
+Machine learning for breast cancer classification using K-star algorithm;2-s2.0-85091678490;10.18576/amis/140513;Article;2020;oncology
+Deep Learning Utilization in Beamforming Enhancement for Medical Ultrasound;2-s2.0-85094170239;10.1109/COMPSAC48688.2020.0-175;Conference Paper;2020;oncology
+Accuracy assessment of a deep-learning based segmentation tool over right ventricle short-axis slices;2-s2.0-85114079745;10.1007/978-3-030-49815-3_14;Book Chapter;2020;oncology
+Improved predictive sparse decomposition method with densenet for prediction of lung cancer;2-s2.0-85103323355;10.47839/ijc.19.4.1986;Article;2020;oncology
+Computer-aided diagnosis of melanoma: A review of existing knowledge and strategies;2-s2.0-85091096300;10.2174/1573405615666191210104141;Review;2020;oncology
+Plasma cell identification based on evidential segmentation and supervised learning;2-s2.0-85084933937;10.1504/IJBET.2020.107202;Article;2020;oncology
+Screening test accuracy to improve detection of precancerous lesions of the cervix in women living with HIV: A study protocol;2-s2.0-85098229521;10.1136/bmjopen-2020-037955;Article;2020;oncology
+Moment invariants for cancer classification based on electronâ€“ion interaction pseudo potentials (EIIP);2-s2.0-85091197066;10.1007/s13721-020-00270-7;Article;2020;oncology
+A regression-based model for predicting the best mode of treatment for Egyptian liver cancer patients;2-s2.0-85086371518;10.1007/s13721-020-00251-w;Article;2020;oncology
+A New MIP Model and Machine Learning Approach for Home Health Care: Optimization of Cancer Treatment Process by Chemotherapy;2-s2.0-85100160942;10.1109/GOL49479.2020.9314752;Conference Paper;2020;oncology
+MobileNet Neural Network skin disease detector with Raspberry pi Integrated to Telegram;2-s2.0-85092067068;10.1109/icABCD49160.2020.9183888;Conference Paper;2020;oncology
+Learning Visualizing Genomic Signatures of Cancer Tumors using Deep Neural Networks;2-s2.0-85093818764;10.1109/IJCNN48605.2020.9207368;Conference Paper;2020;oncology
+Creative approaches to global cancer research and control;2-s2.0-85088812105;10.1200/GO.20.00237;Review;2020;oncology
+Transfer Learning Vs. Fine-Tuning in Bilinear CNN for Lung Nodules Classification on CT Scans;2-s2.0-85099390663;10.1145/3430199.3430211;Conference Paper;2020;oncology
+Diagnosis of lung nodules from 2D computer tomography scans;2-s2.0-85087456339;10.4015/S1016237220500179;Article;2020;oncology
+Fine-Tuning Pre-Trained Convolutional Neural Networks for Women Common Cancer Classification using RNA-Seq Gene Expression;2-s2.0-85097566036;10.14569/IJACSA.2020.0111182;Article;2020;oncology
+Macroscopic Skin Lesion Segmentation Using GrabCut;2-s2.0-85097556029;10.1007/978-3-030-63007-2_41;Conference Paper;2020;oncology
+Context-Aware Synergetic Multiplex Network for Multi-organ Segmentation of Cervical Cancer MRI;2-s2.0-85092914104;10.1007/978-3-030-59354-4_1;Conference Paper;2020;oncology
+A Novel Deep Learning Approach for Liver MRI Classification and HCC Detection;2-s2.0-85092903474;10.1007/978-3-030-59830-3_55;Conference Paper;2020;oncology
+Comparing Statistical and Machine Learning Imputation Techniques in Breast Cancer Classification;2-s2.0-85092259110;10.1007/978-3-030-58811-3_5;Conference Paper;2020;oncology
+Deep learning based analysis in oncological studies: Colorectal cancer staging;2-s2.0-85089238619;10.1007/978-3-030-35249-3_73;Conference Paper;2020;oncology
+Deep convolutional neural network with tensorflow and keras to classify skin cancer images;2-s2.0-85088915848;10.12694:/scpe.v21i3.1725;Article;2020;oncology
+Prediction of prostate cancer using ensemble of machine learning techniques;2-s2.0-85083279156;;Article;2020;oncology
+Breast cancer detection in thermal images using extreme learning machine;2-s2.0-85081614195;10.3233/JIFS-179553;Article;2020;oncology
+GAN-Based Synthetic Gastrointestinal Image Generation;2-s2.0-85100006021;10.1109/ICCWAMTIP51612.2020.9317341;Conference Paper;2020;oncology
+A Theoretical Approach for Correlating Proteins to Malignant Diseases;2-s2.0-85095707776;10.3389/fmolb.2020.582593;Article;2020;oncology
+Deep convolutional architecture for block-based classification of small pulmonary nodules;2-s2.0-85097815771;10.23919/EECSI50503.2020.9251305;Conference Paper;2020;oncology
+Contrasting classifiers for the detection of breast cancer using thermographic images;2-s2.0-85092299391;10.1145/3415088.3415121;Conference Paper;2020;oncology
+A survey on deep learning techniques used for breast cancer detection;2-s2.0-85096570946;10.1109/ATSIP49331.2020.9231684;Conference Paper;2020;oncology
+GDD: Geometrical driven diagnosis based on biomedical data;2-s2.0-85085111749;10.1016/j.eij.2020.04.002;Article;2020;oncology
+An efficient Algorithm for medical image classification using Deep Convolutional Network: Case of Cancer Pathology;2-s2.0-85123042397;10.1145/3386723.3387896;Conference Paper;2020;oncology
+A novel computer-aided diagnostic system for early assessment of hepatocellular carcinoma;2-s2.0-85110523752;10.1109/ICPR48806.2021.9413044;Conference Paper;2020;oncology
+MSclassifier: Median-supplement model-based classification tool for automated knowledge discovery;2-s2.0-85099728793;10.12688/f1000research.25501.1;Article;2020;oncology
+Nodule Generation of Lung CT Images Using a 3D Convolutional LSTM Network;2-s2.0-85098132648;10.1007/978-3-030-64559-5_60;Conference Paper;2020;oncology
+Enhanced support vector machine based on metaheuristic search for multiclass problems;2-s2.0-85089749666;10.3844/JCSSP.2020.871.885;Article;2020;oncology
+Graph neural networks to advance anticancer drug design;2-s2.0-85086254453;10.1007/978-3-030-49161-1_19;Conference Paper;2020;oncology
+Stacked Sparse autoencoder for unsupervised features learning in PanCancer miRNA cancer classification;2-s2.0-85086009821;;Conference Paper;2020;oncology
+An Online Framework for Earlier Cancer Diagnosis: Association Rules and Decision Tree Based Approach;2-s2.0-85080897182;10.1007/978-3-030-36674-2_11;Conference Paper;2020;oncology
+Deep and machine learning techniques for medical imaging-based breast cancer: A comprehensive review;2-s2.0-85094877683;10.1016/j.eswa.2020.114161;Review;2021;oncology
+Deep learning techniques for skin lesion analysis and melanoma cancer detection: a survey of state-of-the-art;2-s2.0-85087368605;10.1007/s10462-020-09865-y;Article;2021;oncology
+A Novel Deep-Learning Model for Automatic Detection and Classification of Breast Cancer Using the Transfer-Learning Technique;2-s2.0-85105860894;10.1109/ACCESS.2021.3079204;Article;2021;oncology
+Deep learning for detection and segmentation of artefact and disease instances in gastrointestinal endoscopy;2-s2.0-85101620260;10.1016/j.media.2021.102002;Article;2021;oncology
+A framework for breast cancer classification using Multi-DCNNs;2-s2.0-85100440642;10.1016/j.compbiomed.2021.104245;Article;2021;oncology
+Data augmentation for skin lesion using self-attention based progressive generative adversarial network;2-s2.0-85090417710;10.1016/j.eswa.2020.113922;Article;2021;oncology
+Diagnosis of Cervical Cancer based on Ensemble Deep Learning Network using Colposcopy Images;2-s2.0-85106376862;10.1155/2021/5584004;Article;2021;oncology
+A new transfer learning based approach to magnification dependent and independent classification of breast cancer in histopathological images;2-s2.0-85090572216;10.1016/j.bspc.2020.102192;Article;2021;oncology
+A systematic literature review on obesity: Understanding the causes & consequences of obesity and reviewing various machine learning approaches used to predict obesity;2-s2.0-85112757441;10.1016/j.compbiomed.2021.104754;Review;2021;oncology
+Artificial intelligence assistance significantly improves Gleason grading of prostate biopsies by pathologists;2-s2.0-85089025736;10.1038/s41379-020-0640-y;Article;2021;oncology
+Standalone performance of artificial intelligence for upper GI neoplasia: A meta-analysis;2-s2.0-85095743648;10.1136/gutjnl-2020-321922;Article;2021;oncology
+Breast cancer: One-stage automated detection, segmentation, and classification of digital mammograms using UNet model based-semantic segmentation;2-s2.0-85100643423;10.1016/j.bspc.2021.102481;Article;2021;oncology
+DFD-Net: lung cancer detection from denoised CT scan image using deep learning;2-s2.0-85091840228;10.1007/s11704-020-9050-z;Article;2021;oncology
+Deep learning with backtracking search optimization based skin lesion diagnosis model;2-s2.0-85114555037;10.32604/cmc.2022.018396;Article;2021;oncology
+A deep learning model using data augmentation for detection of architectural distortion in whole and patches of images;2-s2.0-85097641343;10.1016/j.bspc.2020.102366;Article;2021;oncology
+A Novel Approach to Classifying Breast Cancer Histopathology Biopsy Images Using Bilateral Knowledge Distillation and Label Smoothing Regularization;2-s2.0-85118568638;10.1155/2021/4019358;Article;2021;oncology
+Point-of-Care Digital Cytology with Artificial Intelligence for Cervical Cancer Screening in a Resource-Limited Setting;2-s2.0-85103145466;10.1001/jamanetworkopen.2021.1740;Article;2021;oncology
+Article mb-ai-his: Histopathological diagnosis of pediatric medulloblastoma and its subtypes via ai;2-s2.0-85103323751;10.3390/diagnostics11020359;Article;2021;oncology
+Biologically informed deep neural network for prostate cancer discovery;2-s2.0-85115287022;10.1038/s41586-021-03922-4;Article;2021;oncology
+Machine learning in oral squamous cell carcinoma: Current status, clinical concerns and prospects for futureâ€”A systematic review;2-s2.0-85103775829;10.1016/j.artmed.2021.102060;Review;2021;oncology
+Comparison of nomogram with machine learning techniques for prediction of overall survival in patients with tongue cancer;2-s2.0-85094950439;10.1016/j.ijmedinf.2020.104313;Article;2021;oncology
+Conventional machine learning versus deep learning for magnification dependent histopathological breast cancer image classification: A comparative study with visual explanation;2-s2.0-85108867342;10.3390/diagnostics11030528;Article;2021;oncology
+Improvement in automated diagnosis of soft tissues tumors using machine learning;2-s2.0-85099579159;10.26599/BDMA.2020.9020023;Article;2021;oncology
+Machine Learning of Medical Applications Involving Complicated Proteins and Genetic Measurements;2-s2.0-85122850011;10.1155/2021/1094054;Article;2021;oncology
+Reviewing Machine Learning and Image Processing Based Decision-Making Systems for Breast Cancer Imaging;2-s2.0-85100125842;10.1007/s10916-020-01689-1;Article;2021;oncology
+Evaluation of the Risk of Recurrence in Patients with Local Advanced Rectal Tumours by Different Radiomic Analysis Approaches;2-s2.0-85120790538;10.1155/2021/4520450;Article;2021;oncology
+A bilinear convolutional neural network for lung nodules classification on CT images;2-s2.0-85094823558;10.1007/s11548-020-02283-z;Article;2021;oncology
+Deep Learning in Cancer Diagnosis and Prognosis Prediction: A Minireview on Challenges, Recent Trends, and Future Directions;2-s2.0-85118983289;10.1155/2021/9025470;Review;2021;oncology
+Tackling pandemics in smart cities using machine learning architecture;2-s2.0-85116023457;10.3934/mbe.2021418;Article;2021;oncology
+Tumor edge detection in mammography images using quantum and machine learning approaches;2-s2.0-85100950932;10.1007/s00521-020-05518-x;Article;2021;oncology
+Classification techniques in breast cancer diagnosis: A systematic literature review;2-s2.0-85098842973;10.1080/21681163.2020.1811159;Article;2021;oncology
+Machine Learning Algorithms for Breast Cancer Prediction and Diagnosis;2-s2.0-85115220353;10.1016/j.procs.2021.07.062;Conference Paper;2021;oncology
+Performance analysis of cost-sensitive learning methods with application to imbalanced medical data;2-s2.0-85111923392;10.1016/j.imu.2021.100690;Article;2021;oncology
+A novel melanoma prediction model for imbalanced data using optimized SqueezeNet by bald eagle search optimization;2-s2.0-85113649388;10.1016/j.compbiomed.2021.104712;Article;2021;oncology
+Malignant and nonmalignant classification of breast lesions in mammograms using convolutional neural networks;2-s2.0-85111276218;10.1016/j.bspc.2021.102954;Article;2021;oncology
+Automatic semantic segmentation of breast tumors in ultrasound images based on combining fuzzy logic and deep learningâ€”A feasibility study;2-s2.0-85106364142;10.1371/journal.pone.0251899;Article;2021;oncology
+Classification of breast cancer using microarray gene expression data: A survey;2-s2.0-85104637388;10.1016/j.jbi.2021.103764;Review;2021;oncology
+Role of ai and histopathological images in detecting prostate cancer: A survey;2-s2.0-85103631043;10.3390/s21082586;Review;2021;oncology
+Deep Learning Approach for Medical Image Analysis;2-s2.0-85106376551;10.1155/2021/6215281;Article;2021;oncology
+Automated radiology report generation using conditioned transformers;2-s2.0-85104432862;10.1016/j.imu.2021.100557;Article;2021;oncology
+Classification of Hematoxylin and Eosin-Stained Breast Cancer Histology Microscopy Images Using Transfer Learning with EfficientNets;2-s2.0-85104419515;10.1155/2021/5580914;Article;2021;oncology
+Deep Learning Approach for Breast Cancer Diagnosis from Microscopy Biopsy Images;2-s2.0-85111405848;10.1109/MIUCC52538.2021.9447653;Conference Paper;2021;oncology
+Histo-CADx: duo cascaded fusion stages for breast cancer diagnosis from histopathological images;2-s2.0-85109413903;10.7717/peerj-cs.493;Article;2021;oncology
+Breast Cancer Calcifications: Identification Using a Novel Segmentation Approach;2-s2.0-85117385188;10.1155/2021/9905808;Article;2021;oncology
+Clinical applications of artificial intelligence and radiomics in neuro-oncology imaging;2-s2.0-85117584569;10.1186/s13244-021-01102-6;Review;2021;oncology
+An automatic Computer-Aided Diagnosis system based on the Multimodal fusion of Breast Cancer (MF-CAD);2-s2.0-85108999877;10.1016/j.bspc.2021.102914;Article;2021;oncology
+Brain cancer tumor classification from motion-corrected MRI images using convolutional neural network;2-s2.0-85104825321;10.32604/cmc.2021.016907;Article;2021;oncology
+Breast cancer risk prediction in African women using Random Forest Classifier;2-s2.0-85106864765;10.1016/j.ctarc.2021.100396;Article;2021;oncology
+Approaches for the integration of big data in translational medicine: single-cell and computational methods;2-s2.0-85102990132;10.1111/nyas.14544;Review;2021;oncology
+Machine learning prediction of breast cancer survival using age, sex, length of stay, mode of diagnosis and location of cancer;2-s2.0-85107643348;10.1007/s12553-021-00572-4;Article;2021;oncology
+Novel mri-based cad system for early detection of thyroid cancer using multi-input CNN;2-s2.0-85107342872;10.3390/s21113878;Article;2021;oncology
+A multiparametric MRI-based CAD system for accurate diagnosis of bladder cancer staging;2-s2.0-85103975061;10.1016/j.compmedimag.2021.101911;Article;2021;oncology
+MRI-based radiomics for prognosis of pediatric diffuse intrinsic pontine glioma: An international study;2-s2.0-85119104101;10.1093/noajnl/vdab042;Article;2021;oncology
+EpiPanGI Dx: A Cell-free DNA Methylation fingerprint for the early detection of Gastrointestinal cancers;2-s2.0-85119931744;10.1158/1078-0432.CCR-21-1982;Article;2021;oncology
+Automated early breast cancer detection and classification system;2-s2.0-85103874903;10.1007/s11760-021-01882-w;Article;2021;oncology
+Predicting Colorectal Cancer Recurrence and Patient Survival Using Supervised Machine Learning Approach: A South African Population-Based Study;2-s2.0-85111043601;10.3389/fpubh.2021.694306;Article;2021;oncology
+Thyroid cancer computer-aided diagnosis system using mri-based multi-input CNN model;2-s2.0-85107231765;10.1109/ISBI48211.2021.9433841;Conference Paper;2021;oncology
+Interactive classification of whole-slide imaging data for cancer researchers;2-s2.0-85102199442;10.1158/0008-5472.CAN-20-0668;Article;2021;oncology
+An Integrated Approach for Cancer Survival Prediction Using Data Mining Techniques;2-s2.0-85122878864;10.1155/2021/6342226;Article;2021;oncology
+An ensemble of optimal deep learning features for brain tumor classification;2-s2.0-85110513271;10.32604/cmc.2021.018606;Article;2021;oncology
+Structural dynamics and allostery of Rab proteins: Strategies for drug discovery and design;2-s2.0-85098664554;10.1093/bib/bbz161;Review;2021;oncology
+Applications of machine and deep learning to patient-specific IMRT/VMAT quality assurance;2-s2.0-85111631372;10.1002/acm2.13375;Review;2021;oncology
+An improved framework for polyp image segmentation based on SegNet architecture;2-s2.0-85102292125;10.1002/ima.22568;Article;2021;oncology
+Tumor Microenvironment and the Role of Artificial Intelligence in Breast Cancer Detection and Prognosis;2-s2.0-85105782400;10.1016/j.ajpath.2021.01.014;Review;2021;oncology
+A novel deep autoencoder based survival analysis approach for microarray dataset;2-s2.0-85109957201;10.7717/peerj-cs.492;Article;2021;oncology
+Comparison of Current Deep Convolutional Neural Networks for the Segmentation of Breast Masses in Mammograms;2-s2.0-85119413504;10.1109/ACCESS.2021.3127862;Article;2021;oncology
+DIAGNOSIS OF METABOLIC SYNDROME USING MACHINE LEARNING, STATISTICAL AND RISK QUANTIFICATION TECHNIQUES: A SYSTEMATIC LITERATURE REVIEW;2-s2.0-85112844683;10.22452/mjcs.vol34no3.1;Article;2021;oncology
+Enhancing the performance of cancer text classification model based on cancer hallmarks;2-s2.0-85104656151;10.11591/ijai.v10.i2.pp316-323;Article;2021;oncology
+A text mining approach in the classification of free-text cancer pathology reports from the south african national health laboratory services;2-s2.0-85118956252;10.3390/info12110451;Article;2021;oncology
+3PCNNB-Net: Three Parallel CNN Branches for Breast Cancer Classification Through Histopathological Images;2-s2.0-85107949180;10.1007/s40846-021-00620-4;Article;2021;oncology
+A comprehensive computer-assisted diagnosis system for early assessment of renal cancer tumors;2-s2.0-85110516927;10.3390/s21144928;Article;2021;oncology
+A probabilistic-based deep learning model for skin lesion segmentation;2-s2.0-85103836107;10.3390/app11073025;Article;2021;oncology
+ArchGAN: A Generative Adversarial Network for Architectural Distortion Abnormalities in Digital Mammograms;2-s2.0-85127045127;10.1109/ICECET52533.2021.9698751;Conference Paper;2021;oncology
+Breast Fine Needle Cytological Classification Using Deep Hybrid Architectures;2-s2.0-85125258661;10.1007/978-3-030-86960-1_14;Conference Paper;2021;oncology
+Evaluation of Recursive Feature Elimination and LASSO Regularization-based optimized feature selection approaches for cervical cancer prediction;2-s2.0-85123955108;10.1109/MCSoC51149.2021.00056;Conference Paper;2021;oncology
+Pancreatic Cancer Survival Prediction: A Survey of the State-of-the-Art;2-s2.0-85117300086;10.1155/2021/1188414;Review;2021;oncology
+Artificial intelligence and machine learning in oncology: Historical overview of documents indexed in the web of science database;2-s2.0-85117218207;10.14744/ejmo.2021.24856;Article;2021;oncology
+Intelligent Dermatologist Tool for Classifying Multiple Skin Cancer Subtypes by Incorporating Manifold Radiomics Features Categories;2-s2.0-85116265092;10.1155/2021/7192016;Article;2021;oncology
+Data and Machine Learning Fusion Architecture for Cardiovascular Disease Prediction;2-s2.0-85110707849;10.32604/cmc.2021.019013;Article;2021;oncology
+Breast Cancer Identification from Patients' Tweet Streaming Using Machine Learning Solution on Spark;2-s2.0-85101042950;10.1155/2021/6653508;Article;2021;oncology
+Machine Assist for Pediatric Posterior Fossa Tumor Diagnosis: A Multinational Study;2-s2.0-85118598361;10.1093/neuros/nyab311;Article;2021;oncology
+Deep multiple-instance learning for abnormal cell detection in cervical histopathology images;2-s2.0-85116055859;10.1016/j.compbiomed.2021.104890;Article;2021;oncology
+Classification of breast cancer types, sub-types and grade from histopathological images using deep learning technique;2-s2.0-85114998703;10.1007/s12553-021-00592-0;Article;2021;oncology
+Accurate Machine-Learning-Based classification of Leukemia from Blood Smear Images;2-s2.0-85114312472;10.1016/j.clml.2021.06.025;Article;2021;oncology
+Machine learning in precision medicine to preserve privacy via encryption;2-s2.0-85113723162;10.1016/j.patrec.2021.07.004;Article;2021;oncology
+Machine learning for evolutive lymphoma and residual masses recognition in whole body diffusion weighted magnetic resonance images;2-s2.0-85112360158;10.1016/j.cmpb.2021.106320;Article;2021;oncology
+Artificial intelligence grading of breast cancer: a promising method to refine prognostic classification for management precision;2-s2.0-85105123274;10.1111/his.14354;Article;2021;oncology
+A cad system for accurate diagnosis of bladder cancer staging using a multiparametric MRI;2-s2.0-85107177843;10.1109/ISBI48211.2021.9434097;Conference Paper;2021;oncology
+Quantifying inter-fraction cardiac substructure displacement during radiotherapy via magnetic resonance imaging guidance;2-s2.0-85104358906;10.1016/j.phro.2021.03.005;Article;2021;oncology
+A novel coupled reaction-diffusion system for explainable gene expression profiling;2-s2.0-85102683788;10.3390/s21062190;Article;2021;oncology
+Advancing global equity in cancer genomics â€“ challenges and opportunities in Sub-Saharan Africa;2-s2.0-85098213735;10.1016/j.gde.2020.11.006;Review;2021;oncology
+Machine Learning Augmented Breast Tumors Classification using Magnetic Resonance Imaging Histograms;2-s2.0-85125420057;10.14569/IJACSA.2021.0121201;Article;2021;oncology
+Breast Cancer Prediction and Diagnosis through a New Approach based on Majority Voting Ensemble Classifier;2-s2.0-85115273055;10.1016/j.procs.2021.07.061;Conference Paper;2021;oncology
+Computer-aided diagnosis for spitzoid lesions classification using artificial intelligence techniques;2-s2.0-85097223399;10.4018/IJHISI.2021010102;Article;2021;oncology
+Breast Cancer Classification from Histopathological Images with Separable Convolutional Neural Network and Parametric Rectified Linear Unit;2-s2.0-85092075075;10.1007/978-3-030-58669-0_34;Conference Paper;2021;oncology
+Identifying regions of interest in whole slide images of renal cell carcinoma;2-s2.0-85116218847;10.1007/s42600-021-00178-9;Article;2021;oncology
+Use of Machine Learning and Statistical Algorithms to Predict Hospital Length of Stay Following Colorectal Cancer Resection: A South African Pilot Study;2-s2.0-85117169525;10.3389/fonc.2021.644045;Article;2021;oncology
+Classifying lymphoma and tuberculosis case reports using machine learning algorithms;2-s2.0-85116616233;10.11591/eei.v10i5.3132;Article;2021;oncology
+Glioma-Targeted Therapeutics: Computer-Aided Drug Design Prospective;2-s2.0-85116049498;10.1007/s10930-021-10021-w;Review;2021;oncology
+Deep learning guided by an ontology for medical images classification using a multimodal fusion;2-s2.0-85112350070;10.1109/ICOTEN52080.2021.9493469;Conference Paper;2021;oncology
+18FDG positron emission tomography mining for metabolic imaging biomarkers of radiation-induced xerostomia in patients with oropharyngeal cancer;2-s2.0-85108361126;10.1016/j.ctro.2021.05.011;Article;2021;oncology
+A deep clustering method for analyzing uterine cervix images across imaging devices;2-s2.0-85110832092;10.1109/CBMS52027.2021.00085;Conference Paper;2021;oncology
+A multi-scale and multi-level fusion approach for deep learning-based liver lesion diagnosis in magnetic resonance images with visual explanation;2-s2.0-85108891301;10.3390/life11060582;Article;2021;oncology
+Hybrid WCAâ€“SCA and modified FRFCM technique for enhancement and segmentation of brain tumor from magnetic resonance images;2-s2.0-85102086719;10.4015/S1016237221500174;Article;2021;oncology
+A new computer-aided diagnostic (CAD) system for precise identification of renal tumors;2-s2.0-85107176797;10.1109/ISBI48211.2021.9433865;Conference Paper;2021;oncology
+Boosting CNN Learning by Ensemble Image Preprocessing Methods for Cervical Cancer Segmentation;2-s2.0-85107471491;10.1109/SSD52085.2021.9429422;Conference Paper;2021;oncology
+Opposition-based learning tunicate swarm algorithm for biomedical classification;2-s2.0-85126514517;10.1109/ICENCO49852.2021.9698940;Conference Paper;2021;oncology
+Multimodal Melanoma Detection with Federated Learning;2-s2.0-85126008959;10.1109/ICCWAMTIP53232.2021.9674116;Conference Paper;2021;oncology
+Deep learning supported breast cancer classification with multi-modal image fusion;2-s2.0-85125342149;10.1109/ACIT53391.2021.9677099;Conference Paper;2021;oncology
+Detection of precancerous laryngeal leukoplakia using sub-band based cepstral;2-s2.0-85123997252;10.1109/ICNAS53565.2021.9628992;Conference Paper;2021;oncology
+The Role of Linear Discriminant Analysis for Accurate Prediction of Breast Cancer;2-s2.0-85123959112;10.1109/MCSoC51149.2021.00057;Conference Paper;2021;oncology
+Data warehouse for machine learning: Application to breast cancer diagnosis;2-s2.0-85122900301;10.1016/j.procs.2021.12.065;Conference Paper;2021;oncology
+A Selected Deep Learning Cancer Prediction Framework;2-s2.0-85118664694;10.1109/ACCESS.2021.3124889;Article;2021;oncology
+Multi-Tier Ensemble Learning Model with Neighborhood Component Analysis to Predict Health Diseases;2-s2.0-85117517882;10.1109/ACCESS.2021.3117963;Article;2021;oncology
+Early breast cancer diagnostics based on hierarchical machine learning classification for mammography images;2-s2.0-85114671046;10.1080/23311916.2021.1968324;Article;2021;oncology
+Classification of Brain Tumor MRIs Using Deep Learning and Data Augmentation;2-s2.0-85105908879;10.1007/978-981-33-4299-6_6;Conference Paper;2021;oncology
+Deep Learning Hybrid with Binary Dragonfly Feature Selection for the Wisconsin Breast Cancer Dataset;2-s2.0-85103715227;10.14569/IJACSA.2021.0120314;Article;2021;oncology
+Sustainability of artificial intelligence and deep learning algorithms for medical image classification: Case of cancer pathology;2-s2.0-85101119506;10.1007/978-3-030-53440-0_3;Book Chapter;2021;oncology
+Machine learning cancer diagnosis based on medical image size and modalities;2-s2.0-85091706028;10.1007/978-3-030-52067-0_9;Book Chapter;2021;oncology
+Efficient Brain Tumor Detection Based on Deep Learning Models;2-s2.0-85124045614;10.1088/1742-6596/2128/1/012012;Conference Paper;2021;oncology
+Lung Images Segmentation and Classification Based on Deep Learning: A New Automated CNN Approach;2-s2.0-85124039807;10.1088/1742-6596/2128/1/012011;Conference Paper;2021;oncology
+Predicting amplification of MYCN using CpG methylation biomarkers in neuroblastoma;2-s2.0-85119399231;10.2217/fon-2021-0522;Review;2021;oncology
+Corrigendum: Predicting Colorectal Cancer Recurrence and Patient Survival Using Supervised Machine Learning Approach: A South African Population-Based Study (Frontiers in Public Health, (2021), 9, (694306), 10.3389/fpubh.2021.694306);2-s2.0-85119059359;10.3389/fpubh.2021.778749;Erratum;2021;oncology
+Predicting factors influencing survival of breast cancer patients using logistic regression of machine learning;2-s2.0-85122020495;10.1145/3492547.3492590;Conference Paper;2021;oncology
+Long thorax disease classification using convolutional long short term memory;2-s2.0-85119416149;10.1109/ICECCME52200.2021.9591041;Conference Paper;2021;oncology
+Ontology-Driven Approach for Liver MRI Classification and HCC Detection;2-s2.0-85118797051;10.1142/S0218001421600077;Article;2021;oncology
+Object Detection and Classification Using Machine Learning Techniques: A Comparison of Haar Cascades and Neural Networks;2-s2.0-85123749642;10.1145/3484824.3484895;Conference Paper;2021;oncology
+Slicer-DeepSeg: Open-Source Deep Learning Toolkit for Brain Tumour Segmentation;2-s2.0-85114412381;10.1515/cdbme-2021-1007;Article;2021;oncology
+Size Based Characterization of Gold Nano Particles using Machine Learning Approach;2-s2.0-85114962326;10.1109/NANO51122.2021.9514311;Conference Paper;2021;oncology
+Optimized training for convolutional neural network using enhanced grey wolf optimization algorithm;2-s2.0-85112281110;10.31449/inf.v45i5.3497;Article;2021;oncology
+ABCB1 Single Nucleotide Polymorphism Genotypes as Predictors of Paclitaxel-Induced Peripheral Neuropathy in Breast Cancer;2-s2.0-85111063944;10.1089/gtmb.2021.0014;Article;2021;oncology
+Proposed Deep Learning Classification and Ultra-Wide Band Tensors for Localization of Breast Tumor;2-s2.0-85115109905;10.1109/ICECCE52056.2021.9514173;Conference Paper;2021;oncology
+Automated Breast Cancer Detection and Classification Techniques - A survey;2-s2.0-85111399087;10.1109/MIUCC52538.2021.9447655;Conference Paper;2021;oncology
+Experimental investigation on the analysis of three data imputation methods for cervical cancer risk prediction algorithms;2-s2.0-85118955848;;Conference Paper;2021;oncology
+Ensemble models for predicting warts treatment methods;2-s2.0-85104121912;;Article;2021;oncology
+Breast cancer diagnosis using machine learning and ensemble methods on large seer database;2-s2.0-85101366762;;Article;2021;oncology
+Machine Learning in Bioinformatics;2-s2.0-85133099037;10.1002/9781119654803.ch9;Book Chapter;2021;oncology
+Enhanced CNN Architecture for Invasive Ductal Carcinoma Detection in Breast Histopathology Images;2-s2.0-85127076592;10.1109/ICICIS52592.2021.9694114;Conference Paper;2021;oncology
+Deep Learning Enabling Analysis of Exhaled Breath Using Fourier Transform Spectroscopy in the Mid-Infrared;2-s2.0-85127070179;10.1109/ICICIS52592.2021.9694262;Conference Paper;2021;oncology
+Multiclass Colorectal Cancer Histology Images Classification Using Vision Transformers;2-s2.0-85127054321;10.1109/ICICIS52592.2021.9694125;Conference Paper;2021;oncology
+Improved Approach to Feature Dimension Reduction for Efficient Diagnostic Classification of Breast Cancer;2-s2.0-85126892230;10.1109/ICMEAS52683.2021.9692388;Conference Paper;2021;oncology
+Automatic Classification of Breast Cancer Histopathological Images Based on a Discriminatively Fine-Tuned Deep Learning Model;2-s2.0-85126865817;10.1109/ICMEAS52683.2021.9692303;Conference Paper;2021;oncology
+A robust CNN classification of whole slide thyroid carcinoma images;2-s2.0-85126801778;10.1109/JAC-ECC54461.2021.9691433;Conference Paper;2021;oncology
+Towards a Cost-Effective Predictive Mammogram Classification Model for Breast Cancer Diagnosis;2-s2.0-85126567162;10.1109/IMITEC52926.2021.9714520;Conference Paper;2021;oncology
+Multi-Input CNN for Molecular Classification in Breast Cancer;2-s2.0-85125966455;10.1109/ICRAMI52622.2021.9585980;Conference Paper;2021;oncology
+Automated assessment of breast density on mammogram images based on convolutional neural networks;2-s2.0-85125055129;10.1109/AI-CSP52968.2021.9671172;Conference Paper;2021;oncology
+Analysis of Prostate Cancer DNA Sequences Using Bi-direction Long Short Term Memory Model;2-s2.0-85124960939;10.1109/ICECCO53203.2021.9663839;Conference Paper;2021;oncology
+A Survey on Deep Learning Methods for Cancer Diagnosis Using Multimodal Data Fusion;2-s2.0-85124532307;10.1109/EHB52898.2021.9657722;Conference Paper;2021;oncology
+An Advanced Ontology based Deep Learning for Computer-aided Interpretation of Mammography Images;2-s2.0-85121243597;10.14569/IJACSA.2021.0121175;Article;2021;oncology
+Application of radiomics features selection and classification algorithms for medical imaging decision: MRI radiomics breast cancer cases study;2-s2.0-85120859179;10.1016/j.imu.2021.100801;Article;2021;oncology
+Genetic variations analysis for complex brain disease diagnosis using machine learning techniques: opportunities and hurdles;2-s2.0-85117231513;10.7717/PEERJ-CS.697;Article;2021;oncology
+Deep neural networks for melanoma detection from optical standard images using transfer learning;2-s2.0-85116928611;10.1016/j.procs.2021.08.134;Conference Paper;2021;oncology
+Stacking and Chaining of Normalization Methods in Deep Learning-Based Classification of Colorectal Cancer Using Gut Microbiome Data;2-s2.0-85110431663;10.1109/ACCESS.2021.3094529;Article;2021;oncology
+Literature Review: Overview of Cancer Treatment and Prediction Approaches Based on Machine Learning;2-s2.0-85104727505;10.1007/978-3-030-14939-0_10;Book Chapter;2021;oncology
+Thyroid Nodules Recognition in Ultrasound Images Based on ImageNet Top-Performing Deep Convolutional Neural Networks;2-s2.0-85104476708;10.1007/978-3-030-69418-0_28;Conference Paper;2021;oncology
+Shared information-based late fusion for four mammogram views retrieval using data-driven distance selection;2-s2.0-85103032723;;Conference Paper;2021;oncology
+Skin Cancer Prediction and Diagnosis Using Convolutional Neural Network (CNN) Deep Learning Algorithm;2-s2.0-85102649298;10.1007/978-3-030-66840-2_42;Conference Paper;2021;oncology
+White Blood Cells Detection and Classification Using Convolutional Neural Network;2-s2.0-85091484716;10.1007/978-3-030-49932-7_80;Conference Paper;2021;oncology
+Computational Technique Based on Machine Learning and Image Processing for Medical Image Analysis of Breast Cancer Diagnosis;2-s2.0-85126997409;10.1155/2022/1918379;Article;2022;oncology
+Deep hybrid architectures for binary classification of medical breast cancer images;2-s2.0-85125746862;10.1016/j.bspc.2021.103226;Article;2022;oncology
+Optimal deep learning based fusion model for biomedical image classification;2-s2.0-85109388934;10.1111/exsy.12764;Article;2022;oncology
+A Novel Machine-Learning-Based Hybrid CNN Model for Tumor Identification in Medical Image Processing;2-s2.0-85123519084;10.3390/su14031447;Article;2022;oncology
+Effective Image Processing and Segmentation-Based Machine Learning Techniques for Diagnosis of Breast Cancer;2-s2.0-85128416479;10.1155/2022/6841334;Article;2022;oncology
+Ensemble Deep-Learning-Enabled Clinical Decision Support System for Breast Cancer Diagnosis and Classification on Ultrasound Images;2-s2.0-85127029544;10.3390/biology11030439;Article;2022;oncology
+Characterization of abnormalities in breast cancer images using nature-inspired metaheuristic optimized convolutional neural networks model;2-s2.0-85115205390;10.1002/cpe.6629;Article;2022;oncology
+A novel machine learning approach for breast cancer diagnosis;2-s2.0-85116896296;10.1016/j.measurement.2021.110233;Article;2022;oncology
+CU-Net: A New Improved Multi-Input Color U-Net Model for Skin Lesion Semantic Segmentation;2-s2.0-85124249273;10.1109/ACCESS.2022.3148402;Article;2022;oncology
+Skin lesion segmentation and classification using conventional and deep learning based framework;2-s2.0-85121463238;10.32604/cmc.2022.018917;Article;2022;oncology
+Deep learning-based classification of kidney transplant pathology: a retrospective, multicentre, proof-of-concept study;2-s2.0-85120858490;10.1016/S2589-7500(21)00211-9;Article;2022;oncology
+A robust method for collider bias correction in conditional genome-wide association studies;2-s2.0-85124059458;10.1038/s41467-022-28119-9;Article;2022;oncology
+Hybrid deep learning and genetic algorithms approach (HMB-DLGAHA) for the early ultrasound diagnoses of breast cancer;2-s2.0-85123895614;10.1007/s00521-021-06851-5;Article;2022;oncology
+Phyto-mediated synthesis of nanoparticles and their applications on hydrogen generation on NaBH4, biological activities and photodegradation on azo dyes: Development of machine learning model;2-s2.0-85127793025;10.1016/j.fct.2022.112972;Article;2022;oncology
+Improved multi-classification of breast cancer histopathological images using handcrafted features and deep neural network (dense layer);2-s2.0-85125135980;10.1016/j.iswa.2022.200066;Article;2022;oncology
+Glioma classification via MR images radiomics analysis;2-s2.0-85101429804;10.1007/s00371-021-02077-7;Article;2022;oncology
+New Sequential and Parallel Support Vector Machine with Grey Wolf Optimizer for Breast Cancer Diagnosis;2-s2.0-85111528957;10.1016/j.aej.2021.07.024;Article;2022;oncology
+AI-Based Pipeline for Classifying Pediatric Medulloblastoma Using Histopathological and Textural Images;2-s2.0-85124483269;10.3390/life12020232;Article;2022;oncology
+A highly predictive autoantibody-based biomarker panel for prognosis in early-stage NSCLC with potential therapeutic implications;2-s2.0-85118444125;10.1038/s41416-021-01572-x;Article;2022;oncology
+Brain Tumor Auto-Segmentation on Multimodal Imaging Modalities Using Deep Neural Network;2-s2.0-85128628998;10.32604/cmc.2022.025977;Article;2022;oncology
+Early Recognition of Skin Malignancy in Images Based on Convolutional Networks by Using Dynamic System Model;2-s2.0-85125727759;10.1155/2022/1754658;Article;2022;oncology
+A Hybrid Machine-Learning Model Based on Global and Local Learner Algorithms for Diabetes Mellitus Prediction;2-s2.0-85123316564;10.4028/www.scientific.net/JBBBE.54.65;Article;2022;oncology
+On the value of deep learning for diagnosing diabetic retinopathy;2-s2.0-85116986540;10.1007/s12553-021-00606-x;Article;2022;oncology
+A generative adversarial network for synthetization of regions of interest based on digital mammograms;2-s2.0-85128210628;10.1038/s41598-022-09929-9;Article;2022;oncology
+Interventional neurorehabilitation for promoting functional recovery post-craniotomy: a proof-of-concept;2-s2.0-85125214165;10.1038/s41598-022-06766-8;Article;2022;oncology
+Explainability of deep neural networks for MRI analysis of brain tumors;2-s2.0-85128741467;10.1007/s11548-022-02619-x;Article;2022;oncology
+Medical Internet-of-Things Based Breast Cancer Diagnosis Using Hyperparameter-Optimized Neural Networks;2-s2.0-85130961744;10.3390/fi14050153;Article;2022;oncology
+Artificial Intelligence and Machine Learning in Cancer Research: A Systematic and Thematic Analysis of the Top 100 Cited Articles Indexed in Scopus Database;2-s2.0-85131902561;10.1177/10732748221095946;Article;2022;oncology
+Performance Evaluation of Deep Learning Models on Mammogram Classification Using Small Dataset;2-s2.0-85128780039;10.3390/bioengineering9040161;Article;2022;oncology
+Intelligent Deep-Learning-Enabled Decision-Making Medical System for Pancreatic Tumor Classification on CT Images;2-s2.0-85128447783;10.3390/healthcare10040677;Article;2022;oncology
+Deep learning-based convolutional neural network for intramodality brain MRI synthesis;2-s2.0-85122964949;10.1002/acm2.13530;Article;2022;oncology
+Effective ensemble learning approach for large-scale medical data analytics;2-s2.0-85124553363;10.1007/s13198-021-01552-7;Article;2022;oncology
+Data Mining in Employee Healthcare Detection Using Intelligence Techniques for Industry Development;2-s2.0-85123673524;10.1155/2022/6462657;Article;2022;oncology
+Functional coding haplotypes and machine-learning feature elimination identifies predictors of Methotrexate Response in Rheumatoid Arthritis patients;2-s2.0-85123196899;10.1016/j.ebiom.2021.103800;Article;2022;oncology
+Deep learning model for fully automated breast cancer detection system from thermograms;2-s2.0-85122826375;10.1371/journal.pone.0262349;Article;2022;oncology
+Automated Deep Learning Empowered Breast Cancer Diagnosis Using Biomedical Mammogram Images;2-s2.0-85122769222;10.32604/cmc.2022.022322;Article;2022;oncology
+New computer aided diagnostic system using deep neural network and SVM to detect breast cancer in thermography;2-s2.0-85122523709;10.1080/17686733.2021.2025018;Article;2022;oncology
+Intelligent classification model for biomedical pap smear images on iot environment;2-s2.0-85120824910;10.32604/cmc.2022.022701;Article;2022;oncology
+Optimized convolutional neural network models for skin lesion classification;2-s2.0-85115987130;10.32604/cmc.2022.019529;Article;2022;oncology
+Machine learning in head and neck cancer: Importance of a web-based prognostic tool for improved decision making;2-s2.0-85111534568;10.1016/j.oraloncology.2021.105452;Letter;2022;oncology
+Assessment of deep learning algorithms to predict histopathological diagnosis of breast cancer: first Moroccan prospective study on a private dataset;2-s2.0-85125020374;10.1186/s13104-022-05936-1;Article;2022;oncology
+Automatic contouring QA method using a deep learningâ€“based autocontouring system;2-s2.0-85130210110;10.1002/acm2.13647;Article;2022;oncology
+Evaluation of plastic packaged water quality using health risk indices: A case study of sachet and bottled water in Accra, Ghana;2-s2.0-85128207119;10.1016/j.scitotenv.2022.155073;Article;2022;oncology
+Deep learning auto-segmentation of cervical skeletal muscle for sarcopenia analysis in patients with head and neck cancer;2-s2.0-85135274472;10.3389/fonc.2022.930432;Article;2022;oncology
+Lung Cancer Prediction Using Robust Machine Learning and Image Enhancement Methods on Extracted Grayâ€Level Coâ€Occurrence Matrix Features;2-s2.0-85133416249;10.3390/app12136517;Article;2022;oncology
+Detection of Skin Cancer Based on Skin Lesion Images Using Deep Learning;2-s2.0-85133234633;10.3390/healthcare10071183;Article;2022;oncology
+A Hybrid Deep Transfer Learning of CNN-Based LR-PCA for Breast Lesion Diagnosis via Medical Breast Mammograms;2-s2.0-85133133770;10.3390/s22134938;Article;2022;oncology
+A novel end-to-end deep learning approach for cancer detection based on microscopic medical images;2-s2.0-85132216133;10.1016/j.bbe.2022.05.009;Article;2022;oncology
+Breast cancer: Classification of suspicious regions in digital mammograms based on capsule network;2-s2.0-85128271369;10.1016/j.bspc.2022.103696;Article;2022;oncology
+Boosting chameleon swarm algorithm with consumption AEO operator for global optimization and feature selection;2-s2.0-85129505712;10.1016/j.knosys.2022.108743;Article;2022;oncology
+Features processing for random forest optimization in lung nodule localization;2-s2.0-85122615887;10.1016/j.eswa.2021.116489;Article;2022;oncology
+A Novel Data Augmentation-Based Brain Tumor Detection Using Convolutional Neural Network;2-s2.0-85128479683;10.3390/app12083773;Article;2022;oncology
+Machine Learning Model for Predicting Postoperative Survival of Patients with Colorectal Cancer;2-s2.0-85120422043;10.4143/crt.2021.206;Article;2022;oncology
+Accurate skin cancer diagnosis based on convolutional neural networks;2-s2.0-85124675605;10.11591/ijeecs.v25.i3.pp1429-1441;Article;2022;oncology
+A Machine Learning Method for Classification of Cervical Cancer;2-s2.0-85123913678;10.3390/electronics11030463;Article;2022;oncology
+An Ontological Model based on Machine Learning for Predicting Breast Cancer;2-s2.0-85135857854;10.14569/IJACSA.2022.0130715;Article;2022;oncology
+Automation of radiation treatment planning for rectal cancer;2-s2.0-85133628263;10.1002/acm2.13712;Article;2022;oncology
+Improved Metaheuristics with Machine Learning Enabled Medical Decision Support System;2-s2.0-85132345851;10.32604/cmc.2022.028878;Article;2022;oncology
+Statistical Modeling of Some Cancerous Diseases Using the Laplace Transform Approach of Basic Life Testing Issues;2-s2.0-85132079504;10.1155/2022/8964869;Article;2022;oncology
+Computational Intelligence-Based Melanoma Detection and Classification Using Dermoscopic Images;2-s2.0-85131707949;10.1155/2022/2370190;Article;2022;oncology
+An optimized deep learning architecture for breast cancer diagnosis based on improved marine predators algorithm;2-s2.0-85131583536;10.1007/s00521-022-07445-5;Article;2022;oncology
+Deep Multiple Instance Learning for Automatic Breast Cancer Assessment Using Digital Mammography;2-s2.0-85130857451;10.1109/TIM.2022.3177141;Article;2022;oncology
+Meta-heuristics for Feature Selection and Classification in Diagnostic Breast Cancer;2-s2.0-85130106819;10.32604/cmc.2022.029605;Article;2022;oncology
+Deep Transfer Learning-Based Breast Cancer Detection and Classification Model Using Photoacoustic Multimodal Images;2-s2.0-85130057030;10.1155/2022/3714422;Article;2022;oncology
+Deep learning techniques for the fully automated detection and segmentation of brain MRI;2-s2.0-85129418889;10.1109/ICCI54321.2022.9756119;Conference Paper;2022;oncology
+Extreme Learning Bat Algorithm in Brain Tumor Classification;2-s2.0-85129091151;10.32604/iasc.2022.024538;Article;2022;oncology
+Ensemble deep learning system for early breast cancer detection;2-s2.0-85127607597;10.1007/s12065-022-00719-w;Article;2022;oncology
+Improved Machine Learning Method for Intracranial Tumor Detection with Accelerated Particle Swarm Optimization;2-s2.0-85126421607;10.1155/2022/1128217;Article;2022;oncology
+A Deep Convolutional Neural Networks for the Detection of Cervical Cancer Using MRIs;2-s2.0-85126384335;10.1007/978-3-030-94191-8_81;Conference Paper;2022;oncology
+U-Net: A valuable encoder-decoder architecture for liver tumors segmentation in CT images;2-s2.0-85123905492;10.3233/XST-210993;Article;2022;oncology
+Design of Optimal Deep Learning-Based Pancreatic Tumor and Nontumor Classification Model Using Computed Tomography Scans;2-s2.0-85123746676;10.1155/2022/2872461;Article;2022;oncology
+Automatic Segmentation of Head and Neck (H&N) Primary Tumors in PET and CT Images Using 3D-Inception-ResNet Model;2-s2.0-85123435592;10.1007/978-3-030-98253-9_4;Conference Paper;2022;oncology
+Efficient Classification Model for Melanoma Based on Convolutional Neural Networks;2-s2.0-85121830767;10.1007/978-3-030-91103-4_2;Book Chapter;2022;oncology
+Mathematical modeling and machine learning for public health decision-making: The case of breast cancer in Benin;2-s2.0-85121784893;10.3934/mbe.2022080;Article;2022;oncology
+Color-invariant skin lesion semantic segmentation based on modified U-Net deep convolutional neural network;2-s2.0-85135943072;10.1007/s13755-022-00185-9;Article;2022;oncology
+Muscle and adipose tissue segmentations at the third cervical vertebral level in patients with head and neck cancer;2-s2.0-85135264779;10.1038/s41597-022-01587-w;Data Paper;2022;oncology
+An automatic breast computer-aided diagnosis scheme based on a weighted fusion of relevant features and a deep CNN classifier;2-s2.0-85133234756;10.1049/ipr2.12572;Article;2022;oncology
+Efficient deep learning models for brain tumor detection with segmentation and data augmentation techniques;2-s2.0-85134152254;10.1002/cpe.7031;Article;2022;oncology
+Multivariate Analysis of RNA Chemistry Marks Uncovers Epitranscriptomics-Based Biomarker Signature for Adult Diffuse Glioma Diagnostics;2-s2.0-85137114564;10.1021/acs.analchem.2c01526;Article;2022;oncology
+Aquila Optimizer with Bayesian Neural Network for Breast Cancer Detection on Ultrasound Images;2-s2.0-85137843061;10.3390/app12178679;Article;2022;oncology
+Temporomandibular Joint Acoustic Emissions in Children With Juvenile Idiopathic Arthritis Differ From Those in Healthy Children;2-s2.0-85133886729;10.1016/j.joms.2022.05.009;Article;2022;oncology
+Automated deep learning approach for classification of malignant melanoma and benign skin lesions;2-s2.0-85128020443;10.1007/s11042-022-13081-x;Article;2022;oncology
+BREAST CANCER DIAGNOSIS AND PROGNOSIS USING STACKING ENSEMBLE TECHNIQUE;2-s2.0-85136982817;;Article;2022;oncology
+Early detection of digital mammogram using kernel extreme learning machine;2-s2.0-85127753019;10.1002/cpe.6971;Article;2022;oncology
+CoroNet: Deep Neural Network-Based End-to-End Training for Breast Cancer Diagnosis;2-s2.0-85137316146;10.3390/app12147080;Article;2022;oncology
+Robust Gaussian and Nonlinear Hybrid Invariant Clustered Features Aided Approach for Speeded Brain Tumor Diagnosis;2-s2.0-85136213378;10.3390/life12071084;Article;2022;oncology
+Automatic Detection of Liver Cancer Using Hybrid Pre-Trained Models;2-s2.0-85135137345;10.3390/s22145429;Article;2022;oncology
+Measuring the Usability and Quality of Explanations of a Machine Learning Web-Based Tool for Oral Tongue Cancer Prognostication;2-s2.0-85133715129;10.3390/ijerph19148366;Article;2022;oncology
+A Novel Method for Survival Prediction of Hepatocellular Carcinoma Using Feature-Selection Techniques;2-s2.0-85133278451;10.3390/app12136427;Article;2022;oncology
+DETECT-LC: A 3D Deep Learning and Textural Radiomics Computational Model for Lung Cancer Staging and Tumor Phenotyping Based on Computed Tomography Volumes;2-s2.0-85132992175;10.3390/app12136318;Article;2022;oncology
+Ensemble of weighted deep concatenated features for the skin disease classification model using modified long short term memory;2-s2.0-85130276133;10.1016/j.bspc.2022.103729;Article;2022;oncology
+Attention-aware 3D U-Net convolutional neural network for knowledge-based planning 3D dose distribution prediction of head-and-neck cancer;2-s2.0-85129935271;10.1002/acm2.13630;Article;2022;oncology
+Automated Colorectal Polyp Classification Using Deep Neural Networks with Colonoscopy Images;2-s2.0-85117778808;10.1007/s40815-021-01182-y;Article;2022;oncology
+A Survey on Human Cancer Categorization Based on Deep Learning;2-s2.0-85133944990;10.3389/frai.2022.884749;Review;2022;oncology
+Discriminatory Gleason grade group signatures of prostate cancer: An application of machine learning methods;2-s2.0-85131772576;10.1371/journal.pone.0267714;Article;2022;oncology
+Multichannel DenseNet Architecture for Classification of Mammographic Breast Density for Breast Cancer Detection;2-s2.0-85129821686;10.3389/fpubh.2022.885212;Article;2022;oncology
+Application of Machine Learning Approaches in Health Care Sector to the Diagnosis of Breast Cancer;2-s2.0-85129156196;10.1088/1742-6596/2224/1/012012;Conference Paper;2022;oncology
+Semantics Convolutional Neural Network for Medical Images Analysis;2-s2.0-85131261240;10.18280/ria.360212;Article;2022;oncology
+Kidney Tumor Semantic Segmentation Using Deep Learning: A Survey of State-of-the-Art;2-s2.0-85125278761;10.3390/jimaging8030055;Article;2022;oncology
+The use of calcium carbide in food and fruit ripening: Potential mechanisms of toxicity to humans and future prospects;2-s2.0-85123800781;10.1016/j.tox.2022.153112;Review;2022;oncology
+Analysis of Smart Lung Tumour Detector and Stage Classifier Using Deep Learning Techniques with Internet of Things;2-s2.0-85138363990;10.1155/2022/4608145;Article;2022;oncology
+Transfer Learning for Breast Cancer Classification in Terahertz and Infrared Imaging;2-s2.0-85138013169;10.1109/icABCD54961.2022.9856138;Conference Paper;2022;oncology
+Soft-Voting colorectal cancer risk prediction based on EHLI components;2-s2.0-85137771197;10.1016/j.imu.2022.101070;Article;2022;oncology
+A Supervised Learning Identification System for Prognosis of Breast Cancer;2-s2.0-85137709050;10.1155/2022/7459455;Review;2022;oncology
+Epigenetic inactivation of DNA repair genes as promising prognostic and predictive biomarkers in urothelial bladder carcinoma patients;2-s2.0-85137603110;10.1007/s00438-022-01950-x;Article;2022;oncology
+Breast Cancer Pathological Image Classification Based on the Multiscale CNN Squeeze Model;2-s2.0-85137446388;10.1155/2022/7075408;Article;2022;oncology
+Detection and classification of large bowel obstruction from X-ray images using machine learning algorithms;2-s2.0-85137439386;10.1002/ima.22800;Article;2022;oncology
+Development of Machine Learning and Medical Enabled Multimodal for Segmentation and Classification of Brain Tumor Using MRI Images;2-s2.0-85137225838;10.1155/2022/7797094;Article;2022;oncology
+An Enhancement Technique to Diagnose Colon and Lung Cancer by using Double CLAHE and Deep Learning;2-s2.0-85137167074;10.14569/IJACSA.2022.0130833;Article;2022;oncology
+Lung Cancer Classification and Prediction Using Machine Learning and Image Processing;2-s2.0-85137064112;10.1155/2022/1755460;Article;2022;oncology
+Automatic optical biopsy for colorectal cancer using hyperspectral imaging and artificial neural networks;2-s2.0-85137026616;10.1007/s00464-022-09524-z;Article;2022;oncology
+Multidimensional CNN-Based Deep Segmentation Method for Tumor Identification;2-s2.0-85137020037;10.1155/2022/5061112;Article;2022;oncology
+CADNet157 model: fine-tuned ResNet152 model for breast cancer diagnosis from mammography images;2-s2.0-85136942145;10.1007/s00521-022-07648-w;Article;2022;oncology
+Automated Recognition of Cancer Tissues through Deep Learning Framework from the Photoacoustic Specimen;2-s2.0-85136595096;10.1155/2022/4356744;Article;2022;oncology
+Classification of breast cancer using a manta-ray foraging optimized transfer learning framework;2-s2.0-85136545705;10.7717/PEERJ-CS.1054;Article;2022;oncology
+Deep Learning Mechanism for Predicting the Axillary Lymph Node Metastasis in Patients with Primary Breast Cancer;2-s2.0-85136538341;10.1155/2022/8616535;Article;2022;oncology
+A Highly Discriminative Hybrid Feature Selection Algorithm for Cancer Diagnosis;2-s2.0-85136086019;10.1155/2022/1056490;Article;2022;oncology
+Breast cancer anomaly detection based on the possibility theory with a clustering paradigm;2-s2.0-85135967064;10.1016/j.bspc.2022.104043;Article;2022;oncology
+Using KullBack-Liebler Divergence Based Meta-learning Algorithm for Few-Shot Skin Cancer Image Classification: Literature Review and a Conceptual Framework;2-s2.0-85135935010;10.1007/978-3-031-12641-3_9;Conference Paper;2022;oncology
+A Multi-scale Self-supervision Method for Improving Cell Nuclei Segmentation in Pathological Tissues;2-s2.0-85135927023;10.1007/978-3-031-12053-4_55;Conference Paper;2022;oncology
+Decision Tree Algorithms for Predictive Modeling in Breast Cancer Treatment;2-s2.0-85135763371;10.1109/MI-STA54861.2022.9837762;Conference Paper;2022;oncology
+Preprocessing Breast Cancer Dataset from Ultrasound Screening to Improve Data Quality for Diagnosis Modelling;2-s2.0-85135760183;10.1109/MI-STA54861.2022.9837553;Conference Paper;2022;oncology
+Date Fruit Sorting Based on Deep Learning and Discriminant Correlation Analysis;2-s2.0-85135748457;10.1109/ACCESS.2022.3194550;Article;2022;oncology
+Prognostic Diagnosis for Breast Cancer Patients Using Probabilistic Bayesian Classification;2-s2.0-85135500930;10.1155/2022/1859222;Article;2022;oncology
+Image Processing and Machine Learning-Based Classification and Detection of Liver Tumor;2-s2.0-85135426831;10.1155/2022/3398156;Article;2022;oncology
+Cyclic GAN Model to Classify Breast Cancer Data for Pathological Healthcare Task;2-s2.0-85135233985;10.1155/2022/6336700;Article;2022;oncology
+A survey on artificial intelligence in histopathology image analysis;2-s2.0-85135113816;10.1002/widm.1474;Review;2022;oncology
+Machine Learning in Medical Image Processing;2-s2.0-85135071800;10.1007/978-981-19-2456-9_93;Conference Paper;2022;oncology
+Biomedical Osteosarcoma Image Classification Using Elephant Herd Optimization and Deep Learning;2-s2.0-85135064194;10.32604/cmc.2022.031324;Article;2022;oncology
+Ensemble CNN Networks for GBM Tumors Segmentation Using Multi-parametric MRI;2-s2.0-85135048901;10.1007/978-3-031-08999-2_41;Conference Paper;2022;oncology
+Random Forest Based Deep Hybrid Architecture for Histopathological Breast Cancer Images Classification;2-s2.0-85135002675;10.1007/978-3-031-10450-3_1;Conference Paper;2022;oncology
+Lung Cancer Prediction from Text Datasets Using Machine Learning;2-s2.0-85134933239;10.1155/2022/6254177;Article;2022;oncology
+Medical Image Classification Using Transfer Learning and Chaos Game Optimization on the Internet of Medical Things;2-s2.0-85134894004;10.1155/2022/9112634;Article;2022;oncology
+An Improved Machine Learning Model for Diagnostic Cancer Recognition Using Artificial Intelligence;2-s2.0-85134541982;10.1155/2022/1078056;Article;2022;oncology
+Diverse activation functions based-hybrid RBF-ELM neural network for medical classification;2-s2.0-85134530443;10.1007/s12065-022-00758-3;Article;2022;oncology
+Densely Convolutional Networks for Breast Cancer Classification with Multi-Modal Image Fusion;2-s2.0-85134402313;10.34028/iajit/19/3A/6;Article;2022;oncology
+Prediction of microsatellite instability for the detection of colorectal cancer by GAN-CNN;2-s2.0-85134316360;10.1109/CoDIT55151.2022.9803921;Conference Paper;2022;oncology
+Comparison of Selected Algorithms on Breast Cancer Classification;2-s2.0-85134310501;10.1007/978-981-19-1111-8_14;Conference Paper;2022;oncology
+Network In-Network (NIN) for Glioma Tumor Grade classification*;2-s2.0-85134230161;10.1109/ATSIP55956.2022.9805927;Conference Paper;2022;oncology
+Review of Computer Aided-Diagnosis (CAD) Systems for MRI Gliomas brain tumors explorations based on Machine Learning and Deep learning;2-s2.0-85134222577;10.1109/ATSIP55956.2022.9805921;Conference Paper;2022;oncology
+Ensemble learning methods for deep learning: Application to skin lesions classification;2-s2.0-85134015663;10.1109/ISIVC54825.2022.9800732;Conference Paper;2022;oncology
+Hybrid Rider Optimization with Deep Learning Driven Biomedical Liver Cancer Detection and Classification;2-s2.0-85133974950;10.1155/2022/6162445;Article;2022;oncology
+Automatic segmentation of thoracic CT images using three deep learning models [Segmentation automatique d'images CT thoraciques Ã  l'aide de trois modÃ¨les basÃ©s sur l'apprentissage profond];2-s2.0-85133850930;10.1016/j.canrad.2022.02.001;Article;2022;oncology
+Role of Artificial Intelligence and Deep Learning in Easier Skin Cancer Detection through Antioxidants Present in Food;2-s2.0-85133641104;10.1155/2022/5890666;Article;2022;oncology
+Deep Learning-Based Real-Time Discriminate Correlation Analysis for Breast Cancer Detection;2-s2.0-85133607170;10.1155/2022/4609625;Article;2022;oncology
+Biomedical Microscopic Imaging in Computational Intelligence Using Deep Learning Ensemble Convolution Learning-Based Feature Extraction and Classification;2-s2.0-85133572476;10.1155/2022/3531308;Article;2022;oncology
+Transfer Learning for the Classification of Small-Cell and Non-small-Cell Lung Cancer;2-s2.0-85133263804;10.1007/978-3-031-08277-1_28;Conference Paper;2022;oncology
+Classification of Breast Cancer Histopathological Images using DensNet201;2-s2.0-85133138093;10.1109/ISPA54004.2022.9786028;Conference Paper;2022;oncology
+Machine Learning on the Diagnosis of Brain Tumors;2-s2.0-85133136627;10.1109/ISPA54004.2022.9786301;Conference Paper;2022;oncology
+Prediction Performance of Deep Learning for Colon Cancer Survival Prediction on SEER Data;2-s2.0-85133102224;10.1155/2022/1467070;Article;2022;oncology
+Cervix Type and Cervical Cancer Classification System Using Deep Learning Techniques;2-s2.0-85132885701;10.2147/MDER.S366303;Article;2022;oncology
+XAI hybrid multi-staged algorithm for routine & quantum boosted oncological medical imaging;2-s2.0-85132548482;10.1007/s40571-022-00490-w;Article;2022;oncology
+Exploring Brain Tumor Classification Using Deep Learning;2-s2.0-85132429594;10.1109/MIUCC55081.2022.9781767;Conference Paper;2022;oncology
+Multi-Organ Auto-segmentation using Deep Learning approaches for head and neck section for Cancer treatment;2-s2.0-85132405624;10.1109/MIUCC55081.2022.9781779;Conference Paper;2022;oncology
+LBPâ€“Bilateral Based Feature Fusion for Breast Cancer Diagnosis;2-s2.0-85132344407;10.32604/cmc.2022.029039;Article;2022;oncology
+Optimal Deep Transfer Learning Model for Histopathological Breast Cancer Classification;2-s2.0-85132314819;10.32604/cmc.2022.028855;Article;2022;oncology
+Endoscopic computer vision challenges 2.0;2-s2.0-85132153618;;Conference Paper;2022;oncology
+Cleaning Highly Unbalanced Multisource Image Dataset for Quality Control in Cervical Precancer Screening;2-s2.0-85131927231;10.1007/978-3-031-07005-1_1;Conference Paper;2022;oncology
+Intelligent Computational Models forÂ Cancer Diagnosis: A Comprehensive Review;2-s2.0-85131807589;10.1007/978-3-030-99079-4_2;Book Chapter;2022;oncology
+Hyperspectral Image Analysis of Colon Tissue and Deep Learning for Characterization of Health care;2-s2.0-85131703985;10.1155/2022/8670534;Article;2022;oncology
+Intelligent System Based on GAN Model for Decision Support in Brain Tumor Segmentation;2-s2.0-85131140197;10.1007/978-3-031-06458-6_20;Conference Paper;2022;oncology
+AI and precision oncology in clinical cancer genomics: From prevention to targeted cancer therapies-an outcomes based patient care;2-s2.0-85131047965;10.1016/j.imu.2022.100965;Review;2022;oncology
+Glioma segmentation based on deep CNN;2-s2.0-85130587861;10.1109/IC_ASET53395.2022.9765885;Conference Paper;2022;oncology
+An Investigation in Analyzing the Food Quality Well-Being for Lung Cancer Using Blockchain through CNN;2-s2.0-85130400017;10.1155/2022/5845870;Article;2022;oncology
+Deep Stacked Ensemble for Breast Cancer Diagnosis;2-s2.0-85130273664;10.1007/978-3-031-04826-5_44;Conference Paper;2022;oncology
+Systematic Map of Data Mining for Gynecologic Oncology;2-s2.0-85130252805;10.1007/978-3-031-04826-5_47;Conference Paper;2022;oncology
+Systematic Map of Machine Learning Based Breast Cancer Screening;2-s2.0-85130248734;10.1007/978-3-031-04826-5_43;Conference Paper;2022;oncology
+Optimal Fusion-Based Handcrafted with Deep Features for Brain Cancer Classification;2-s2.0-85130207394;10.32604/cmc.2022.029140;Article;2022;oncology
+Boosting Breast Cancer Classification from Microscopic Images Using Attention Mechanism;2-s2.0-85130174909;10.1109/DASA54658.2022.9765013;Conference Paper;2022;oncology
+NuCLS: A scalable crowdsourcing approach and dataset for nucleus classification and segmentation in breast cancer;2-s2.0-85130126960;10.1093/gigascience/giac037;Article;2022;oncology
+Deer Hunting Optimization with Deep Learning Model for Lung Cancer Classification;2-s2.0-85130099693;10.32604/cmc.2022.028856;Article;2022;oncology
+Preserving the Privacy of Healthcare Data over Social Networks Using Machine Learning;2-s2.0-85130050853;10.1155/2022/4690936;Article;2022;oncology
+Review of Personalized Cancer Treatment with Machine Learning;2-s2.0-85129413609;10.1109/ICCI54321.2022.9756124;Conference Paper;2022;oncology
+Artificial Intelligence Techniques for Classification of Eye Tumors: A Survey;2-s2.0-85129376206;10.1109/ICCI54321.2022.9756067;Conference Paper;2022;oncology
+Pre-trained Backbones Effect onÂ Nuclei Segmentation Performance;2-s2.0-85128928308;10.1007/978-3-031-04112-9_8;Conference Paper;2022;oncology
+Non-Invasive Early Diagnosis of Obstructive Lung Diseases Leveraging Machine Learning Algorithms;2-s2.0-85128692904;10.32604/cmc.2022.025840;Article;2022;oncology
+Deep Learning Model for Automatic Classification and Prediction of Brain Tumor;2-s2.0-85128691333;10.1155/2022/3065656;Article;2022;oncology
+Breast Cancer Detection in Saudi Arabian Women Using Hybrid Machine Learning on Mammographic Images;2-s2.0-85128670070;10.32604/cmc.2022.027111;Article;2022;oncology
+Prediction of Prognosis and Recurrence of Bladder Cancer by ECM-Related Genes;2-s2.0-85128637157;10.1155/2022/1793005;Article;2022;oncology
+Automated Artificial Intelligence Empowered Colorectal Cancer Detection and Classification Model;2-s2.0-85128595247;10.32604/cmc.2022.026715;Article;2022;oncology
+A review on Suspicious-Regions Segmentation Methods in Breast Thermogram Image;2-s2.0-85127969108;10.1109/IRASET52964.2022.9738265;Conference Paper;2022;oncology
+Personalized Liver Cancer Risk Prediction Using Big Data Analytics Techniques with Image Processing Segmentation;2-s2.0-85127678925;10.1155/2022/8154523;Article;2022;oncology
+Cognitive Computing-Based Mammographic Image Classification on an Internet of Medical;2-s2.0-85127351378;10.32604/cmc.2022.026515;Article;2022;oncology
+A Critical Analysis of Deep Learning Architectures for Classifying Breast Cancer Using Histopathology Images;2-s2.0-85126997155;10.1007/978-3-030-93314-2_1;Conference Paper;2022;oncology
+Prediction of Cancer Clinical Endpoints Using Deep Learning and RPPA Data;2-s2.0-85126948568;10.1007/978-3-030-96311-8_7;Conference Paper;2022;oncology
+Comparing the Performance of Various Supervised Machine Learning Techniques for Early Detection of Breast Cancer;2-s2.0-85126385421;10.1007/978-3-030-96305-7_44;Conference Paper;2022;oncology
+Classification of Lung Cancer Datasets Using Computational Intelligence Techniques;2-s2.0-85126376571;10.1007/978-981-16-8484-5_44;Conference Paper;2022;oncology
+Prediction of Metastatic Relapse in Breast Cancer using Machine Learning Classifiers;2-s2.0-85126138028;10.14569/IJACSA.2022.0130222;Article;2022;oncology
+Regions of interest selection in histopathological images using subspace and multi-objective stream clustering;2-s2.0-85125938153;10.1007/s00371-022-02436-y;Article;2022;oncology
+Estrogen Receptor Gene Polymorphism as a Possible Genetic Risk Factor for Treatment Response in ER-Positive Breast Cancer Patients;2-s2.0-85124841570;10.1007/s10528-022-10199-3;Article;2022;oncology
+Improving Date Fruit Classification Using CycleGAN-Generated Dataset;2-s2.0-85124216897;10.32604/cmes.2022.016419;Article;2022;oncology
+Prediction of Estrogen Receptor alpha Antagonists Using Deep Neural Network;2-s2.0-85124032209;;Article;2022;oncology
+Optimized Deep Learning Model for Colorectal Cancer Detection and Classification Model;2-s2.0-85122723062;10.32604/cmc.2022.024658;Article;2022;oncology
+Automatic Diagnosis of Breast Cancer from Histopathological Images Using Deep Learning Technique;2-s2.0-85122577803;10.1007/978-3-030-93709-6_42;Conference Paper;2022;oncology
+Breast Cancer Classification in IoT Framework;2-s2.0-85115121238;10.1007/978-981-16-2275-5_29;Conference Paper;2022;oncology
+Breast cancer classification using deep belief networks;2-s2.0-84946434304;10.1016/j.eswa.2015.10.015;Article;2016;oncology
+Using Machine Learning Algorithms for Breast Cancer Risk Prediction and Diagnosis;2-s2.0-84971349444;10.1016/j.procs.2016.04.224;Conference Paper;2016;oncology
+Deep Convolutional Neural Networks for breast cancer screening;2-s2.0-85041413978;10.1016/j.cmpb.2018.01.011;Article;2018;oncology
+BACH: Grand challenge on breast cancer histology images;2-s2.0-85067343074;10.1016/j.media.2019.05.010;Article;2019;oncology
+Machine learning techniques for breast cancer computer aided diagnosis using different image modalities: A systematic review;2-s2.0-85039416241;10.1016/j.cmpb.2017.12.012;Review;2018;oncology
+Breast cancer detection using deep convolutional neural networks and support vector machines;2-s2.0-85061392228;10.7717/peerj.6201;Article;2019;oncology
+A review on a deep learning perspective in brain cancer classification;2-s2.0-85061909070;10.3390/cancers11010111;Review;2019;oncology
+Classification of human cancer diseases by gene expression profiles;2-s2.0-84998829086;10.1016/j.asoc.2016.11.026;Article;2017;oncology
+Neural Network Based Brain Tumor Detection Using Wireless Infrared Imaging Sensor;2-s2.0-85060517425;10.1109/ACCESS.2018.2883957;Article;2019;oncology
+Breast cancer classification using machine learning;2-s2.0-85050224998;10.1109/EBBT.2018.8391453;Conference Paper;2018;oncology
+A review of image analysis and machine learning techniques for automated cervical cancer screening from pap-smear images;2-s2.0-85049506605;10.1016/j.cmpb.2018.05.034;Review;2018;oncology
+Deep convolutional neural networks for mammography: Advances, challenges and applications;2-s2.0-85066864173;10.1186/s12859-019-2823-4;Article;2019;oncology
+Deep Learning and Handcrafted Method Fusion: Higher Diagnostic Accuracy for Melanoma Dermoscopy Images;2-s2.0-85065767525;10.1109/JBHI.2019.2891049;Article;2019;oncology
+Deep Learning Algorithm for Auto-Delineation of High-Risk Oropharyngeal Clinical Target Volumes With Built-In Dice Similarity Coefficient Parameter Optimization Function;2-s2.0-85044070515;10.1016/j.ijrobp.2018.01.114;Article;2018;oncology
+Skin Cancer Classification using Deep Learning and Transfer Learning;2-s2.0-85063229823;10.1109/CIBEC.2018.8641762;Conference Paper;2019;oncology
+Radiomics in head and neck cancer: From exploration to application;2-s2.0-84983349020;10.21037/tcr.2016.07.18;Review;2016;oncology
+Analysis of mass spectral serum profiles for biomarker selection;2-s2.0-27744595524;10.1093/bioinformatics/bti670;Article;2005;oncology
+Reviewing ensemble classification methods in breast cancer;2-s2.0-85066068064;10.1016/j.cmpb.2019.05.019;Review;2019;oncology
+Artificial intelligence and upper gastrointestinal endoscopy: Current status and future perspective;2-s2.0-85061563640;10.1111/den.13317;Review;2019;oncology
+Automated Breast Cancer Diagnosis Based on Machine Learning Algorithms;2-s2.0-85075269111;10.1155/2019/4253641;Article;2019;oncology
+Protein-RNA interface residue prediction using machine learning: an assessment of the state of the art;2-s2.0-84860696343;10.1186/1471-2105-13-89;Article;2012;oncology
+Laser-induced breakdown spectroscopy for human and animal health: A review;2-s2.0-85057421957;10.1016/j.sab.2018.11.006;Review;2019;oncology
+Improving algorithms for structure learning in Bayesian Networks using a new implicit score;2-s2.0-77950189766;10.1016/j.eswa.2010.02.065;Article;2010;oncology
+Exploring applications of radiomics in magnetic resonance imaging of head and neck cancer: A systematic review;2-s2.0-85047159419;10.3389/fonc.2018.00131;Review;2018;oncology
+Breast cancer MRI diagnosis approach using support vector machine and pulse coupled neural networks;2-s2.0-84869489087;10.1016/j.jal.2012.07.003;Conference Paper;2012;oncology
+Multi-class breast cancer classification using deep learning convolutional neural network;2-s2.0-85049525200;10.14569/IJACSA.2018.090645;Article;2018;oncology
+Structured crowdsourcing enables convolutional segmentation of histology images;2-s2.0-85072155744;10.1093/bioinformatics/btz083;Article;2019;oncology
+Deep Ensemble Learning for Skin Lesion Classification from Dermoscopic Images;2-s2.0-85063203458;10.1109/CIBEC.2018.8641815;Conference Paper;2019;oncology
+Adaptive semi supervised support vector machine semi supervised learning with features cooperation for breast cancer classification;2-s2.0-84959282271;10.1166/jmihi.2016.1591;Article;2016;oncology
+Lung cancer prediction using neural network ensemble with histogram of oriented gradient genomic features;2-s2.0-84924402069;10.1155/2015/786013;Article;2015;oncology
+Optimization of K-NN algorithm by clustering and reliability coefficients: Application to breast-cancer diagnosis;2-s2.0-85045669382;10.1016/j.procs.2018.01.125;Conference Paper;2018;oncology
+Early esophageal adenocarcinoma detection using deep learning methods;2-s2.0-85060554576;10.1007/s11548-019-01914-4;Article;2019;oncology
+Machine learning application for prediction of locoregional recurrences in early oral tongue cancer: a Web-based prognostic tool;2-s2.0-85071073448;10.1007/s00428-019-02642-5;Article;2019;oncology
+Deep learning approaches for data augmentation and classification of breast masses using ultrasound images;2-s2.0-85066750534;10.14569/ijacsa.2019.0100579;Article;2019;oncology
+Deep feature learning for soft tissue sarcoma classification in MR images via transfer learning;2-s2.0-85056853631;10.1016/j.eswa.2018.11.025;Article;2019;oncology
+Deep learning role in early diagnosis of prostate cancer;2-s2.0-85050237704;10.1177/1533034618775530;Article;2018;oncology
+Steroid Metabolome Analysis in Disorders of Adrenal Steroid Biosynthesis and Metabolism;2-s2.0-85075095491;10.1210/er.2018-00262;Review;2019;oncology
+A survey on applying machine learning techniques for management of diseases;2-s2.0-85040589363;10.1016/j.jab.2018.01.002;Review;2018;oncology
+Design and clinical validation of a point-of-care device for the diagnosis of lymphoma via contrast-enhanced microholography and machine learning;2-s2.0-85050530041;10.1038/s41551-018-0265-3;Article;2018;oncology
+Machine learning applications in head and neck radiation oncology: Lessons from open-source radiomics challenges;2-s2.0-85051839540;10.3389/fonc.2018.00294;Article;2018;oncology
+Glioblastoma and primary central nervous system lymphoma: Preoperative differentiation by using MRI-based 3D texture analysis;2-s2.0-85051037790;10.1016/j.clineuro.2018.08.004;Article;2018;oncology
+A comprehensive non-invasive framework for diagnosing prostate cancer;2-s2.0-85008152019;10.1016/j.compbiomed.2016.12.010;Article;2017;oncology
+A review study: Computational techniques for expecting the impact of non-synonymous single nucleotide variants in human diseases;2-s2.0-85053714224;10.1016/j.gene.2018.09.028;Review;2019;oncology
+Computer-aided diagnostic tool for early detection of prostate cancer;2-s2.0-85006736367;10.1109/ICIP.2016.7532843;Conference Paper;2016;oncology
+Breast Cancer Classification in Ultrasound Images using Transfer Learning;2-s2.0-85077787913;10.1109/ICABME47164.2019.8940291;Conference Paper;2019;oncology
+A Computer-Aided Diagnosis System for Breast Cancer Using Deep Convolutional Neural Networks;2-s2.0-85049366799;10.1007/978-981-10-8055-5_52;Conference Paper;2019;oncology
+DACH1: Its role as a classifier of long term good prognosis in luminal breast cancer;2-s2.0-84894251319;10.1371/journal.pone.0084428;Article;2014;oncology
+A breast cancer classifier based on a combination of case-based reasoning and ontology approach;2-s2.0-79551570699;;Conference Paper;2010;oncology
+Automated detection of white blood cells cancer diseases;2-s2.0-85048389705;10.1109/IWDRL.2018.8358214;Conference Paper;2018;oncology
+3D segmentation of nasopharyngeal carcinoma from CT images using cascade deep learning;2-s2.0-85070536828;10.1016/j.compmedimag.2019.101644;Article;2019;oncology
+Investigation of radiomic signatures for local recurrence using primary tumor texture analysis in oropharyngeal head and neck cancer patients;2-s2.0-85041134670;10.1038/s41598-017-14687-0;Article;2018;oncology
+Applying best machine learning algorithms for breast cancer prediction and classification;2-s2.0-85062187644;10.1109/ICECOCS.2018.8610632;Conference Paper;2019;oncology
+Application of Machine Learning Model on Streaming Health Data Event in Real-Time to Predict Health Status Using Spark;2-s2.0-85062439439;10.1109/ISAECT.2018.8618860;Conference Paper;2019;oncology
+A 35-gene signature discriminates between rapidly- and slowly-progressing glioblastoma multiforme and predicts survival in known subtypes of the cancer;2-s2.0-85044860953;10.1186/s12885-018-4103-5;Article;2018;oncology
+A new NMF-autoencoder based CAD system for early diagnosis of prostate cancer;2-s2.0-84978427455;10.1109/ISBI.2016.7493490;Conference Paper;2016;oncology
+Using some data mining techniques for earlydiagnosis of Lung cancer;2-s2.0-79958714444;;Conference Paper;2011;oncology
+Automated breast tumor diagnosis using local binary patterns (LBP) based on deep learning classification;2-s2.0-85067030410;10.1109/ICCISci.2019.8716428;Conference Paper;2019;oncology
+A cascade-learning approach for automated segmentation of tumour epithelium in colorectal cancer;2-s2.0-85055179274;10.1016/j.eswa.2018.10.030;Article;2019;oncology
+Comparison of the performance of machine learning algorithms in breast cancer screening and detection: A protocol;2-s2.0-85076307693;10.4081/jphr.2019.1677;Article;2019;oncology
+An Improved Approach for Computer-Aided Diagnosis of Breast Cancer in Digital Mammography;2-s2.0-85053150289;10.1109/MeMeA.2018.8438650;Conference Paper;2018;oncology
+Framework of Computer Aided Diagnosis Systems for Cancer Classification Based on Medical Images;2-s2.0-85049881387;10.1007/s10916-018-1010-x;Article;2018;oncology
+Breast cancer diagnosis based on joint variable selection and Constructive Deep Neural Network;2-s2.0-85050012273;10.1109/MECBME.2018.8402426;Conference Paper;2018;oncology
+Deep learning versus classical neural approach to mammogram recognition;2-s2.0-85060686079;;Article;2018;oncology
+Targeting the Versatile Wnt/Î²-Catenin Pathway in Cancer Biology and Therapeutics: From Concept to Actionable Strategy;2-s2.0-85074571423;10.1089/omi.2019.0147;Review;2019;oncology
+Breast cancer histopathology image classification with deep convolutional neural networks;2-s2.0-85062882895;10.1109/ICECCO.2018.8634690;Conference Paper;2019;oncology
+Fast unsupervised nuclear segmentation and classification scheme for automatic allred cancer scoring in immunohistochemical breast tissue images;2-s2.0-85051670704;10.1016/j.cmpb.2018.08.005;Article;2018;oncology
+Hybrid rough-bijective soft set classification system;2-s2.0-84997755051;10.1007/s00521-016-2711-z;Article;2018;oncology
+Evolutionary framework for coding area selection from cancer data;2-s2.0-84982840469;10.1007/s00521-016-2513-3;Article;2018;oncology
+Matched computed tomography segmentation and demographic data for oropharyngeal cancer radiomics challenges;2-s2.0-85021709663;10.1038/sdata.2017.77;Article;2017;oncology
+NaÃ¯ve Bayes classifier predicts functional microRNA target interactions in colorectal cancer;2-s2.0-84953854011;10.1039/c5mb00245a;Article;2015;oncology
+Breast Cancer Diagnosis Using Image Processing and Machine Learning for Elastography Images;2-s2.0-85068555748;10.1109/MOCAST.2019.8741846;Conference Paper;2019;oncology
+Cell line name recognition in support of the identification of synthetic lethality in cancer from text;2-s2.0-84959894182;10.1093/bioinformatics/btv570;Article;2016;oncology
+Machine learning based computer-aided diagnosis of liver tumours;2-s2.0-85040594931;10.1109/ICCI-CC.2017.8109742;Conference Paper;2017;oncology
+Mammogram-Based Cancer Detection Using Deep Convolutional Neural Networks;2-s2.0-85063140299;10.1109/ICCES.2018.8639224;Conference Paper;2019;oncology
+An MR brain images classification technique via the Gaussian radial basis kernel and SVM;2-s2.0-85048529266;10.1109/STA.2017.8314948;Conference Paper;2018;oncology
+Lung cancer detection using Local Energy-based Shape Histogram (LESH) feature extraction and cognitive machine learning techniques;2-s2.0-85016209357;10.1109/ICCI-CC.2016.7862060;Conference Paper;2017;oncology
+Android based Naive Bayes probabilistic detection model for breast cancer and Mobile Cloud Computing: Design and Implementation;2-s2.0-84951160989;10.4028/www.scientific.net/JERA.21.197;Article;2016;oncology
+Automated Classification of Malignant and Benign Breast Cancer Lesions Using Neural Networks on Digitized Mammograms;2-s2.0-85071329410;10.1177/1176935119857570;Article;2019;oncology
+A review of applications of image analysis and machine learning techniques in automated diagnosis and classification of cervical cancer from pap-smear images;2-s2.0-85051227250;;Conference Paper;2018;oncology
+Effective cancer subtyping by employing density peaks clustering by using gene expression microarray;2-s2.0-85041912577;10.1007/s00779-018-1112-y;Article;2018;oncology
+Bayesian network and structured random forest cooperative deep learning for automatic multi-label brain tumor segmentation;2-s2.0-85046666589;10.5220/0006629901830190;Conference Paper;2018;oncology
+Assessing performances of unsupervised and supervised neural networks in breast cancer detection;2-s2.0-77953167385;;Conference Paper;2010;oncology
+Risk stratification of cervical lesions using capture sequencing and machine learning method based on HPV and human integrated genomic profiles;2-s2.0-85073582629;10.1093/carcin/bgz094;Article;2019;oncology
+Robust biomarker discovery for cancer diagnosis based on meta-ensemble feature selection;2-s2.0-84909606784;10.1109/SAI.2014.6918227;Conference Paper;2014;oncology
+Dynamic multi-scale CNN forest learning for automatic cervical cancer segmentation;2-s2.0-85054476577;10.1007/978-3-030-00919-9_3;Conference Paper;2018;oncology
+ST-ONCODIAG: A semantic rule-base approach to diagnosing breast cancer base on Wisconsin datasets;2-s2.0-85043504543;10.1016/j.imu.2017.12.008;Article;2018;oncology
+Classication of SNPs for breast cancer diagnosis using neural-network-based association rules;2-s2.0-84958025610;10.1109/ISPS.2015.7244998;Conference Paper;2015;oncology
+Deep learning-based mammogram classification using small dataset;2-s2.0-85083501095;10.1109/ICECCO48375.2019.9043186;Conference Paper;2019;oncology
+Feature extraction and analysis for lung nodule classification using random forest;2-s2.0-85068602522;10.1145/3328833.3328872;Conference Paper;2019;oncology
+Breast cancer detection using deep convolutional neural network;2-s2.0-85064822479;10.5220/0007386206550660;Conference Paper;2019;oncology
+BLB (Brain/Lung cancer detection and segmentation and Breast Dense calculation);2-s2.0-85048404217;10.1109/IWDRL.2018.8358213;Conference Paper;2018;oncology
+Distance similarity as a cbr technique for early detection of breast cancer: An Egyptian case study;2-s2.0-84921994256;10.1007/978-81-322-2247-7_46;Conference Paper;2015;oncology
+A novel hybrid perceptron neural network algorithm for classifying breast MRI tumors;2-s2.0-84916236978;10.1007/978-3-319-13461-1_34;Conference Paper;2014;oncology
+Particle swarm optimization for analysis of mass spectral serum profiles;2-s2.0-27744545542;10.1145/1068009.1068078;Conference Paper;2005;oncology
+A CNN-Based Framework for Bladder Wall Segmentation Using MRI;2-s2.0-85077800411;10.1109/ICABME47164.2019.8940266;Conference Paper;2019;oncology
+A Hybrid Machine Learning Approach for the Phenotypic Classification of Metagenomic Colon Cancer Reads Based on Kmer Frequency and Biomarker Profiling;2-s2.0-85063213136;10.1109/CIBEC.2018.8641805;Conference Paper;2019;oncology
+Feature Selection with Fast Correlation-Based Filter for Breast Cancer Prediction and Classification Using Machine Learning Algorithms;2-s2.0-85062469037;10.1109/ISAECT.2018.8618688;Conference Paper;2019;oncology
+An enhanced deep learning framework for skin lesions segmentation;2-s2.0-85072870422;10.1007/978-3-030-28377-3_34;Conference Paper;2019;oncology
+Proteomics Versus Clinical Data and Stochastic Local Search Based Feature Selection for Acute Myeloid Leukemia Patientsâ€™ Classification;2-s2.0-85048245704;10.1007/s10916-018-0972-z;Article;2018;oncology
+A parallel framework for HCC detection in DCE-MRI sequences with wavelet-based description and SVM classification;2-s2.0-85050513176;10.1145/3167132.3167167;Conference Paper;2018;oncology
+Privacy-preserving quantum machine learning using differential privacy;2-s2.0-85039957233;10.1109/AFRCON.2017.8095692;Conference Paper;2017;oncology
+Computational intelligence in medical imaging: Techniques and applications;2-s2.0-85056417922;10.1201/9781420060614;Book;2009;oncology
+Evaluation of fractional Brownian motion synthesis methods using the SVM classifier;2-s2.0-85057053368;10.1016/j.bspc.2018.11.002;Article;2019;oncology
+Deep feature extraction for pap-smear image classification: A comparative study;2-s2.0-85066803052;10.1145/3323933.3324060;Conference Paper;2019;oncology
+Supervised Classification of Cancers Based on Copy Number Variation;2-s2.0-85053533877;10.1007/978-3-319-99010-1_18;Conference Paper;2019;oncology
+A first study exploring the performance of the state-of-the art cnn model in the problem of breast cancer;2-s2.0-85053484247;10.1145/3230905.3230940;Conference Paper;2018;oncology
+Discriminate the response of Acute Myeloid Leukemia patients to treatment by using proteomics data and Answer Set Programming;2-s2.0-85043481702;10.1186/s12859-018-2034-4;Article;2018;oncology
+Improved prediction of post-operative life expectancy after thoracic surgery;2-s2.0-85010737369;;Article;2016;oncology
+Using Multi-Feature Selection with machine learning for de novo Acute Myeloid Leukemia in Egypt;2-s2.0-85084281820;10.1109/ISACS48493.2019.9068905;Conference Paper;2019;oncology
+Proposed approach for breast cancer diagnosis using machine learning;2-s2.0-85077741386;10.1145/3368756.3369089;Conference Paper;2019;oncology
+Deep learning for visual recognition of environmental enteropathy and celiac disease;2-s2.0-85073027240;10.1109/BHI.2019.8834458;Conference Paper;2019;oncology
+Deep learning approach for breast cancer diagnosis;2-s2.0-85068598230;10.1145/3328833.3328867;Conference Paper;2019;oncology
+A novel ant colonies approach to medical image segmentation;2-s2.0-85046673870;10.1109/SSD.2017.8167012;Conference Paper;2017;oncology
+Melanoma classification based on ensemble classification of dermoscopy image features;2-s2.0-84916208172;10.1007/978-3-319-13461-1_28;Conference Paper;2014;oncology
+Combining TD-IDF with symptom features to differentiate between lymphoma and tuberculosis case reports;2-s2.0-85079273852;10.1109/GlobalSIP45357.2019.8969317;Conference Paper;2019;oncology
+A Fibrosis Diagnosis Clinical Decision Support System Using Fuzzy Knowledge;2-s2.0-85063256311;10.1007/s13369-018-3670-8;Article;2019;oncology
+Skin lesion analysis toward melanoma detection using deep learning techniques;2-s2.0-85073752358;10.24425/ijet.2019.129818;Article;2019;oncology
+Fully automated CADx for early breast cancer detection using image processing and machine learning;2-s2.0-85065728814;10.1109/ICM.2018.8704097;Conference Paper;2018;oncology
+Best Features Selection for Biomedical Data Classification Using Seven Spot Ladybird Optimization Algorithm;2-s2.0-85045893938;10.4018/IJAMC.2018070104;Article;2018;oncology
+A stacked generalization method for disease progression prediction;2-s2.0-85046686117;10.1109/ICENCO.2017.8289772;Conference Paper;2018;oncology
+Breast cancer predictive analytics using supervised machine learning techniques;2-s2.0-85077867632;10.30534/ijatcse/2019/70862019;Article;2019;oncology
+Mass detection in mammograms using a robust deep learning model;2-s2.0-85085051838;10.3233/FAIA190147;Conference Paper;2019;oncology
+Breast cancer diagnosis system based on semantic analysis and choquet integral feature selection for high risk subjects;2-s2.0-85090607766;10.3390/bdcc3030041;Article;2019;oncology
+Contribution of data augmentation for the prenventive detection of vocal fold precancerous lesions;2-s2.0-85076260576;10.1016/j.procs.2019.09.176;Conference Paper;2019;oncology
+GFD Faster R-CNN: Gabor Fractal DenseNet Faster R-CNN for Automatic Detection of Esophageal Abnormalities in Endoscopic Images;2-s2.0-85075687793;10.1007/978-3-030-32692-0_11;Conference Paper;2019;oncology
+Extracting a linguistic summary from a medical database;2-s2.0-85057790034;10.5815/ijisa.2018.12.02;Article;2018;oncology
+Understanding medical text related to breast cancer: A review;2-s2.0-85029539660;10.1007/978-3-319-64861-3_26;Conference Paper;2018;oncology
+Breast Cancer Subtype Classification using Clinical and Gene Expression Integration;2-s2.0-85061287064;10.1109/ICCTA43079.2017.9497184;Conference Paper;2017;oncology
+Medical diagnostic system basing fuzzy rough neural-computing for breast cancer;2-s2.0-84994545593;10.1007/978-3-319-48308-5_45;Conference Paper;2017;oncology
+A rough set-based reasoner for medical diagnosis;2-s2.0-84966524827;10.1109/ICGCIoT.2015.7380502;Conference Paper;2016;oncology
+Massively parallel feature selection based on ensemble of filters and multiple robust consensus functions for cancer gene identification;2-s2.0-84922896920;10.1007/978-3-319-14654-6_6;Article;2015;oncology
+Targeted unsupervised features learning for gene expression data analysis to predict cancer stage;2-s2.0-85081587691;10.1145/3365953.3365958;Conference Paper;2019;oncology
+Robust and reliable PPG and ECG integrated biosensor;2-s2.0-85079245402;10.1109/ISPA48434.2019.8966922;Conference Paper;2019;oncology
+An Enhanced Hybrid Model for Skin Diagnosis Using Deep Convolution Neural Network;2-s2.0-85063212654;10.1109/CIBEC.2018.8641806;Conference Paper;2019;oncology
+Machine Learning Model for Breast Cancer Prediction;2-s2.0-85075883359;10.1109/ICFIR.2019.8894777;Conference Paper;2019;oncology
+A comparative study of supervised machine learning techniques for diagnosing mode of delivery in medical sciences;2-s2.0-85078420662;10.14569/ijacsa.2019.0101216;Article;2019;oncology
+Applying machine learning of erythrocytes dynamic antigens store in medicine;2-s2.0-85065128651;10.3389/fmolb.2019.00019;Article;2019;oncology
+Decision System for the selection of the best therapeutic protocol for breast cancer based on advanced data-mining: A survey;2-s2.0-85063518551;10.1007/978-3-030-11884-6_10;Conference Paper;2019;oncology
+Selecting best machine learning techniques for breast cancer prediction and diagnosis;2-s2.0-85056465503;10.1007/978-3-030-03577-8_61;Conference Paper;2019;oncology
+The application of data mining techniques and feature selection methods in the risk classification of Egyptian liver cancer patients using clinical and genetic data;2-s2.0-85068599878;10.1145/3328833.3328849;Conference Paper;2019;oncology
+Caracterisation of Dementia by 3D Analysis of Cerebral Structures;2-s2.0-85074395981;10.1109/ASET.2019.8871017;Conference Paper;2019;oncology
+A mobile online platform for aged menâ€™s prostate hypertrophy monitoring based on linea nigra images analysis;2-s2.0-85078446642;;Conference Paper;2019;oncology
+Multitask learning or transfer learning? Application to cancer detection;2-s2.0-85074275307;10.5220/0008495805480555;Conference Paper;2019;oncology
+Fully convolutional encoder-decoder architecture (FCEDA) for skin lesions segmentation;2-s2.0-85072859342;10.1007/978-3-030-28377-3_35;Conference Paper;2019;oncology
+Ontology based decision system for breast cancer diagnosis;2-s2.0-85046462709;10.1117/12.2309647;Conference Paper;2018;oncology
+Machine learning algorithms for oncology big data treatment;2-s2.0-85049631145;10.1145/3167486.3167565;Conference Paper;2017;oncology
+Comparative Study of Intelligent Systems for Management of GIT Cancers;2-s2.0-85032874415;10.1051/matecconf/201712502063;Conference Paper;2017;oncology
+Feature learning for breast tumour classification using bio-inspired optimization algorithms;2-s2.0-85034268262;10.3233/978-1-61499-806-8-106;Conference Paper;2017;oncology
+Mammogram content-based image retrieval based on malignancy classification;2-s2.0-85032020258;10.3233/IDA-163101;Article;2017;oncology
+Machine learning applications in cancer informatics;2-s2.0-84893079472;10.1007/978-3-319-00029-9_1;Conference Paper;2013;oncology

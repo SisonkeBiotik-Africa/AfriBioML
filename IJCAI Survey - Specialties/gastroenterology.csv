@@ -1,0 +1,67 @@
+Title;EID;DOI;DocumentType;Year;Category
+Medical Diagnostic Systems Using Artificial Intelligence (AI) Algorithms: Principles and Perspectives;2-s2.0-85097951867;10.1109/ACCESS.2020.3042273;Article;2020;gastroenterology
+Machine Learning Prediction Models for Diagnosing Hepatocellular Carcinoma with HCV-related Chronic Liver Disease;2-s2.0-85086722836;10.1016/j.cmpb.2020.105551;Article;2020;gastroenterology
+HMIC: Hierarchical medical image classification, a deep learning approach;2-s2.0-85087495336;10.3390/INFO11060318;Article;2020;gastroenterology
+Genetic and Inflammatory Biomarkers Classify Small Intestine Inflammation in Asymptomatic First-degree Relatives of Patients With Crohn's Disease;2-s2.0-85081650747;10.1016/j.cgh.2019.05.061;Article;2020;gastroenterology
+Detecting liver fibrosis using a machine learning-based approach to the quantification of the heart-induced deformation in tagged MR images;2-s2.0-85075446441;10.1002/nbm.4215;Article;2020;gastroenterology
+Severity detection tool for patients with infectious disease;2-s2.0-85084584462;10.1049/htl.2019.0030;Article;2020;gastroenterology
+Colored video analysis in wireless capsule endoscopy: A survey of state-of-the-art;2-s2.0-85094915466;10.2174/1573405616666200124140915;Review;2020;gastroenterology
+GastroNet: Abnormalities Recognition in Gastrointestinal Tract through Endoscopic Imagery using Deep Learning Techniques;2-s2.0-85098700186;10.1109/WINCOM50532.2020.9272456;Conference Paper;2020;gastroenterology
+Liver segmentation: A weakly end-to-end supervised model;2-s2.0-85089705269;10.3991/ijoe.v16i09.15159;Article;2020;gastroenterology
+GAN-Based Synthetic Gastrointestinal Image Generation;2-s2.0-85100006021;10.1109/ICCWAMTIP51612.2020.9317341;Conference Paper;2020;gastroenterology
+CT liver segmentation: A capsules network model;2-s2.0-85085300808;10.5373/JARDCS/V12SP4/20201574;Article;2020;gastroenterology
+Deep learning for detection and segmentation of artefact and disease instances in gastrointestinal endoscopy;2-s2.0-85101620260;10.1016/j.media.2021.102002;Article;2021;gastroenterology
+Standalone performance of artificial intelligence for upper GI neoplasia: A meta-analysis;2-s2.0-85095743648;10.1136/gutjnl-2020-321922;Article;2021;gastroenterology
+Artificial intelligence guided discovery of a barrier-protective therapy in inflammatory bowel disease;2-s2.0-85109647013;10.1038/s41467-021-24470-5;Article;2021;gastroenterology
+GASTRO-CADx: a three stages framework for diagnosing gastrointestinal diseases;2-s2.0-85103337183;10.7717/peerj-cs.423;Article;2021;gastroenterology
+Tonic-Myoclonic Epileptic Seizure Classification based on Surface Electromyography;2-s2.0-85107481391;10.1109/SSD52085.2021.9429401;Conference Paper;2021;gastroenterology
+EpiPanGI Dx: A Cell-free DNA Methylation fingerprint for the early detection of Gastrointestinal cancers;2-s2.0-85119931744;10.1158/1078-0432.CCR-21-1982;Article;2021;gastroenterology
+Gastrointestinal Tract Disease Classification from Wireless Endoscopy Images Using Pretrained Deep Learning Model;2-s2.0-85115758063;10.1155/2021/5940433;Article;2021;gastroenterology
+An improved framework for polyp image segmentation based on SegNet architecture;2-s2.0-85102292125;10.1002/ima.22568;Article;2021;gastroenterology
+Gastrointestinal disease classification in endoscopic images using attention-guided convolutional neural networks;2-s2.0-85119961669;10.3390/app112311136;Article;2021;gastroenterology
+Decision-support tools via mobile devices to improve quality of care in primary healthcare settings;2-s2.0-85111459388;10.1002/14651858.CD012944.pub2;Article;2021;gastroenterology
+Diagnosing the Stage of Hepatitis C Using Machine Learning;2-s2.0-85122228136;10.1155/2021/8062410;Article;2021;gastroenterology
+Artificial intelligence and computer-aided diagnosis for colonoscopy: Where do we stand now?;2-s2.0-85118265099;10.21037/tgh.2019.12.14;Review;2021;gastroenterology
+Artificial Intelligence-based Analytics for Diagnosis of Small Bowel Enteropathies and Black Box Feature Detection;2-s2.0-85106539343;10.1097/MPG.0000000000003057;Article;2021;gastroenterology
+Epileptic Seizure Motion Classification based on sEMG and Artificial Neural Network;2-s2.0-85126854665;10.1109/IWIS54661.2021.9711793;Conference Paper;2021;gastroenterology
+Validation of a machine learning approach using FIB-4 and APRI scores assessed by the metavir scoring system: A cohort study;2-s2.0-85105591754;10.1016/j.ajg.2021.04.003;Article;2021;gastroenterology
+Development of a microcontroller EEG-based system for diagnosis of autism spectrum disorder in developing countries;2-s2.0-85101684807;10.1088/1742-6596/1734/1/012033;Conference Paper;2021;gastroenterology
+Exploring Optimised Capsule Network on Complex Images for Medical Diagnosis;2-s2.0-85125414535;10.1109/ICAST52759.2021.9682081;Conference Paper;2021;gastroenterology
+Development and Validation of an Artificial Intelligence-Based Model to Predict Gastroesophageal Reflux Disease After Sleeve Gastrectomy;2-s2.0-85130226061;10.1007/s11695-022-06112-x;Article;2022;gastroenterology
+Development and multicenter validation of FIB-6: A novel, machine learning, simple bedside score to rule out liver cirrhosis and compensated advanced chronic liver disease in patients with chronic hepatitis C;2-s2.0-85119822395;10.1111/hepr.13729;Article;2022;gastroenterology
+Examining the effect of synthetic data augmentation in polyp detection and segmentation;2-s2.0-85131566644;10.1007/s11548-022-02651-x;Article;2022;gastroenterology
+Viruses associated with ill health in wild chimpanzees;2-s2.0-85122888445;10.1002/ajp.23358;Article;2022;gastroenterology
+Detection and classification of gastrointestinal disease using convolutional neural network and SVM;2-s2.0-85131549466;10.1080/23311916.2022.2084878;Article;2022;gastroenterology
+Biosensor-Assisted Method for Abdominal Syndrome Classification Using Machine Learning Algorithm;2-s2.0-85124261254;10.1155/2022/4454226;Article;2022;gastroenterology
+Classification of focal liver disease in egyptian patients using ultrasound images and convolutional neural networks;2-s2.0-85135094940;10.11591/ijeecs.v27.i2.pp793-802;Article;2022;gastroenterology
+Automated Colorectal Polyp Classification Using Deep Neural Networks with Colonoscopy Images;2-s2.0-85117778808;10.1007/s40815-021-01182-y;Article;2022;gastroenterology
+Random forest and support vector machine-based hybrid liver disease detection;2-s2.0-85131574528;10.11591/eei.v11i3.3787;Article;2022;gastroenterology
+Detection and classification of large bowel obstruction from X-ray images using machine learning algorithms;2-s2.0-85137439386;10.1002/ima.22800;Article;2022;gastroenterology
+Image Processing and Machine Learning-Based Classification and Detection of Liver Tumor;2-s2.0-85135426831;10.1155/2022/3398156;Article;2022;gastroenterology
+Reducing the feedback requests in distributed coding of capsule endoscopy images with an LSTM model;2-s2.0-85133121356;10.1109/ISPA54004.2022.9786324;Conference Paper;2022;gastroenterology
+Automatic Classification of Diffuse Liver Diseases: Cirrhosis & Hepatosteatosis using Ultrasound Images;2-s2.0-85132445414;10.1109/MIUCC55081.2022.9781734;Conference Paper;2022;gastroenterology
+CNN-based Approach for Prediction of Periodontally Teeth;2-s2.0-85132422979;10.1109/MIUCC55081.2022.9781782;Conference Paper;2022;gastroenterology
+Visual Interpretability of Capsule Network for Medical Image analysis;2-s2.0-85128304982;10.3906/ELK-2107-146;Article;2022;gastroenterology
+Hybrid Model for Prediction of Treatment Response in Beta-thalassemia Patients with Hepatitis C Infection;2-s2.0-85115191579;10.1007/978-981-16-2275-5_37;Conference Paper;2022;gastroenterology
+Artificial intelligence and upper gastrointestinal endoscopy: Current status and future perspective;2-s2.0-85061563640;10.1111/den.13317;Review;2019;gastroenterology
+Diagnosis of Focal Liver Diseases Based on Deep Learning Technique for Ultrasound Images;2-s2.0-85024893433;10.1007/s13369-016-2387-9;Article;2017;gastroenterology
+FibroGENE: A gene-based model for staging liver fibrosis;2-s2.0-84954366506;10.1016/j.jhep.2015.11.008;Article;2016;gastroenterology
+Comparison of Machine Learning Approaches for Prediction of Advanced Liver Fibrosis in Chronic Hepatitis C Patients;2-s2.0-85023752899;10.1109/TCBB.2017.2690848;Article;2018;gastroenterology
+Sparse modeling reveals miRNA signatures for diagnostics of inflammatory bowel disease;2-s2.0-84948978330;10.1371/journal.pone.0140155;Article;2015;gastroenterology
+Performance of machine learning approaches on prediction of esophageal varices for Egyptian chronic hepatitis C patients;2-s2.0-85075209594;10.1016/j.imu.2019.100267;Article;2019;gastroenterology
+Data mining and machine learning algorithms using IL28B genotype and biochemical markers best predicted advanced liver fibrosis in chronic hepatitis C;2-s2.0-85040951646;10.7883/yoken.JJID.2017.089;Article;2018;gastroenterology
+Accurate Prediction of Advanced Liver Fibrosis Using the Decision Tree Learning Algorithm in Chronic Hepatitis C Egyptian Patients;2-s2.0-84955512145;10.1155/2016/2636390;Article;2016;gastroenterology
+Assessment of Machine Learning Detection of Environmental Enteropathy and Celiac Disease in Children;2-s2.0-85068112890;10.1001/jamanetworkopen.2019.5822;Article;2019;gastroenterology
+Hybrid rough-bijective soft set classification system;2-s2.0-84997755051;10.1007/s00521-016-2711-z;Article;2018;gastroenterology
+Prediction of Liver Diseases Based on Machine Learning Technique for Big Data;2-s2.0-85041812636;10.1007/978-3-319-74690-6_36;Conference Paper;2018;gastroenterology
+Accurate prediction of response to Interferon-based therapy in Egyptian patients with Chronic Hepatitis C using machine-learning approaches;2-s2.0-84876036172;10.1109/ASONAM.2012.140;Conference Paper;2012;gastroenterology
+Prediction and staging of hepatic fibrosis in children with hepatitis c virus: A machine learning approach;2-s2.0-85071843356;10.4258/hir.2019.25.3.173;Article;2019;gastroenterology
+Deep learning for detecting diseases in gastrointestinal biopsy images;2-s2.0-85068545035;10.1109/SIEDS.2019.8735619;Conference Paper;2019;gastroenterology
+Deep learning for visual recognition of environmental enteropathy and celiac disease;2-s2.0-85073027240;10.1109/BHI.2019.8834458;Conference Paper;2019;gastroenterology
+Prediction of potential-diabetic obese-patients using machine learning techniques;2-s2.0-85072292817;10.14569/ijacsa.2019.0100812;Article;2019;gastroenterology
+Automated Gastrointestinal Disease Recognition for Endoscopic Images;2-s2.0-85084511882;10.1109/ICCCIS48478.2019.8974458;Conference Paper;2019;gastroenterology
+A Fibrosis Diagnosis Clinical Decision Support System Using Fuzzy Knowledge;2-s2.0-85063256311;10.1007/s13369-018-3670-8;Article;2019;gastroenterology
+Gastroenterology Meets Machine Learning: Status Quo and Quo Vadis;2-s2.0-85065759556;10.1155/2019/1870975;Review;2019;gastroenterology
+Automatic classification of gastrointestinal diseases based on machine learning techniques;2-s2.0-85111448890;10.1109/ICCTA48790.2019.9478820;Conference Paper;2019;gastroenterology
+Predicting toxicity behaviour of engineered nanomaterials using adaptive neuro-fuzzy inference systems;2-s2.0-85083390417;;Conference Paper;2019;gastroenterology
+Modelling toxicity behaviour of engineered nanomaterials using computational intelligence approach;2-s2.0-85088201012;10.2118/190498-ms;Conference Paper;2018;gastroenterology

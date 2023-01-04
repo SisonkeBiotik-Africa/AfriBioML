@@ -1,0 +1,51 @@
+Title;EID;DOI;DocumentType;Year;Category
+Generalization of Convolutional Neural Networks for ECG Classification Using Generative Adversarial Networks;2-s2.0-85080894221;10.1109/ACCESS.2020.2974712;Article;2020;rhythmology
+COVID-19 pathways for brain and heart injury in comorbidity patients: A role of medical imaging and artificial intelligence-based COVID severity classification: A review;2-s2.0-85090163898;10.1016/j.compbiomed.2020.103960;Review;2020;rhythmology
+Electrocardiogram heartbeat classification based on a deep convolutional neural network and focal loss;2-s2.0-85087720372;10.1016/j.compbiomed.2020.103866;Article;2020;rhythmology
+Migrating Intelligence from Cloud to Ultra-Edge Smart IoT Sensor Based on Deep Learning: An Arrhythmia Monitoring Use-Case;2-s2.0-85089700994;10.1109/IWCMC48107.2020.9148134;Conference Paper;2020;rhythmology
+An End-to-End Multi-Level Wavelet Convolutional Neural Networks for heart diseases diagnosis;2-s2.0-85089814880;10.1016/j.neucom.2020.07.056;Article;2020;rhythmology
+Detection of Cardiac Arrhythmias from Varied Length Multichannel Electrocardiogram Recordings Using Deep Convolutional Neural Networks;2-s2.0-85100933346;10.22489/CinC.2020.339;Conference Paper;2020;rhythmology
+Arrhythmias Prediction Using an Hybrid Model Based on Convolutional Neural Network and Nonlinear Regression;2-s2.0-85092550839;10.1142/S1469026820500248;Article;2020;rhythmology
+A Multitier Deep Learning Model for Arrhythmia Detection;2-s2.0-85098332137;10.1109/TIM.2020.3033072;Article;2021;rhythmology
+A new automated CNN deep learning approach for identification of ECG congestive heart failure and arrhythmia using constant-Q non-stationary Gabor transform;2-s2.0-85097331071;10.1016/j.bspc.2020.102326;Article;2021;rhythmology
+An automated system for ECG arrhythmia detection using machine learning techniques;2-s2.0-85119345465;10.3390/jcm10225450;Article;2021;rhythmology
+Disease-specific variant pathogenicity prediction significantly improves variant interpretation in inherited cardiac conditions;2-s2.0-85092410595;10.1038/s41436-020-00972-3;Article;2021;rhythmology
+A proof-of-concept of ultra-edge smart iot sensor: A continuous and lightweight arrhythmia monitoring approach;2-s2.0-85100778050;10.1109/ACCESS.2021.3056509;Article;2021;rhythmology
+Multirate processing with selective subbands and machine learning for efficient arrhythmia classificationâ€ ;2-s2.0-85101176437;10.3390/s21041511;Article;2021;rhythmology
+Optimal Length of Heart Rate Variability Data and Forecasting Time for Ventricular Fibrillation Prediction Using Machine Learning;2-s2.0-85103624040;10.1155/2021/6663996;Article;2021;rhythmology
+Classification of ECG heartbeats using deep neural networks;2-s2.0-85115688602;10.1007/s42600-021-00176-x;Article;2021;rhythmology
+Real-time arrhythmia heart disease detection system using CNN architecture based various optimizers-networks;2-s2.0-85114903760;10.1007/s11042-021-11268-2;Article;2021;rhythmology
+Deep Convolutional Neural Networks for ECG Heartbeat Classification Using Two-Stage Hierarchical Method;2-s2.0-85092081271;10.1007/978-3-030-58669-0_12;Conference Paper;2021;rhythmology
+Energy and sparse coding coefficients as sufficient measures for VEBs classification;2-s2.0-85101527688;10.1016/j.bspc.2021.102493;Article;2021;rhythmology
+An overview on machine learning methods for ECG Heartbeat Arrhythmia Classification;2-s2.0-85119527470;10.1109/ICDATA52997.2021.00012;Conference Paper;2021;rhythmology
+Multi-model deep learning ensemble for ECG heartbeat arrhythmia classification;2-s2.0-85099296901;10.23919/Eusipco47968.2020.9287520;Conference Paper;2021;rhythmology
+An automatic arrhythmia classification model based on improved Marine Predators Algorithm and Convolutions Neural Networks;2-s2.0-85116431145;10.1016/j.eswa.2021.115936;Article;2022;rhythmology
+Design of a secured telehealth system based on multiple biosignals diagnosis and classification for IoT application;2-s2.0-85109634022;10.1111/exsy.12765;Article;2022;rhythmology
+A deep learning-based cardio-vascular disease diagnosis system;2-s2.0-85124659476;10.11591/ijeecs.v25.i2.pp963-971;Article;2022;rhythmology
+Automated ECG multi-class classification system based on combining deep learning features with HRV and ECG measures;2-s2.0-85123849664;10.1007/s00521-022-06889-z;Article;2022;rhythmology
+A Cloud-Based Machine Learning Approach to Reduce Noise in ECG Arrhythmias for Smart Healthcare Services;2-s2.0-85133614763;10.1155/2022/3773883;Article;2022;rhythmology
+Deep Learning Models for Magnetic Cardiography Edge Sensors Implementing Noise Processing and Diagnostics;2-s2.0-85122314259;10.1109/ACCESS.2021.3138976;Article;2022;rhythmology
+Automated Detection of Myocardial Infarction and Heart Conduction Disorders Based on Feature Selection and a Deep Learning Model;2-s2.0-85137572068;10.3390/s22176503;Article;2022;rhythmology
+ECG Heartbeat Classification Using CONVXGB Model;2-s2.0-85136791769;10.3390/electronics11152280;Article;2022;rhythmology
+ECG Arrhythmia Classification Using Convolutional Neural Network;2-s2.0-85135368671;10.46338/ijetae0722_19;Article;2022;rhythmology
+ECG scalogram classification with CNN micro-architectures;2-s2.0-85119058335;10.1007/s42600-021-00188-7;Article;2022;rhythmology
+Deep Learning Models for Arrhythmia Detection in IoT Healthcare Applications;2-s2.0-85129342430;10.1016/j.compeleceng.2022.108011;Article;2022;rhythmology
+ECG-Based Heartbeat Classification forÂ Arrhythmia Detection Using Artificial Neural Networks;2-s2.0-85135089094;10.1007/978-3-031-10450-3_20;Conference Paper;2022;rhythmology
+Classification of Electrocardiography Hybrid Convolutional Neural Network-Long Short Term Memory with Fully Connected Layer;2-s2.0-85134764571;10.1155/2022/6348424;Article;2022;rhythmology
+A survey of deep learning approaches for classifying ECG heartbeat arrhythmias;2-s2.0-85134297279;10.1109/ISCV54655.2022.9806085;Conference Paper;2022;rhythmology
+A Modified Deep Learning Framework for Arrhythmia Disease Analysis in Medical Imaging Using Electrocardiogram Signal;2-s2.0-85133989150;10.1155/2022/5203401;Article;2022;rhythmology
+DeepECG :Building an Efficient Framework for Automatic Arrhythmia classification model;2-s2.0-85132440473;10.1109/MIUCC55081.2022.9781646;Conference Paper;2022;rhythmology
+Arrhythmia classification using multirate processing metaheuristic optimization and variational mode decomposition;2-s2.0-85131043740;10.1016/j.jksuci.2022.05.009;Article;2022;rhythmology
+An integration of features for person identification based on the PQRST fragments of ECG signals;2-s2.0-85124716379;10.1007/s11760-022-02165-8;Article;2022;rhythmology
+Mathematical Modelling of Quantum Kernel Method for Biomedical Data Analysis;2-s2.0-85122766136;10.32604/cmc.2022.024545;Article;2022;rhythmology
+Very deep feature extraction and fusion for arrhythmias detection;2-s2.0-85049583842;10.1007/s00521-018-3616-9;Article;2018;rhythmology
+Improving Twin Support Vector Machine Based on Hybrid Swarm Optimizer for Heartbeat Classification;2-s2.0-85048733859;10.1134/S1054661818020037;Article;2018;rhythmology
+Machine learning in electrocardiogram diagnosis;2-s2.0-78649757623;10.1109/IMCSIT.2009.5352689;Conference Paper;2009;rhythmology
+Looking back and thinking forwards â€” 15 years of cardiology and cardiovascular research;2-s2.0-85073443144;10.1038/s41569-019-0261-7;Review;2019;rhythmology
+An Enhanced Random Forest for Cardiac Diseases Identification based on ECG signal;2-s2.0-85053865166;10.1109/IWCMC.2018.8450361;Conference Paper;2018;rhythmology
+ECG multi-class classification using neural network as machine learning model;2-s2.0-85050017983;10.1109/ASET.2018.8379901;Conference Paper;2018;rhythmology
+Full training convolutional neural network for ECG signals classification;2-s2.0-85076746391;10.1063/1.5138541;Conference Paper;2019;rhythmology
+Online anomaly detection in ECG signal using Hierarchical Temporal Memory;2-s2.0-85077793370;10.1109/ICABME47164.2019.8940307;Conference Paper;2019;rhythmology
+Application of Koniocortex-Like Networks to Cardiac Arrhythmias Classification;2-s2.0-85065963665;10.1007/978-3-030-19651-6_26;Conference Paper;2019;rhythmology
+Machine learning in the medical field for decision making;2-s2.0-85045198245;;Article;2017;rhythmology
+Cognitive amalgam with a distributed fuzzy case-based reasoning system for an accurate cardiac arrhythmias diagnosis;2-s2.0-84936771238;10.1504/IJICT.2015.070297;Article;2015;rhythmology

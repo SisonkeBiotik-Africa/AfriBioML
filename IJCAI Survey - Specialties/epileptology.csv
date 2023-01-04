@@ -1,0 +1,50 @@
+Title;EID;DOI;DocumentType;Year;Category
+Epileptic seizure detection on EEG signals using machine learning techniques and advanced preprocessing methods;2-s2.0-85078510517;10.1515/bmt-2019-0001;Article;2020;epileptology
+A Dynamic filtering df-rnn deep-learning-based approach for eeg-based neurological disorders diagnosis;2-s2.0-85097220687;10.1109/ACCESS.2020.3037995;Article;2020;epileptology
+Supervised domain generalization for integration of disparate scalp EEG datasets for automatic epileptic seizure detection;2-s2.0-85083420347;10.1016/j.compbiomed.2020.103757;Article;2020;epileptology
+Patient Specific Epileptic Seizures Prediction based on Support Vector Machine;2-s2.0-85100564510;10.1109/ICM50269.2020.9331776;Conference Paper;2020;epileptology
+Comparative Analysis of Various Machine Learning Techniques for Epileptic Seizures Detection and Prediction Using EEG Data;2-s2.0-85097956811;10.1109/NILES50944.2020.9257979;Conference Paper;2020;epileptology
+A natural evolution optimization based deep learning algorithm for neurological disorder classification;2-s2.0-85086891372;10.3233/BME-201081;Article;2020;epileptology
+A deep learning identification system for different epileptic seizure disease stages;2-s2.0-85089162485;;Article;2020;epileptology
+Epileptic seizures detection using deep learning techniques: A review;2-s2.0-85106566014;10.3390/ijerph18115780;Review;2021;epileptology
+A recent investigation on detection and classification of epileptic seizure techniques using eeg signal;2-s2.0-85107390030;10.3390/brainsci11050668;Article;2021;epileptology
+Automated seizure diagnosis system based on feature extraction and channel selection using EEG signals;2-s2.0-85101452232;10.1186/s40708-021-00123-7;Article;2021;epileptology
+Artificial intelligence for classification of temporal lobe epilepsy with ROI-level MRI data: A worldwide ENIGMA-Epilepsy study;2-s2.0-85111563148;10.1016/j.nicl.2021.102765;Article;2021;epileptology
+Exploiting Feature Selection and Neural Network Techniques for Identification of Focal and Nonfocal EEG Signals in TQWT Domain;2-s2.0-85114623329;10.1155/2021/6283900;Article;2021;epileptology
+Classifying epilepsy pragmatically: Past, present, and future;2-s2.0-85108437428;10.1016/j.jns.2021.117515;Review;2021;epileptology
+Tonic-Myoclonic Epileptic Seizure Classification based on Surface Electromyography;2-s2.0-85107481391;10.1109/SSD52085.2021.9429401;Conference Paper;2021;epileptology
+Epileptic seizures identification with autoregressive model and firefly optimization based classification;2-s2.0-85077037177;10.1007/s12530-019-09319-z;Article;2021;epileptology
+A novel Machine Learning approach for epilepsy diagnosis using EEG signals based on Correlation Dimension;2-s2.0-85120867505;10.1016/j.ifacol.2021.11.018;Conference Paper;2021;epileptology
+A Novel Machine Learning Model for the Detection of Epilepsy and Epileptic Seizures Using Electroencephalographic Signals Based on Chaos and Fractal Theories;2-s2.0-85113738509;10.1155/2021/2107113;Article;2021;epileptology
+Epileptic Seizure Motion Classification based on sEMG and Artificial Neural Network;2-s2.0-85126854665;10.1109/IWIS54661.2021.9711793;Conference Paper;2021;epileptology
+A novel epileptic seizure detection system using scalp EEG signals based on hybrid CNN-SVM classifier;2-s2.0-85124655396;10.1109/ISIEA51897.2021.9510002;Conference Paper;2021;epileptology
+EEG signal analysis using deep learning: A systematic literature review;2-s2.0-85123480267;10.1109/ICDS53782.2021.9626707;Conference Paper;2021;epileptology
+Natural resonance frequency identification for remote sensing and biomedical engineering using Prony method and fuzzy logic;2-s2.0-85077143474;10.1016/j.ejrs.2019.12.001;Article;2021;epileptology
+A new Machine Learning approach for epilepsy diagnostic based on Sample Entropy;2-s2.0-85120710680;10.1016/j.ifacol.2021.10.280;Conference Paper;2021;epileptology
+The ENIGMA-Epilepsy working group: Mapping disease from large data sets;2-s2.0-85085547126;10.1002/hbm.25037;Review;2022;epileptology
+A machine learning approach involving functional connectivity features to classify rest-eeg psychogenic non-epileptic seizures from healthy controls;2-s2.0-85121653783;10.3390/s22010129;Article;2022;epileptology
+Interventional neurorehabilitation for promoting functional recovery post-craniotomy: a proof-of-concept;2-s2.0-85125214165;10.1038/s41598-022-06766-8;Article;2022;epileptology
+Deep Learning Models for Predicting Epileptic Seizures Using iEEG Signals;2-s2.0-85124617910;10.3390/electronics11040605;Article;2022;epileptology
+On the Use of Wavelet Domain and Machine Learning for the Analysis of Epileptic Seizure Detection from EEG Signals;2-s2.0-85125767777;10.1155/2022/8928021;Article;2022;epileptology
+Metaheuristic Optimization Algorithm for Signals Classification of Electroencephalography Channels;2-s2.0-85122747133;10.32604/cmc.2022.024043;Article;2022;epileptology
+Determinant of Covariance Matrix Model Coupled with AdaBoost Classification Algorithm for EEG Seizure Detection;2-s2.0-85122687167;10.3390/diagnostics12010074;Article;2022;epileptology
+An automated deep learning enabled brain signal classification for epileptic seizure detection on complex measurement systems;2-s2.0-85129326878;10.1016/j.measurement.2022.111226;Article;2022;epileptology
+An Efficient Hybrid Model for Patient-Independent Seizure Prediction Using Deep Learning;2-s2.0-85131505290;10.3390/app12115516;Article;2022;epileptology
+A Machine Learning Based Discharge Prediction of Cardiovascular Diseases Patients in Intensive Care Units;2-s2.0-85131379397;10.3390/healthcare10060966;Article;2022;epileptology
+Deep-learning-based seizure detection and prediction from electroencephalography signals;2-s2.0-85129799816;10.1002/cnm.3573;Article;2022;epileptology
+Application of Deep Learning and WT-SST in Localization of Epileptogenic Zone Using Epileptic EEG Signals;2-s2.0-85130575202;10.3390/app12104879;Article;2022;epileptology
+Machine Learning Based Prediction and Modeling in Healthcare Secured Internet of Things;2-s2.0-85100174978;10.1007/s11036-020-01711-3;Article;2022;epileptology
+A machine-learning approach for predicting impaired consciousness in absence epilepsy;2-s2.0-85138216817;10.1002/acn3.51647;Article;2022;epileptology
+Towards a better multivariate time-series detection of epileptic seizures in electroencephalogram (EEG) using Machine Learning algorithms;2-s2.0-85136817180;10.1109/SMARTTECH54121.2022.00041;Conference Paper;2022;epileptology
+Effective Evaluation of Medical Images Using Artificial Intelligence Techniques;2-s2.0-85136672047;10.1155/2022/8419308;Article;2022;epileptology
+Epileptic Seizures Detection on EEG Signal Using Deep Learning Techniques;2-s2.0-85134264302;10.1109/ATSIP55956.2022.9805860;Conference Paper;2022;epileptology
+Epileptic Disease Prediction Using Graphic User Interface-Machine Learning Algorithm;2-s2.0-85133121883;10.1109/ISPA54004.2022.9786366;Conference Paper;2022;epileptology
+ESEEG: An Efficient Epileptic Seizure Detection using EEG signals based on Machine Learning Algorithms;2-s2.0-85132405512;10.1109/MIUCC55081.2022.9781762;Conference Paper;2022;epileptology
+A Convolutional Neural Network for Artifacts Detection in EEG Data;2-s2.0-85129313239;10.1007/978-981-16-7618-5_1;Conference Paper;2022;epileptology
+Deep Learning Model for Automatic Classification and Prediction of Brain Tumor;2-s2.0-85128691333;10.1155/2022/3065656;Article;2022;epileptology
+Epileptic Seizure Detection Using a Convolutional Neural Network;2-s2.0-85114066630;10.1007/978-3-030-11800-6_9;Book Chapter;2019;epileptology
+Deep Learning for Low-Field to High-Field MR: Image Quality Transfer with Probabilistic Decimation Simulator;2-s2.0-85076223527;10.1007/978-3-030-33843-5_6;Conference Paper;2019;epileptology
+Evidence of chaos in EEG signals: An application to BCI;2-s2.0-84963787518;10.1007/978-3-319-30340-6_25;Book Chapter;2016;epileptology
+EEG signals classification for epileptic detection: A review;2-s2.0-85044659117;10.1145/3018896.3018970;Conference Paper;2017;epileptology
+Seizure prediction segmentation merge yielding a boosted low power model;2-s2.0-85082133018;10.1109/ICM48031.2019.9021703;Conference Paper;2019;epileptology
+Novel Classification Method of Spikes Morphology in EEG Signal Using Machine Learning;2-s2.0-85062682345;10.1016/j.procs.2019.01.010;Conference Paper;2019;epileptology

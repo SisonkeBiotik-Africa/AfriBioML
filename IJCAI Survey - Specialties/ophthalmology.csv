@@ -1,0 +1,57 @@
+Title;EID;DOI;DocumentType;Year;Category
+An IoT-cloud based intelligent computer-aided diagnosis of diabetic retinopathy stage classification using deep learning approach;2-s2.0-85097204164;10.32604/cmc.2020.013251;Article;2020;ophthalmology
+HyCAD-OCT: A hybrid computer-aided diagnosis of retinopathy by optical coherence tomography integrating machine learning and feature maps localization;2-s2.0-85088652312;10.3390/app10144716;Article;2020;ophthalmology
+Computer assisted medical decision-making system using genetic algorithm and extreme learning machine for diagnosing allergic rhinitis;2-s2.0-85096615126;10.1504/IJBIC.2020.111279;Article;2020;ophthalmology
+Deep learning for identifying and classifying retinal diseases;2-s2.0-85097996926;10.1109/ICCIS49240.2020.9257674;Conference Paper;2020;ophthalmology
+Machine Learning Aprroach for Early Detection of Glaucoma from Visual Fields;2-s2.0-85117541042;10.1145/3386723.3387858;Conference Paper;2020;ophthalmology
+Diabetic Retinopathy Grading Based on a Hybrid Deep Learning Model;2-s2.0-85100481995;10.1109/ICDABI51230.2020.9325672;Conference Paper;2020;ophthalmology
+Diabetic Retinopathy Diagnosis from Fundus Images Using Stacked Generalization of Deep Models;2-s2.0-85111578483;10.1109/ACCESS.2021.3101142;Article;2021;ophthalmology
+Energetic Glaucoma Segmentation and Classification Strategies Using Depth Optimized Machine Learning Strategies;2-s2.0-85120811544;10.1155/2021/5709257;Article;2021;ophthalmology
+An automatic detection system of diabetic retinopathy using a hybrid inductive machine learning algorithm;2-s2.0-85099101077;10.1007/s00779-020-01519-8;Article;2021;ophthalmology
+Multidisease Deep Learning Neural Network for the Diagnosis of Corneal Diseases;2-s2.0-85104109996;10.1016/j.ajo.2021.01.018;Article;2021;ophthalmology
+Diarop: Automated deep learning-based diagnostic tool for retinopathy of prematurity;2-s2.0-85118874589;10.3390/diagnostics11112034;Article;2021;ophthalmology
+A digital pathology solution to resolve the tissue floater conundrum;2-s2.0-85102182665;10.5858/arpa.2020-0034-OA;Article;2021;ophthalmology
+Automated Clinical Assessment of Corneal Guttae in Fuchs Endothelial Corneal Dystrophy;2-s2.0-85093069374;10.1016/j.ajo.2020.07.029;Article;2021;ophthalmology
+Comparison of autonomous as-oct deep learning algorithm and clinical dry eye tests in diagnosis of dry eye disease;2-s2.0-85117938360;10.2147/OPTH.S321764;Article;2021;ophthalmology
+Multi source retinal fundus image classification using convolution neural networks fusion and Gabor-based texture representation;2-s2.0-85111560643;10.1504/IJCVR.2021.116557;Article;2021;ophthalmology
+Deep Learning-Based Smart IoT Health System for Blindness Detection Using Retina Images;2-s2.0-85105865857;10.1109/ACCESS.2021.3078241;Article;2021;ophthalmology
+Detection of retinal abnormalities in fundus image using CNN deep learning networks;2-s2.0-85126736813;10.1016/B978-0-12-819740-0.00002-4;Book Chapter;2021;ophthalmology
+Keratoconus Severity Classification Using Features Selection and Machine Learning Algorithms;2-s2.0-85120803849;10.1155/2021/9979560;Article;2021;ophthalmology
+Mobile Aided System of Deep-Learning Based Cataract Grading from Fundus Images;2-s2.0-85111405135;10.1007/978-3-030-77211-6_40;Conference Paper;2021;ophthalmology
+Using deep features extraction and ensemble classifiers to detect glaucoma from fundus images;2-s2.0-85101147707;10.1007/978-3-030-53440-0_8;Book Chapter;2021;ophthalmology
+A Comparison of Computer Vision Methods for the Combined Detection of Glaucoma, Diabetic Retinopathy and Cataracts;2-s2.0-85112200242;10.1007/978-3-030-80432-9_3;Conference Paper;2021;ophthalmology
+DCGAn for enhancing eye diseases classification;2-s2.0-85106180621;;Conference Paper;2021;ophthalmology
+Segmenting the Optic Disc Using a Deep Learning Ensemble Model Based on OWA Operators;2-s2.0-85117952668;10.3233/FAIA210149;Conference Paper;2021;ophthalmology
+Efficient Fundus Image Gradeability Approach Based on Deep Reconstruction-Classification Network;2-s2.0-85117938923;10.3233/FAIA210160;Conference Paper;2021;ophthalmology
+An automated CAD system for accurate grading of uveitis using optical coherence tomography images;2-s2.0-85112369253;10.3390/s21165457;Article;2021;ophthalmology
+Diabetic Retinopathy: New Perspectives with Artificial Intelligence;2-s2.0-85123463630;10.1109/ICDS53782.2021.9626762;Conference Paper;2021;ophthalmology
+Medical image enhancement based on convolutional denoising autoencoders and GMD model;2-s2.0-85111868993;;Conference Paper;2021;ophthalmology
+A novel hybrid approach based on deep cnn to detect glaucoma using fundus imaging;2-s2.0-85121438510;10.3390/electronics11010026;Article;2022;ophthalmology
+Deep Learning Prediction of Response to Anti-VEGF among Diabetic Macular Edema Patients: Treatment Response Analyzer System (TRAS);2-s2.0-85124105964;10.3390/diagnostics12020312;Article;2022;ophthalmology
+Medical Image Classification Utilizing Ensemble Learning and Levy Flight-Based Honey Badger Algorithm on 6G-Enabled Internet of Things;2-s2.0-85131535227;10.1155/2022/5830766;Article;2022;ophthalmology
+The Role of Different Retinal Imaging Modalities in Predicting Progression of Diabetic Retinopathy: A Survey;2-s2.0-85129362588;10.3390/s22093490;Article;2022;ophthalmology
+A Deep Learning Approach forÂ theÂ Diabetic Retinopathy Detection;2-s2.0-85126373210;10.1007/978-3-030-94191-8_37;Conference Paper;2022;ophthalmology
+Bridging the resources gap: deep learning for fluorescein angiography and optical coherence tomography macular thickness map image translation;2-s2.0-85137110259;10.1186/s12886-022-02577-7;Article;2022;ophthalmology
+Diabetic Retinopathy Classification Using Hybrid Deep Learning Approach;2-s2.0-85133469259;10.1007/s42979-022-01240-8;Article;2022;ophthalmology
+Computer-aided diagnosis system for retinal disorder classification using optical coherence tomography images;2-s2.0-85130955537;10.1515/bmt-2021-0330;Article;2022;ophthalmology
+Predicting future community-level ocular Chlamydia trachomatis infection prevalence using serological, clinical, molecular, and geospatial data;2-s2.0-85127717810;10.1371/journal.pntd.0010273;Article;2022;ophthalmology
+Deep multiple instance learning for automatic glaucoma prevention and auto-annotation using color fundus photography;2-s2.0-85138383809;10.1007/s13748-022-00292-4;Article;2022;ophthalmology
+TrachomaNet: Detection and grading of trachoma using texture feature based deep convolutional neural network;2-s2.0-85135131663;10.1007/s11042-022-13214-2;Article;2022;ophthalmology
+Computational Approach for Detection of Diabetes from Ocular Scans;2-s2.0-85130455314;10.1155/2022/5066147;Article;2022;ophthalmology
+Automated CAD System for Intermediate Uveitis Grading Using Optical Coherence Tomography Images;2-s2.0-85129575050;10.1109/ISBI52829.2022.9761532;Conference Paper;2022;ophthalmology
+Deep hybrid architectures for diabetic retinopathy classification;2-s2.0-85129262042;10.1080/21681163.2022.2060864;Article;2022;ophthalmology
+End-to-End Mobile System for Diabetic Retinopathy Screening Based on Lightweight Deep Neural Network;2-s2.0-85128761134;10.1007/978-3-031-01333-1_6;Conference Paper;2022;ophthalmology
+Glaucoma Detection Using Image Processing and Supervised Learning for Classification;2-s2.0-85126402824;10.1155/2022/2988262;Article;2022;ophthalmology
+Hybrid Encoder-Decoder Model forÂ Retinal Blood Vessels Segmentation;2-s2.0-85126248640;10.1007/978-3-030-96302-6_49;Conference Paper;2022;ophthalmology
+Anatomical prognosis after idiopathic macular hole surgery: machine learning based-predection;2-s2.0-85124921439;10.1080/19932820.2022.2034334;Article;2022;ophthalmology
+Screen-based behaviour in children is more than meets the eye;2-s2.0-85124499769;10.4102/safp.v64i1.5374;Article;2022;ophthalmology
+Artificial intelligence using deep learning to screen for referable and vision-threatening diabetic retinopathy in Africa: a clinical validation study;2-s2.0-85069971542;10.1016/S2589-7500(19)30004-4;Article;2019;ophthalmology
+Deep transfer learning models for medical diabetic retinopathy detection;2-s2.0-85084636753;10.5455/aim.2019.27.327-332;Article;2019;ophthalmology
+Bioimage informatics approach to automated meibomian gland analysis in infrared images of meibography;2-s2.0-84888008814;10.1016/j.optom.2013.09.001;Article;2013;ophthalmology
+Machine Learning Approaches in Smart Health;2-s2.0-85074785000;10.1016/j.procs.2019.06.052;Conference Paper;2018;ophthalmology
+Multi-modal classifier fusion with feature cooperation for glaucoma diagnosis;2-s2.0-85070974113;10.1080/0952813X.2019.1653383;Article;2019;ophthalmology
+A Deep Convolutional Encoder-Decoder Architecture for Retinal Blood Vessels Segmentation;2-s2.0-85068998039;10.1007/978-3-030-24308-1_15;Conference Paper;2019;ophthalmology
+Robust feature selection algorithm based on transductive SVM wrapper and genetic Algorithm: Application on computer-aided glaucoma classification;2-s2.0-85051766734;10.1504/IJISTA.2018.094018;Article;2018;ophthalmology
+Prediction of potential-diabetic obese-patients using machine learning techniques;2-s2.0-85072292817;10.14569/ijacsa.2019.0100812;Article;2019;ophthalmology
+A Comparative Study of Convolutional Neural Network and Twin SVM for Automatic Glaucoma Diagnosis;2-s2.0-85063884125;10.1109/SIVA.2018.8661076;Conference Paper;2019;ophthalmology
+Semi-automated method for the glaucoma monitoring;2-s2.0-85031999059;10.1007/978-3-319-63754-9_11;Book Chapter;2018;ophthalmology

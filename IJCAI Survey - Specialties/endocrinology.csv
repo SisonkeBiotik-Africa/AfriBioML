@@ -1,0 +1,58 @@
+Title;EID;DOI;DocumentType;Year;Category
+CNN-based health model for regular health factors analysis in internet-of-medical things environment;2-s2.0-85082511150;10.1109/ACCESS.2020.2980938;Article;2020;endocrinology
+Predicting Diabetes using Distributed Machine Learning based on Apache Spark;2-s2.0-85083552173;10.1109/ITCE48509.2020.9047795;Conference Paper;2020;endocrinology
+Sequence- and structure-based prediction of amyloidogenic regions in proteins;2-s2.0-85068121272;10.1007/s00500-019-04087-z;Article;2020;endocrinology
+Obesity in Qatar: A case-control study on the identification of associated risk factors;2-s2.0-85106412710;10.3390/diagnostics10110883;Article;2020;endocrinology
+A Predictive Performance Analysis of Vitamin D Deficiency Severity Using Machine Learning Methods;2-s2.0-85087275695;10.1109/ACCESS.2020.3002191;Article;2020;endocrinology
+Deep Learning based Approach for Bone Diagnosis Classification in Ultrasonic Computed Tomographic Images;2-s2.0-85099379820;10.14569/IJACSA.2020.0111210;Article;2020;endocrinology
+Flower pollination algorithm and multilayer perceptron artificial neural network for heart disease feature selection and classification;2-s2.0-85081101093;;Conference Paper;2020;endocrinology
+Diabetic Retinopathy Diagnosis from Fundus Images Using Stacked Generalization of Deep Models;2-s2.0-85111578483;10.1109/ACCESS.2021.3101142;Article;2021;endocrinology
+A systematic literature review on obesity: Understanding the causes & consequences of obesity and reviewing various machine learning approaches used to predict obesity;2-s2.0-85112757441;10.1016/j.compbiomed.2021.104754;Review;2021;endocrinology
+3D assessment of intervertebral disc degeneration in zebrafish identifies changes in bone density that prime disc disease;2-s2.0-85114136715;10.1038/s41413-021-00156-y;Article;2021;endocrinology
+A comparative analysis of machine learning algorithms to build a predictive model for detecting diabetes complications;2-s2.0-85105116735;10.31449/inf.v45i1.3111;Article;2021;endocrinology
+Cloud-Based Diabetes Decision Support System Using Machine Learning Fusion;2-s2.0-85103655589;10.32604/cmc.2021.016814;Article;2021;endocrinology
+Breast Cancer Calcifications: Identification Using a Novel Segmentation Approach;2-s2.0-85117385188;10.1155/2021/9905808;Article;2021;endocrinology
+Classification of initial stages of alzheimerâ€™s disease through pet neuroimaging modality and deep learning: Quantifying the impact of image filtering approaches;2-s2.0-85120639689;10.3390/math9233101;Article;2021;endocrinology
+HANA: A Healthy Artificial Nutrition Analysis model during COVID-19 pandemic;2-s2.0-85109425471;10.1016/j.compbiomed.2021.104606;Article;2021;endocrinology
+Novel mri-based cad system for early detection of thyroid cancer using multi-input CNN;2-s2.0-85107342872;10.3390/s21113878;Article;2021;endocrinology
+Thyroid cancer computer-aided diagnosis system using mri-based multi-input CNN model;2-s2.0-85107231765;10.1109/ISBI48211.2021.9433841;Conference Paper;2021;endocrinology
+Identification of Microbiota Biomarkers With Orthologous Gene Annotation for Type 2 Diabetes;2-s2.0-85111166570;10.3389/fmicb.2021.711244;Article;2021;endocrinology
+Artificial Intelligence (AI) to the Rescue: Deploying Machine Learning to Bridge the Biorelevance Gap in Antioxidant Assays;2-s2.0-85092612358;10.1177/2472630320962716;Review;2021;endocrinology
+DIAGNOSIS OF METABOLIC SYNDROME USING MACHINE LEARNING, STATISTICAL AND RISK QUANTIFICATION TECHNIQUES: A SYSTEMATIC LITERATURE REVIEW;2-s2.0-85112844683;10.22452/mjcs.vol34no3.1;Article;2021;endocrinology
+Diabetes Prediction Using Machine Learning: A Comparative Study;2-s2.0-85123179775;10.1109/NILES53778.2021.9600091;Conference Paper;2021;endocrinology
+Current and future clinical research in Sudan: An opportunity for everyone to choose research in medical education, communicable and non-communicable diseases;2-s2.0-85115342308;10.21037/JPHE-21-31;Review;2021;endocrinology
+Monitoring information-seeking patterns and obesity prevalence in africa with internet search data: Observational study;2-s2.0-85105102600;10.2196/24348;Article;2021;endocrinology
+Design of an IoT-based Body Mass Index (BMI) Prediction Model;2-s2.0-85126683291;10.1109/ISRITI54043.2021.9702866;Conference Paper;2021;endocrinology
+Data Analysis and Computational Methods for Assessing Knowledge of Obesity Risk Factors among Saudi Citizens;2-s2.0-85119010716;10.1155/2021/1371336;Article;2021;endocrinology
+Trabecular Bone Microarchitecture Assessment and Fracture Risk Prediction Using Machine Learning Techniques: A Short Review;2-s2.0-85113671921;10.1109/MI-STA52233.2021.9464362;Conference Paper;2021;endocrinology
+A robust CNN classification of whole slide thyroid carcinoma images;2-s2.0-85126801778;10.1109/JAC-ECC54461.2021.9691433;Conference Paper;2021;endocrinology
+Estimation of Body Mass Index from photographs using deep Convolutional Neural Networks;2-s2.0-85122797094;10.1016/j.imu.2021.100727;Article;2021;endocrinology
+Thyroid Nodules Recognition in Ultrasound Images Based on ImageNet Top-Performing Deep Convolutional Neural Networks;2-s2.0-85104476708;10.1007/978-3-030-69418-0_28;Conference Paper;2021;endocrinology
+Work-in-Progress: The Use of Big Data and Data Analytics in the Prevention, the Diagnosis and the Monitoring of Long-Term Diseases;2-s2.0-85091499298;10.1007/978-3-030-49932-7_81;Conference Paper;2021;endocrinology
+Identification of malnutrition and prediction of BMI from facial images using real-time image processing and machine learning;2-s2.0-85113952288;10.1049/ipr2.12222;Article;2022;endocrinology
+A Novel Diabetes Healthcare Disease Prediction Framework Using Machine Learning Techniques;2-s2.0-85123745975;10.1155/2022/1684017;Article;2022;endocrinology
+Development and Validation of an Artificial Intelligence-Based Model to Predict Gastroesophageal Reflux Disease After Sleeve Gastrectomy;2-s2.0-85130226061;10.1007/s11695-022-06112-x;Article;2022;endocrinology
+Fineâ€Tuning Fuzzy KNN Classifier Based on Uncertainty Membership for the Medical Diagnosis of Diabetes;2-s2.0-85122985751;10.3390/app12030950;Article;2022;endocrinology
+Estimation and Prediction of Hospitalization and Medical Care Costs Using Regression in Machine Learning;2-s2.0-85126417858;10.1155/2022/7969220;Article;2022;endocrinology
+Alzheimer's Disease and Î²-secretase Inhibition: An Update with a Focus on Computer-aided Inhibitor Design;2-s2.0-85126389254;10.2174/1389450122666210809100050;Review;2022;endocrinology
+Texture and shape analysis of diffusion-weighted imaging for thyroid nodules classification using machine learning;2-s2.0-85121613900;10.1002/mp.15399;Article;2022;endocrinology
+Blended Ensemble Learning Prediction Model for Strengthening Diagnosis and Treatment of Chronic Diabetes Disease;2-s2.0-85134893186;10.1155/2022/4451792;Article;2022;endocrinology
+Machine learning algorithms for predicting low birth weight in Ethiopia;2-s2.0-85137222401;10.1186/s12911-022-01981-9;Article;2022;endocrinology
+Diabetes emergency cases identification based on a statistical predictive model;2-s2.0-85126197842;10.1186/s40537-022-00582-7;Article;2022;endocrinology
+AsthmaKGxE: An asthmaâ€“environment interaction knowledge graph leveraging public databases and scientific literature;2-s2.0-85135702024;10.1016/j.compbiomed.2022.105933;Article;2022;endocrinology
+Early-Stage Alzheimerâ€™s Disease Categorization Using PET Neuroimaging Modality and Convolutional Neural Networks in the 2D and 3D Domains;2-s2.0-85132935111;10.3390/s22124609;Article;2022;endocrinology
+An absolute magnitude deviation of HRV for the prediction of prediabetes with combined artificial neural network and regression tree methods;2-s2.0-85113281886;10.1007/s10462-021-10040-0;Article;2022;endocrinology
+A Novel Architecture for Diabetes Patients' Prediction Using K -Means Clustering and SVM;2-s2.0-85137692776;10.1155/2022/4815521;Article;2022;endocrinology
+Efficient Pipeline for Rapid Detection of Catheters and Tubes in Chest Radiographs;2-s2.0-85135895820;10.1007/978-3-031-12053-4_64;Conference Paper;2022;endocrinology
+Early Prediction ofÂ ICU Admission Within COVID-19 Patients Using Machine Learning Techniques;2-s2.0-85126355740;10.1007/978-3-030-94191-8_41;Conference Paper;2022;endocrinology
+IoT medical tooth mounted sensor for monitoring teeth and food level using bacterial optimization along with adaptive deep learning neural network;2-s2.0-85058422174;10.1016/j.measurement.2018.11.078;Article;2019;endocrinology
+Diagnosis of osteoporosis disease from bone X-ray images with stacked sparse autoencoder and SVM classifier;2-s2.0-85035321402;10.1109/ATSIP.2017.8075537;Conference Paper;2017;endocrinology
+A review on Deep Learning in thyroid ultrasound Computer-Assisted Diagnosis systems;2-s2.0-85066324742;10.1109/IPAS.2018.8708866;Conference Paper;2018;endocrinology
+Supervised machine-learning reveals that old and obese people achieve low dapsone concentrations;2-s2.0-85023625483;10.1002/psp4.12208;Article;2017;endocrinology
+Prediction and Structural Comparison of Deleterious Coding Nonsynonymous Single Nucleotide Polymorphisms (nsSNPs) in Human LEP Gene Associated with Obesity;2-s2.0-85076945885;10.1155/2019/1832084;Article;2019;endocrinology
+Use of classification and regression tree (CART), to identify hemoglobin A1C (HbA1C) cut-off thresholds predictive of poor tuberculosis treatment outcomes and associated risk factors;2-s2.0-85044119242;10.1016/j.jctube.2018.01.002;Article;2018;endocrinology
+Computational model for vitamin D deficiency using hair mineral analysis;2-s2.0-85029411478;10.1016/j.compbiolchem.2017.08.015;Article;2017;endocrinology
+Prediction of potential-diabetic obese-patients using machine learning techniques;2-s2.0-85072292817;10.14569/ijacsa.2019.0100812;Article;2019;endocrinology
+Automatic diagnosis metabolic syndrome via a kâˆ’nearest neighbour classifier;2-s2.0-85019243929;10.1007/978-3-319-57186-7_45;Conference Paper;2017;endocrinology
+Diagnosis of metabolic syndrome: A diversity based hybrid model;2-s2.0-84978986156;10.1007/978-3-319-41920-6_14;Conference Paper;2016;endocrinology
+Jaw fracture classification using meta heuristic firefly algorithm with multi-layered associative neural networks;2-s2.0-85044714164;10.1007/s10586-018-2668-z;Article;2019;endocrinology

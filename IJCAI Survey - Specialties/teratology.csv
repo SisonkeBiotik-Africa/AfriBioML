@@ -1,0 +1,35 @@
+Title;EID;DOI;DocumentType;Year;Category
+An intelligent healthcare monitoring framework using wearable sensors and social networking data;2-s2.0-85088916811;10.1016/j.future.2020.07.047;Article;2020;teratology
+CNN-based health model for regular health factors analysis in internet-of-medical things environment;2-s2.0-85082511150;10.1109/ACCESS.2020.2980938;Article;2020;teratology
+Thermogram breast cancer detection: A comparative study of two machine learning techniques;2-s2.0-85081221716;10.3390/app10020551;Article;2020;teratology
+A State-of-the-Art Survey on Deep Learning Methods for Detection of Architectural Distortion from Digital Mammography;2-s2.0-85090287534;10.1109/ACCESS.2020.3016223;Article;2020;teratology
+Genetic programming-based learning of texture classification descriptors from Local Edge Signature;2-s2.0-85087591094;10.1016/j.eswa.2020.113667;Article;2020;teratology
+Automated system for chromosome karyotyping to recognize the most common numerical abnormalities using deep learning;2-s2.0-85102855754;10.1109/ACCESS.2020.3019937;Article;2020;teratology
+Applying Deep Learning for the Detection of Abnormalities inÂ Mammograms;2-s2.0-85077496881;10.1007/978-981-15-1465-4_21;Conference Paper;2020;teratology
+Colored video analysis in wireless capsule endoscopy: A survey of state-of-the-art;2-s2.0-85094915466;10.2174/1573405616666200124140915;Review;2020;teratology
+A Two-Stage Method for Bone X-Rays Abnormality Detection Using MobileNet Network;2-s2.0-85082984993;10.1007/978-3-030-44289-7_35;Conference Paper;2020;teratology
+Diagnosis of amyotrophic lateral sclerosis (ALS) disorders based on electromyogram (EMG) signal analysis and feature selection;2-s2.0-85092891003;10.2478/pjmpe-2020-0018;Article;2020;teratology
+Tuberculosis Abnormality Detection in Chest X-Rays: A Deep Learning Approach;2-s2.0-85091341948;10.1007/978-3-030-59006-2_11;Conference Paper;2020;teratology
+Breast cancer detection in thermal images using extreme learning machine;2-s2.0-85081614195;10.3233/JIFS-179553;Article;2020;teratology
+Contrasting classifiers for the detection of breast cancer using thermographic images;2-s2.0-85092299391;10.1145/3415088.3415121;Conference Paper;2020;teratology
+Damage detection of wind turbine system based on signal processing approach: a critical review;2-s2.0-85098716699;10.1007/s10098-020-02003-w;Review;2021;teratology
+ArchGAN: A Generative Adversarial Network for Architectural Distortion Abnormalities in Digital Mammograms;2-s2.0-85127045127;10.1109/ICECET52533.2021.9698751;Conference Paper;2021;teratology
+Facial analysis technology for the detection of Down syndrome in the Democratic Republic of the Congo;2-s2.0-85108693929;10.1016/j.ejmg.2021.104267;Article;2021;teratology
+A Hybrid Two-Stage GNG-Modified VGG Method for Bone X-Rays Classification and Abnormality Detection;2-s2.0-85107371681;10.1109/ACCESS.2021.3081915;Article;2021;teratology
+A hybrid two-stage CNN-SVM Model for bone X-rays classification and abnormality detection;2-s2.0-85115619277;10.4018/IJSKD.2021100104;Article;2021;teratology
+Comparative Study on Stroke Lesion Core Segmentation in CTP Images;2-s2.0-85127073817;10.1109/ICICIS52592.2021.9694135;Conference Paper;2021;teratology
+A Torn ACL Mapping in Knee MRI Images Using Deep Convolution Neural Network with Inception-v3;2-s2.0-85124774718;10.1155/2022/7872500;Article;2022;teratology
+A generative adversarial network for synthetization of regions of interest based on digital mammograms;2-s2.0-85128210628;10.1038/s41598-022-09929-9;Article;2022;teratology
+Machine Learning KNN Classification An Approach on Detecting Abnormality in Brain Tissues MRI-Graphic User Interface;2-s2.0-85133120817;10.1109/ISPA54004.2022.9786338;Conference Paper;2022;teratology
+Abnormality classification and localization using dual-branch whole-region-based CNN model with histopathological images;2-s2.0-85135945034;10.1016/j.compbiomed.2022.105943;Article;2022;teratology
+An algorithm to detect overlapping red blood cells for sickle cell disease diagnosis;2-s2.0-85124454895;10.1049/ipr2.12439;Article;2022;teratology
+Deep Learning Based Algorithms for Detecting Chronic Obstructive Pulmonary Disease;2-s2.0-85137418964;10.23919/IST-Africa56635.2022.9845630;Conference Paper;2022;teratology
+Toward an Efficient Deep Learning Model for Lung pathologies Detection In X-ray Images;2-s2.0-85135301043;10.1109/IWCMC55113.2022.9824423;Conference Paper;2022;teratology
+Machine Learning Approach-Based Gamma Distribution for Brain Tumor Detection and Data Sample Imbalance Analysis;2-s2.0-85056551029;10.1109/ACCESS.2018.2878276;Article;2019;teratology
+Automated chest-radiography as a triage for Xpert testing in resource-constrained settings: A prospective study of diagnostic accuracy and costs;2-s2.0-84938261223;10.1038/srep12215;Article;2015;teratology
+Fetal brain abnormality classification from mri images of different gestational age;2-s2.0-85073363087;10.3390/brainsci9090231;Article;2019;teratology
+Wearable accelerometer and sEMG-based upper limb BSN for tele-rehabilitation;2-s2.0-85068897151;10.3390/app9142795;Article;2019;teratology
+Red blood cell classification: Deep learning architecture versus support vector machine;2-s2.0-85058058174;10.1109/ICBAPS.2018.8527398;Conference Paper;2018;teratology
+Red blood cells abnormality classification: Deep learning architecture versus support vector machine;2-s2.0-85058936074;10.30880/ijie.2018.10.07.004;Article;2018;teratology
+Seizure prediction segmentation merge yielding a boosted low power model;2-s2.0-85082133018;10.1109/ICM48031.2019.9021703;Conference Paper;2019;teratology
+GFD Faster R-CNN: Gabor Fractal DenseNet Faster R-CNN for Automatic Detection of Esophageal Abnormalities in Endoscopic Images;2-s2.0-85075687793;10.1007/978-3-030-32692-0_11;Conference Paper;2019;teratology

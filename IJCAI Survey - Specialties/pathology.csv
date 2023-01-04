@@ -1,0 +1,140 @@
+Title;EID;DOI;DocumentType;Year;Category
+DeepSeg: deep neural network framework for automatic brain tumor segmentation using magnetic resonance FLAIR images;2-s2.0-85085154586;10.1007/s11548-020-02186-z;Article;2020;pathology
+Deep learning-based system for automatic melanoma detection;2-s2.0-85078315682;10.1109/ACCESS.2019.2962812;Article;2020;pathology
+Breast ultrasound region of interest detection and lesion localisation;2-s2.0-85086503145;10.1016/j.artmed.2020.101880;Article;2020;pathology
+Editorial for â€œPreoperative MRI-Based Radiomic Machine-Learning Nomogram May Accurately Distinguish Between Benign and Malignant Soft Tissue Lesions: A Two-Center Studyâ€;2-s2.0-85083375232;10.1002/jmri.27163;Editorial;2020;pathology
+Melanoma skin cancer detection using deep learning and classical machine learning techniques: A hybrid approach;2-s2.0-85096595498;10.1109/ATSIP49331.2020.9231544;Conference Paper;2020;pathology
+A Novel Bio-Inspired Deep Learning Approach for Liver Cancer Diagnosis;2-s2.0-85081135693;10.3390/info11020080;Article;2020;pathology
+Convolutional neural network for automated mass segmentation in mammography;2-s2.0-85097372018;10.1186/s12859-020-3521-y;Article;2020;pathology
+Fairness of Classifiers Across Skin Tones in Dermatology;2-s2.0-85092762846;10.1007/978-3-030-59725-2_31;Conference Paper;2020;pathology
+Neuro-fuzzy patch-wise R-CNN for multiple sclerosis segmentation;2-s2.0-85088162708;10.1007/s11517-020-02225-6;Article;2020;pathology
+A deep convolutional neural network for automated vestibular disorder classification using VNG analysis;2-s2.0-85076435227;10.1080/21681163.2019.1699165;Article;2020;pathology
+Convolutional Neural Networks for Multimodal Brain MRI Images Segmentation: A Comparative Study;2-s2.0-85086225574;10.1007/978-3-030-45183-7_25;Conference Paper;2020;pathology
+Utilization of a convolutional method for Alzheimer disease diagnosis;2-s2.0-85083577693;10.1007/s00138-020-01074-5;Conference Paper;2020;pathology
+Deep learning-based image evaluation for cervical precancer screening with a smartphone targeting low resource settings - Engineering approach;2-s2.0-85089968637;10.1109/EMBC44109.2020.9175863;Conference Paper;2020;pathology
+Fully Automated Approach for Early Detection of Pigmented Skin Lesion Diagnosis Using ABCD;2-s2.0-85088159975;10.1007/s41666-020-00067-3;Article;2020;pathology
+Adjusted Quick Shift Phase Preserving Dynamic Range Compression method for breast lesions segmentation;2-s2.0-85087092546;10.1016/j.imu.2020.100344;Article;2020;pathology
+Skin Lesion Segmentation Using Local Binary Convolution-Deconvolution Architecture;2-s2.0-85099002893;10.5566/IAS.2397;Article;2020;pathology
+Colored video analysis in wireless capsule endoscopy: A survey of state-of-the-art;2-s2.0-85094915466;10.2174/1573405616666200124140915;Review;2020;pathology
+Segmentation of medical images for the extraction of brain tumors: A comparative study between the Hidden Markov and Deep Learning approaches;2-s2.0-85093828125;10.1109/ISCV49265.2020.9204319;Conference Paper;2020;pathology
+Diabetic Retinopathy Grading Based on a Hybrid Deep Learning Model;2-s2.0-85100481995;10.1109/ICDABI51230.2020.9325672;Conference Paper;2020;pathology
+Improved predictive sparse decomposition method with densenet for prediction of lung cancer;2-s2.0-85103323355;10.47839/ijc.19.4.1986;Article;2020;pathology
+Screening test accuracy to improve detection of precancerous lesions of the cervix in women living with HIV: A study protocol;2-s2.0-85098229521;10.1136/bmjopen-2020-037955;Article;2020;pathology
+MobileNet Neural Network skin disease detector with Raspberry pi Integrated to Telegram;2-s2.0-85092067068;10.1109/icABCD49160.2020.9183888;Conference Paper;2020;pathology
+Macroscopic Skin Lesion Segmentation Using GrabCut;2-s2.0-85097556029;10.1007/978-3-030-63007-2_41;Conference Paper;2020;pathology
+Deep convolutional neural network with tensorflow and keras to classify skin cancer images;2-s2.0-85088915848;10.12694:/scpe.v21i3.1725;Article;2020;pathology
+Automatic Ischemic Stroke Lesions Segmentation in Multimodality MRI using Mask Region-based Convolutional Neural Network;2-s2.0-85100693504;10.1109/IC_ASET49463.2020.9318265;Conference Paper;2020;pathology
+A novel computer-aided diagnostic system for early assessment of hepatocellular carcinoma;2-s2.0-85110523752;10.1109/ICPR48806.2021.9413044;Conference Paper;2020;pathology
+Erratum: Tabu Search and Machine-Learning Classification of Benign and Malignant Proliferative Breast Lesions (BioMed Research International(2020)2020(10)Doi: 10.1155/2020/4671349);2-s2.0-85088507249;10.1155/2020/7638969;Erratum;2020;pathology
+Deep learning techniques for skin lesion analysis and melanoma cancer detection: a survey of state-of-the-art;2-s2.0-85087368605;10.1007/s10462-020-09865-y;Article;2021;pathology
+A framework for breast cancer classification using Multi-DCNNs;2-s2.0-85100440642;10.1016/j.compbiomed.2021.104245;Article;2021;pathology
+Data augmentation for skin lesion using self-attention based progressive generative adversarial network;2-s2.0-85090417710;10.1016/j.eswa.2020.113922;Article;2021;pathology
+YOLO Based Breast Masses Detection and Classification in Full-Field Digital Mammograms;2-s2.0-85096024503;10.1016/j.cmpb.2020.105823;Article;2021;pathology
+Standalone performance of artificial intelligence for upper GI neoplasia: A meta-analysis;2-s2.0-85095743648;10.1136/gutjnl-2020-321922;Article;2021;pathology
+Deep learning for brain tumor segmentation: A survey of state-of-the-art;2-s2.0-85106894977;10.3390/jimaging7020019;Review;2021;pathology
+Deep learning with backtracking search optimization based skin lesion diagnosis model;2-s2.0-85114555037;10.32604/cmc.2022.018396;Article;2021;pathology
+Point-of-Care Digital Cytology with Artificial Intelligence for Cervical Cancer Screening in a Resource-Limited Setting;2-s2.0-85103145466;10.1001/jamanetworkopen.2021.1740;Article;2021;pathology
+Automatic Diabetic Retinopathy Grading System Based on Detecting Multiple Retinal Lesions;2-s2.0-85099725193;10.1109/ACCESS.2021.3052870;Article;2021;pathology
+Artificial intelligence for classification of temporal lobe epilepsy with ROI-level MRI data: A worldwide ENIGMA-Epilepsy study;2-s2.0-85111563148;10.1016/j.nicl.2021.102765;Article;2021;pathology
+A novel melanoma prediction model for imbalanced data using optimized SqueezeNet by bald eagle search optimization;2-s2.0-85113649388;10.1016/j.compbiomed.2021.104712;Article;2021;pathology
+Malignant and nonmalignant classification of breast lesions in mammograms using convolutional neural networks;2-s2.0-85111276218;10.1016/j.bspc.2021.102954;Article;2021;pathology
+Deep Learning Approach for Medical Image Analysis;2-s2.0-85106376551;10.1155/2021/6215281;Article;2021;pathology
+Deep Learning Approach for Breast Cancer Diagnosis from Microscopy Biopsy Images;2-s2.0-85111405848;10.1109/MIUCC52538.2021.9447653;Conference Paper;2021;pathology
+Clinical applications of artificial intelligence and radiomics in neuro-oncology imaging;2-s2.0-85117584569;10.1186/s13244-021-01102-6;Review;2021;pathology
+An automatic Computer-Aided Diagnosis system based on the Multimodal fusion of Breast Cancer (MF-CAD);2-s2.0-85108999877;10.1016/j.bspc.2021.102914;Article;2021;pathology
+Comparison of Current Deep Convolutional Neural Networks for the Segmentation of Breast Masses in Mammograms;2-s2.0-85119413504;10.1109/ACCESS.2021.3127862;Article;2021;pathology
+RCTE: A reliable and consistent temporal-ensembling framework for semi-supervised segmentation of COVID-19 lesions;2-s2.0-85111326479;10.1016/j.ins.2021.07.059;Article;2021;pathology
+A probabilistic-based deep learning model for skin lesion segmentation;2-s2.0-85103836107;10.3390/app11073025;Article;2021;pathology
+Intelligent Dermatologist Tool for Classifying Multiple Skin Cancer Subtypes by Incorporating Manifold Radiomics Features Categories;2-s2.0-85116265092;10.1155/2021/7192016;Article;2021;pathology
+Artificial intelligence and computer-aided diagnosis for colonoscopy: Where do we stand now?;2-s2.0-85118265099;10.21037/tgh.2019.12.14;Review;2021;pathology
+Machine learning for evolutive lymphoma and residual masses recognition in whole body diffusion weighted magnetic resonance images;2-s2.0-85112360158;10.1016/j.cmpb.2021.106320;Article;2021;pathology
+Dental Images' Segmentation Using Threshold Connected Component Analysis;2-s2.0-85122379675;10.1155/2021/2921508;Article;2021;pathology
+Computer-aided diagnosis for spitzoid lesions classification using artificial intelligence techniques;2-s2.0-85097223399;10.4018/IJHISI.2021010102;Article;2021;pathology
+The Relationship between Drug Concentration in Tuberculosis Lesions, Epithelial Lining Fluid, and Clinical Outcomes;2-s2.0-85120414195;10.1093/cid/ciaa1271;Note;2021;pathology
+A multi-scale and multi-level fusion approach for deep learning-based liver lesion diagnosis in magnetic resonance images with visual explanation;2-s2.0-85108891301;10.3390/life11060582;Article;2021;pathology
+Transductive Transfer Learning for Domain Adaptation in Brain Magnetic Resonance Image Segmentation;2-s2.0-85106041394;10.3389/fnins.2021.608808;Article;2021;pathology
+Multimodal Melanoma Detection with Federated Learning;2-s2.0-85126008959;10.1109/ICCWAMTIP53232.2021.9674116;Conference Paper;2021;pathology
+High-resolution MRI brain inpainting;2-s2.0-85125459299;10.1109/BHI50953.2021.9508561;Conference Paper;2021;pathology
+Detection of precancerous laryngeal leukoplakia using sub-band based cepstral;2-s2.0-85123997252;10.1109/ICNAS53565.2021.9628992;Conference Paper;2021;pathology
+A novel cad system for breast dce-mri based on textural analysis using several machine learning methods;2-s2.0-85089720822;10.1007/978-3-030-49336-3_18;Conference Paper;2021;pathology
+Ontology-Driven Approach for Liver MRI Classification and HCC Detection;2-s2.0-85118797051;10.1142/S0218001421600077;Article;2021;pathology
+Automatic Segmentation of Multiple Sclerosis Lesions in Brain MR Images Using Ensemble Machine Learning;2-s2.0-85111388838;10.1109/MIUCC52538.2021.9447657;Conference Paper;2021;pathology
+Comparative Study on Stroke Lesion Core Segmentation in CTP Images;2-s2.0-85127073817;10.1109/ICICIS52592.2021.9694135;Conference Paper;2021;pathology
+A Quantitative Analysis in CTP images for Ischemic Stroke Lesion Segmentation;2-s2.0-85126552957;10.1109/ICENCO49852.2021.9698961;Conference Paper;2021;pathology
+Application of radiomics features selection and classification algorithms for medical imaging decision: MRI radiomics breast cancer cases study;2-s2.0-85120859179;10.1016/j.imu.2021.100801;Article;2021;pathology
+Deep neural networks for melanoma detection from optical standard images using transfer learning;2-s2.0-85116928611;10.1016/j.procs.2021.08.134;Conference Paper;2021;pathology
+An Enhanced Object Tracking Algorithm Based on Augmented Reality Markup Language (ARML) for Medical Engineering;2-s2.0-85103454118;10.1007/978-3-030-69717-4_26;Conference Paper;2021;pathology
+Skin Cancer Prediction and Diagnosis Using Convolutional Neural Network (CNN) Deep Learning Algorithm;2-s2.0-85102649298;10.1007/978-3-030-66840-2_42;Conference Paper;2021;pathology
+CU-Net: A New Improved Multi-Input Color U-Net Model for Skin Lesion Semantic Segmentation;2-s2.0-85124249273;10.1109/ACCESS.2022.3148402;Article;2022;pathology
+Skin lesion segmentation and classification using conventional and deep learning based framework;2-s2.0-85121463238;10.32604/cmc.2022.018917;Article;2022;pathology
+The Role of 3D CT Imaging in the Accurate Diagnosis of Lung Function in Coronavirus Patients;2-s2.0-85126561351;10.3390/diagnostics12030696;Article;2022;pathology
+Early Recognition of Skin Malignancy in Images Based on Convolutional Networks by Using Dynamic System Model;2-s2.0-85125727759;10.1155/2022/1754658;Article;2022;pathology
+COVIR: A virtual rendering of a novel NN architecture O-Net for COVID-19 Ct-scan automatic lung lesions segmentation;2-s2.0-85126845197;10.1016/j.cag.2022.03.003;Article;2022;pathology
+Automated Deep Learning Empowered Breast Cancer Diagnosis Using Biomedical Mammogram Images;2-s2.0-85122769222;10.32604/cmc.2022.022322;Article;2022;pathology
+Optimized convolutional neural network models for skin lesion classification;2-s2.0-85115987130;10.32604/cmc.2022.019529;Article;2022;pathology
+Assessment of deep learning algorithms to predict histopathological diagnosis of breast cancer: first Moroccan prospective study on a private dataset;2-s2.0-85125020374;10.1186/s13104-022-05936-1;Article;2022;pathology
+Detection of Skin Cancer Based on Skin Lesion Images Using Deep Learning;2-s2.0-85133234633;10.3390/healthcare10071183;Article;2022;pathology
+A Hybrid Deep Transfer Learning of CNN-Based LR-PCA for Breast Lesion Diagnosis via Medical Breast Mammograms;2-s2.0-85133133770;10.3390/s22134938;Article;2022;pathology
+Computational Intelligence-Based Melanoma Detection and Classification Using Dermoscopic Images;2-s2.0-85131707949;10.1155/2022/2370190;Article;2022;pathology
+U-Net: A valuable encoder-decoder architecture for liver tumors segmentation in CT images;2-s2.0-85123905492;10.3233/XST-210993;Article;2022;pathology
+Efficient Classification Model for Melanoma Based on Convolutional Neural Networks;2-s2.0-85121830767;10.1007/978-3-030-91103-4_2;Book Chapter;2022;pathology
+Deep stacked ensemble learning model for COVID-19 classification;2-s2.0-85116968643;10.32604/cmc.2022.020455;Article;2022;pathology
+Semiquantitative CT imaging as a tool in improving detection of ground glass patches in patients with COVID-19 pneumonia and for better follow-up;2-s2.0-85136035347;10.1186/s43055-022-00862-5;Article;2022;pathology
+Color-invariant skin lesion semantic segmentation based on modified U-Net deep convolutional neural network;2-s2.0-85135943072;10.1007/s13755-022-00185-9;Article;2022;pathology
+An automatic breast computer-aided diagnosis scheme based on a weighted fusion of relevant features and a deep CNN classifier;2-s2.0-85133234756;10.1049/ipr2.12572;Article;2022;pathology
+Automated deep learning approach for classification of malignant melanoma and benign skin lesions;2-s2.0-85128020443;10.1007/s11042-022-13081-x;Article;2022;pathology
+A computer-aided diagnosis system for detecting various diabetic retinopathy grades based on a hybrid deep learning technique;2-s2.0-85129794568;10.1007/s11517-022-02564-6;Article;2022;pathology
+CXAI: Explaining Convolutional Neural Networks for Medical Imaging Diagnostic;2-s2.0-85131637625;10.3390/electronics11111775;Article;2022;pathology
+The local ternary pattern encoderâ€“decoder neural network for dental image segmentation;2-s2.0-85124539922;10.1049/ipr2.12416;Article;2022;pathology
+MRI-Based Classification of Neuropsychiatric Systemic Lupus Erythematosus Patients With Self-Supervised Contrastive Learning;2-s2.0-85125627668;10.3389/fnins.2022.695888;Article;2022;pathology
+Machine Learning-Based Multimodel Computing for Medical Imaging for Classification and Detection of Alzheimer Disease;2-s2.0-85136711635;10.1155/2022/9211477;Article;2022;pathology
+MLCA2F: Multi-Level Context Attentional Feature Fusion for COVID-19 lesion segmentation from CT scans;2-s2.0-85135519111;10.1007/s11760-022-02325-w;Article;2022;pathology
+Automatic evaluation of 3D volume infection rates: Application to the Covid-19 context;2-s2.0-85134265160;10.1109/ATSIP55956.2022.9805884;Conference Paper;2022;pathology
+Multiple Sclerosis Segmentation using Deep Learning Models : Comparative Study;2-s2.0-85134235047;10.1109/ATSIP55956.2022.9805983;Conference Paper;2022;pathology
+Ensemble learning methods for deep learning: Application to skin lesions classification;2-s2.0-85134015663;10.1109/ISIVC54825.2022.9800732;Conference Paper;2022;pathology
+Role of Artificial Intelligence and Deep Learning in Easier Skin Cancer Detection through Antioxidants Present in Food;2-s2.0-85133641104;10.1155/2022/5890666;Article;2022;pathology
+Deep Learning-Based Real-Time Discriminate Correlation Analysis for Breast Cancer Detection;2-s2.0-85133607170;10.1155/2022/4609625;Article;2022;pathology
+Automatic diagnosis of COVID-19 using deep learning;2-s2.0-85133135007;10.1109/ISPA54004.2022.9786357;Conference Paper;2022;pathology
+Augmented Reality for COVID-19 Aid Diagnosis: Ct-Scan segmentation based Deep Learning;2-s2.0-85133120142;10.1109/ISPA54004.2022.9786298;Conference Paper;2022;pathology
+Endoscopic computer vision challenges 2.0;2-s2.0-85132153618;;Conference Paper;2022;pathology
+Computer Vision with Machine Learning Enabled Skin Lesion Classification Model;2-s2.0-85130171978;10.32604/cmc.2022.029265;Article;2022;pathology
+Semantic segmentation in medical images through transfused convolution and transformer networks;2-s2.0-85128816770;10.1007/s10489-022-03642-w;Article;2022;pathology
+Transfer Learning-based Computer-aided Diagnosis System for Predicting Grades of Diabetic Retinopathy;2-s2.0-85122743415;10.32604/cmc.2022.023670;Article;2022;pathology
+Deep Convolutional Neural Networks for breast cancer screening;2-s2.0-85041413978;10.1016/j.cmpb.2018.01.011;Article;2018;pathology
+Deep convolutional neural networks for mammography: Advances, challenges and applications;2-s2.0-85066864173;10.1186/s12859-019-2823-4;Article;2019;pathology
+Deep Learning and Handcrafted Method Fusion: Higher Diagnostic Accuracy for Melanoma Dermoscopy Images;2-s2.0-85065767525;10.1109/JBHI.2019.2891049;Article;2019;pathology
+Skin Cancer Classification using Deep Learning and Transfer Learning;2-s2.0-85063229823;10.1109/CIBEC.2018.8641762;Conference Paper;2019;pathology
+One-shot domain adaptation in multiple sclerosis lesion segmentation using convolutional neural networks;2-s2.0-85058214278;10.1016/j.nicl.2018.101638;Article;2019;pathology
+Diagnosis of Focal Liver Diseases Based on Deep Learning Technique for Ultrasound Images;2-s2.0-85024893433;10.1007/s13369-016-2387-9;Article;2017;pathology
+Breast cancer MRI diagnosis approach using support vector machine and pulse coupled neural networks;2-s2.0-84869489087;10.1016/j.jal.2012.07.003;Conference Paper;2012;pathology
+Deep Ensemble Learning for Skin Lesion Classification from Dermoscopic Images;2-s2.0-85063203458;10.1109/CIBEC.2018.8641815;Conference Paper;2019;pathology
+An image-based segmentation recommender using crowdsourcing and transfer learning for skin lesion extraction;2-s2.0-85055048832;10.1016/j.eswa.2018.10.029;Article;2019;pathology
+A supervised framework with intensity subtraction and deformation field features for the detection of new T2-w lesions in multiple sclerosis;2-s2.0-85034780618;10.1016/j.nicl.2017.11.015;Article;2018;pathology
+Design and clinical validation of a point-of-care device for the diagnosis of lymphoma via contrast-enhanced microholography and machine learning;2-s2.0-85050530041;10.1038/s41551-018-0265-3;Article;2018;pathology
+Multiple Sclerosis Lesion Synthesis in MRI Using an Encoder-Decoder U-NET;2-s2.0-85062731462;10.1109/ACCESS.2019.2900198;Article;2019;pathology
+Identification of the presence of ischaemic stroke lesions by means of texture analysis on brain magnetic resonance images;2-s2.0-85063342062;10.1016/j.compmedimag.2019.02.006;Article;2019;pathology
+End-to-end breast ultrasound lesions recognition with a deep learning approach;2-s2.0-85048013441;10.1117/12.2293498;Conference Paper;2018;pathology
+Enhanced Skin Lesions Classification Using Deep Convolutional Networks;2-s2.0-85083367637;10.1109/ICICIS46948.2019.9014823;Conference Paper;2019;pathology
+Framework of Computer Aided Diagnosis Systems for Cancer Classification Based on Medical Images;2-s2.0-85049881387;10.1007/s10916-018-1010-x;Article;2018;pathology
+Multi-modal classifier fusion with feature cooperation for glaucoma diagnosis;2-s2.0-85070974113;10.1080/0952813X.2019.1653383;Article;2019;pathology
+Automated chest screening based on a hybrid model of transfer learning and convolutional sparse denoising autoencoder;2-s2.0-85047449643;10.1186/s12938-018-0496-2;Article;2018;pathology
+Breast Cancer Diagnosis Using Image Processing and Machine Learning for Elastography Images;2-s2.0-85068555748;10.1109/MOCAST.2019.8741846;Conference Paper;2019;pathology
+Residual deep learning system for mass segmentation and classification in mammography;2-s2.0-85073161504;10.1145/3307339.3342157;Conference Paper;2019;pathology
+Automated Classification of Malignant and Benign Breast Cancer Lesions Using Neural Networks on Digitized Mammograms;2-s2.0-85071329410;10.1177/1176935119857570;Article;2019;pathology
+A review on Deep Learning in thyroid ultrasound Computer-Assisted Diagnosis systems;2-s2.0-85066324742;10.1109/IPAS.2018.8708866;Conference Paper;2018;pathology
+Risk stratification of cervical lesions using capture sequencing and machine learning method based on HPV and human integrated genomic profiles;2-s2.0-85073582629;10.1093/carcin/bgz094;Article;2019;pathology
+Ocular diseases diagnosis in fundus images using a deep learning: Approaches, tools and performance evaluation;2-s2.0-85072562954;10.1117/12.2519098;Conference Paper;2019;pathology
+Unsupervised detection of liver lesions in CT images;2-s2.0-84953292150;10.1109/EMBC.2015.7318880;Conference Paper;2015;pathology
+An enhanced deep learning framework for skin lesions segmentation;2-s2.0-85072870422;10.1007/978-3-030-28377-3_34;Conference Paper;2019;pathology
+Computational intelligence in medical imaging: Techniques and applications;2-s2.0-85056417922;10.1201/9781420060614;Book;2009;pathology
+Deep learning approach for breast cancer diagnosis;2-s2.0-85068598230;10.1145/3328833.3328867;Conference Paper;2019;pathology
+Melanoma classification based on ensemble classification of dermoscopy image features;2-s2.0-84916208172;10.1007/978-3-319-13461-1_28;Conference Paper;2014;pathology
+Skin lesion analysis toward melanoma detection using deep learning techniques;2-s2.0-85073752358;10.24425/ijet.2019.129818;Article;2019;pathology
+A New Online Class-Weighting Approach with Deep Neural Networks for Image Segmentation of Highly Unbalanced Glioblastoma Tumors;2-s2.0-85067556396;10.1007/978-3-030-20518-8_46;Conference Paper;2019;pathology
+Breast cancer diagnosis system based on semantic analysis and choquet integral feature selection for high risk subjects;2-s2.0-85090607766;10.3390/bdcc3030041;Article;2019;pathology
+A Combination of Global and Local Features for Brain White Matter Lesion Classification;2-s2.0-85073067893;10.1134/S1054661819030118;Article;2019;pathology
+A multi-labels text categorization framework for cerebral lesionâ€™s identification;2-s2.0-85079880398;10.1007/978-3-030-36368-0_10;Conference Paper;2019;pathology
+Contribution of data augmentation for the prenventive detection of vocal fold precancerous lesions;2-s2.0-85076260576;10.1016/j.procs.2019.09.176;Conference Paper;2019;pathology
+Cognitive-Assisted Interactive Labeling of Skin Lesions and Blood Cells;2-s2.0-85062227967;10.1109/ICMLA.2018.00066;Conference Paper;2019;pathology
+A Machine Learning Model for Automation of Ligament Injury Detection Process;2-s2.0-85075859774;10.1007/978-3-030-32065-2_22;Conference Paper;2019;pathology
+Fully convolutional encoder-decoder architecture (FCEDA) for skin lesions segmentation;2-s2.0-85072859342;10.1007/978-3-030-28377-3_35;Conference Paper;2019;pathology

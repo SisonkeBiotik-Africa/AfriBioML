@@ -1,0 +1,603 @@
+Title;EID;DOI;DocumentType;Year;Category
+Forecasting Models for Coronavirus Disease (COVID-19): A Survey of the State-of-the-Art;2-s2.0-85127509397;10.1007/s42979-020-00209-9;Article;2020;neurology
+Sentiment Analysis of COVID-19 tweets by Deep Learning Classifiersâ€”A study to show how popularity is affecting accuracy in social media;2-s2.0-85092457474;10.1016/j.asoc.2020.106754;Article;2020;neurology
+COVID-19 pathways for brain and heart injury in comorbidity patients: A role of medical imaging and artificial intelligence-based COVID severity classification: A review;2-s2.0-85090163898;10.1016/j.compbiomed.2020.103960;Review;2020;neurology
+Multimodal multitask deep learning model for Alzheimer's disease progression detection based on time series data;2-s2.0-85087653691;10.1016/j.neucom.2020.05.087;Article;2020;neurology
+Bacterial Vaginosis: Current Diagnostic Avenues and Future Opportunities;2-s2.0-85089995499;10.3389/fcimb.2020.00354;Review;2020;neurology
+An effective mental stress state detection and evaluation system using minimum number of frontal brain electrodes;2-s2.0-85084800978;10.3390/diagnostics10050292;Article;2020;neurology
+Leveraging Deep Learning Techniques for Malaria Parasite Detection Using Mobile Application;2-s2.0-85089150797;10.1155/2020/8895429;Article;2020;neurology
+Intrusion Detection System for Healthcare Systems Using Medical and Network Data: A Comparison Study;2-s2.0-85086996375;10.1109/ACCESS.2020.3000421;Article;2020;neurology
+Optimized ANFIS Model Using Hybrid Metaheuristic Algorithms for Parkinson's Disease Prediction in IoT Environment;2-s2.0-85088321939;10.1109/ACCESS.2020.3005614;Article;2020;neurology
+Long short term memory based patient-dependent model for FOG detection in Parkinson's disease;2-s2.0-85076261703;10.1016/j.patrec.2019.11.036;Article;2020;neurology
+Alzheimer's disease diagnosis from diffusion tensor images using convolutional neural networks;2-s2.0-85082187809;10.1371/journal.pone.0230409;Article;2020;neurology
+Current Affairs of Microbial Genome-Wide Association Studies: Approaches, Bottlenecks and Analytical Pitfalls;2-s2.0-85079478109;10.3389/fmicb.2019.03119;Review;2020;neurology
+Medical Diagnostic Systems Using Artificial Intelligence (AI) Algorithms: Principles and Perspectives;2-s2.0-85097951867;10.1109/ACCESS.2020.3042273;Article;2020;neurology
+A Novel Bio-Inspired Deep Learning Approach for Liver Cancer Diagnosis;2-s2.0-85081135693;10.3390/info11020080;Article;2020;neurology
+Self-calibrated brain network estimation and joint non-convex multi-task learning for identification of early Alzheimer's disease;2-s2.0-85079159036;10.1016/j.media.2020.101652;Article;2020;neurology
+Prediction of the individual multileaf collimator positional deviations during dynamic IMRT delivery priori with artificial neural network;2-s2.0-85078844151;10.1002/mp.14014;Article;2020;neurology
+A case-based reasoning system for supervised classification problems in the medical field;2-s2.0-85080913192;10.1016/j.eswa.2020.113335;Article;2020;neurology
+Predicting Biomass and Yield in a Tomato Phenotyping Experiment Using UAV Imagery and Random Forest;2-s2.0-85100366008;10.3389/frai.2020.00028;Article;2020;neurology
+Fully automated breast density segmentation and classification using deep learning;2-s2.0-85106299573;10.3390/diagnostics10110988;Article;2020;neurology
+Epileptic seizure detection on EEG signals using machine learning techniques and advanced preprocessing methods;2-s2.0-85078510517;10.1515/bmt-2019-0001;Article;2020;neurology
+Inertial sensor-based gait parameters reflect patient-reported fatigue in multiple sclerosis;2-s2.0-85097766998;10.1186/s12984-020-00798-9;Article;2020;neurology
+HyCAD-OCT: A hybrid computer-aided diagnosis of retinopathy by optical coherence tomography integrating machine learning and feature maps localization;2-s2.0-85088652312;10.3390/app10144716;Article;2020;neurology
+A survey on computer-aided diagnosis of brain disorders through MRI based on machine learning and data mining methodologies with an emphasis on Alzheimer disease diagnosis and the contribution of the multimodal fusion;2-s2.0-85082082517;10.3390/app10051894;Review;2020;neurology
+Detecting dental problem related brain disease using intelligent bacterial optimized associative deep neural network;2-s2.0-85083381752;10.1007/s10586-020-03104-3;Article;2020;neurology
+Predicting disease risk areas through co-production of spatial models: The example of kyasanur forest disease in indiaâ€™s forest landscapes;2-s2.0-85083907335;10.1371/journal.pntd.0008179;Article;2020;neurology
+A Dynamic filtering df-rnn deep-learning-based approach for eeg-based neurological disorders diagnosis;2-s2.0-85097220687;10.1109/ACCESS.2020.3037995;Article;2020;neurology
+An Artificial Intelligence Based Technique for COVID-19 Diagnosis from Chest X-Ray;2-s2.0-85097952549;10.1109/NILES50944.2020.9257930;Conference Paper;2020;neurology
+BiLSTM with Data Augmentation using Interpolation Methods to Improve Early Detection of Parkinson Disease;2-s2.0-85095773914;10.15439/2020F188;Conference Paper;2020;neurology
+Neuro-fuzzy patch-wise R-CNN for multiple sclerosis segmentation;2-s2.0-85088162708;10.1007/s11517-020-02225-6;Article;2020;neurology
+A deep convolutional neural network for automated vestibular disorder classification using VNG analysis;2-s2.0-85076435227;10.1080/21681163.2019.1699165;Article;2020;neurology
+Parkinson's Disease Identification using KNN and ANN Algorithms based on Voice Disorder;2-s2.0-85085494040;10.1109/IRASET48871.2020.9092228;Conference Paper;2020;neurology
+Design and Development of Diabetes Management System Using Machine Learning;2-s2.0-85089017069;10.1155/2020/8870141;Article;2020;neurology
+A New Type of Fuzzy-Rule-Based System with Chaotic Swarm Intelligence for Multiclassification of Pain Perception from fMRI;2-s2.0-85086082571;10.1109/TFUZZ.2020.2979150;Article;2020;neurology
+A Framework for Adapting Deep Brain Stimulation Using Parkinsonian State Estimates;2-s2.0-85085876042;10.3389/fnins.2020.00499;Article;2020;neurology
+Automated diagnosis and staging of Fuchsâ€™ endothelial cell corneal dystrophy using deep learning;2-s2.0-85105162165;10.1186/s40662-020-00209-z;Article;2020;neurology
+Vaginal microbiome-hormonal contraceptive interactions associate with the mucosal proteome and HIV acquisition;2-s2.0-85098590842;10.1371/journal.ppat.1009097;Article;2020;neurology
+Anthrax in the Amhara regional state of Ethiopia: spatiotemporal analysis and environmental suitability modeling with an ensemble approach;2-s2.0-85091636500;10.1016/j.prevetmed.2020.105155;Article;2020;neurology
+Enhancing convolution-based sentiment extractor via dubbed N-gram embedding-related drug vocabulary;2-s2.0-85086600944;10.1007/s13721-020-00248-5;Article;2020;neurology
+Brain graph super-resolution for boosting neurological disorder diagnosis using unsupervised multi-topology connectional brain template learning;2-s2.0-85087880099;10.1016/j.media.2020.101768;Article;2020;neurology
+Utilization of a convolutional method for Alzheimer disease diagnosis;2-s2.0-85083577693;10.1007/s00138-020-01074-5;Conference Paper;2020;neurology
+Severity detection tool for patients with infectious disease;2-s2.0-85084584462;10.1049/htl.2019.0030;Article;2020;neurology
+MULTIPLE CLASSIFICATION TECHNIQUES TOWARD A ROBUST and RELIABLE P300 BCI SYSTEM;2-s2.0-85083307491;10.4015/S1016237220500106;Article;2020;neurology
+Diabetes Diseases Prediction Using Supervised Machine Learning and Neighbourhood Components Analysis;2-s2.0-85123040657;10.1145/3386723.3387887;Conference Paper;2020;neurology
+Toward identifying reproducible brain signatures of obsessive-compulsive profiles: Rationale and methods for a new global initiative;2-s2.0-85079359493;10.1186/s12888-020-2439-2;Article;2020;neurology
+Predicting cervical cancer using machine learning methods;2-s2.0-85089005533;10.14569/IJACSA.2020.0110723;Article;2020;neurology
+A Deep Learning H2O Framework for Emergency Prediction in Biomedical Big Data;2-s2.0-85086592455;10.1109/ACCESS.2020.2995790;Article;2020;neurology
+Machine learning and deep learning for clinical data and PET/SPECT imaging in parkinsonâ€™s disease: A review;2-s2.0-85102770101;;Review;2020;neurology
+Patient Specific Epileptic Seizures Prediction based on Support Vector Machine;2-s2.0-85100564510;10.1109/ICM50269.2020.9331776;Conference Paper;2020;neurology
+A data science approach for reliable classification of neuro-degenerative diseases using gait patterns;2-s2.0-85092893217;10.1007/s40860-020-00114-1;Article;2020;neurology
+Analysis of smartphone recordings in time, frequency, and cepstral domains to classify Parkinsonâ€™s disease;2-s2.0-85097151791;10.4258/hir.2020.26.4.274;Article;2020;neurology
+Adjusted Quick Shift Phase Preserving Dynamic Range Compression method for breast lesions segmentation;2-s2.0-85087092546;10.1016/j.imu.2020.100344;Article;2020;neurology
+A Cloud-based Mobile Healthcare Monitoring Framework with Location Privacy Preservation;2-s2.0-85100267871;10.1109/3ICT51146.2020.9311999;Conference Paper;2020;neurology
+Deep learning for identifying and classifying retinal diseases;2-s2.0-85097996926;10.1109/ICCIS49240.2020.9257674;Conference Paper;2020;neurology
+Topology-Aware Generative Adversarial Network for Joint Prediction of Multiple Brain Graphs from a Single Brain Graph;2-s2.0-85092704087;10.1007/978-3-030-59728-3_54;Conference Paper;2020;neurology
+Diagnosis of amyotrophic lateral sclerosis (ALS) disorders based on electromyogram (EMG) signal analysis and feature selection;2-s2.0-85092891003;10.2478/pjmpe-2020-0018;Article;2020;neurology
+Language-related features for early detection of Alzheimer Disease;2-s2.0-85093365119;10.1016/j.procs.2020.09.071;Conference Paper;2020;neurology
+Foreseeing Brain Graph Evolution over Time Using Deep Adversarial Network Normalizer;2-s2.0-85092900945;10.1007/978-3-030-59354-4_11;Conference Paper;2020;neurology
+A multi-label learning model for psychotic diseases in Nigeria;2-s2.0-85083880684;10.1016/j.imu.2020.100326;Article;2020;neurology
+E-Health Parkinson Disease Diagnosis in Smart Home Based on Hybrid Intelligence Optimization Model;2-s2.0-85075592269;10.1007/978-3-030-31129-2_15;Conference Paper;2020;neurology
+Early Diagnosis of Parkinson's Disease based on Handwritten Patterns using Deep Learning;2-s2.0-85098629308;10.1109/ICDS50568.2020.9268738;Conference Paper;2020;neurology
+Detection of early Parkinsonâ€™s disease with wavelet features using finger typing movements on a keyboard;2-s2.0-85100704587;10.1007/s42452-020-03473-9;Article;2020;neurology
+Quantification of left ventricular function in MRI: A review of current approaches;2-s2.0-85096584229;10.1109/ATSIP49331.2020.9231709;Conference Paper;2020;neurology
+Dynamic distance learning for joint assessment of visual and semantic similarities within the framework of medical image retrieval;2-s2.0-85085274118;10.1016/j.compbiomed.2020.103833;Article;2020;neurology
+Artificial Intelligence Prediction x41gorithms for Future Evolution of COVID-19 Cases;2-s2.0-85089165005;10.18280/isi.250305;Article;2020;neurology
+Identifying Factors Associated with Neonatal Mortality in Sub-Saharan Africa using Machine Learning;2-s2.0-85105359784;;Article;2020;neurology
+Heart Sound Signals Segmentation and Multiclass Classification;2-s2.0-85099051844;10.3991/ijoe.v16i15.16817;Article;2020;neurology
+Clustering-Based Deep Brain MultiGraph Integrator Network for Learning Connectional Brain Templates;2-s2.0-85093102517;10.1007/978-3-030-60365-6_11;Conference Paper;2020;neurology
+DBN-DNN: discrimination and classification of VNG sequence using deep neural network framework in the EMD domain;2-s2.0-85089254448;10.1080/21681163.2020.1799867;Article;2020;neurology
+Emerging Opportunities Provided by Technology to Advance Research in Child Health Globally;2-s2.0-85085470909;10.1177/2333794X20917570;Article;2020;neurology
+A simple and predictive model for covid-19 evolution in large scale infected countries;2-s2.0-85101328278;;Article;2020;neurology
+Burns Depth Assessment Using Deep Learning Features;2-s2.0-85092644660;10.1007/s40846-020-00574-z;Article;2020;neurology
+Automated classification of a tropical landscape infested by Parthenium weed (Parthenium hyterophorus);2-s2.0-85090241955;10.1080/01431161.2020.1779375;Article;2020;neurology
+Automated Classification of Depression Severity Using Speech-A Comparison of Two Machine Learning Architectures;2-s2.0-85103192752;10.1109/ICHI48887.2020.9374335;Conference Paper;2020;neurology
+Automated machine vision enabled detection of movement disorders from hand drawn spirals;2-s2.0-85103149589;10.1109/ICHI48887.2020.9374333;Conference Paper;2020;neurology
+Comparative Analysis of Various Machine Learning Techniques for Epileptic Seizures Detection and Prediction Using EEG Data;2-s2.0-85097956811;10.1109/NILES50944.2020.9257979;Conference Paper;2020;neurology
+Fine-Tuning Pre-Trained Convolutional Neural Networks for Women Common Cancer Classification using RNA-Seq Gene Expression;2-s2.0-85097566036;10.14569/IJACSA.2020.0111182;Article;2020;neurology
+A natural evolution optimization based deep learning algorithm for neurological disorder classification;2-s2.0-85086891372;10.3233/BME-201081;Article;2020;neurology
+Automated rheumatic heart disease detection from phonocardiogram in cardiology ward;2-s2.0-85083704813;;Conference Paper;2020;neurology
+VNG technique for a convenient vestibular neuritis rating;2-s2.0-85082977276;10.1080/21681163.2020.1741034;Article;2020;neurology
+Predicting the Risk Factor for Developing Chronic Kidney Disease Using a 3-Stage Prediction Model;2-s2.0-85081383346;10.1007/978-3-030-39442-4_46;Conference Paper;2020;neurology
+A Deep Neural Network Classification Approach for Alzheimerâ€™s Disease Diagnosis;2-s2.0-85080886096;10.1007/978-3-030-36674-2_2;Conference Paper;2020;neurology
+Prediction of daily PM10concentration using machine learning;2-s2.0-85100088778;10.1109/ICECOCS50124.2020.9314380;Conference Paper;2020;neurology
+Visual and quantitative assessment of HRCT pulmonary changes in idiopathic interstitial pneumonia with PFT correlation;2-s2.0-85081234036;10.1186/s43055-020-0142-4;Article;2020;neurology
+Early Deep Detection for Diabetic Retinopathy;2-s2.0-85115448703;10.1109/ISAECT50560.2020.9523650;Conference Paper;2020;neurology
+Deep classifier model for autism spectrum disorder prediction;2-s2.0-85092717393;10.3233/FAIA200560;Conference Paper;2020;neurology
+A survey on deep learning techniques used for breast cancer detection;2-s2.0-85096570946;10.1109/ATSIP49331.2020.9231684;Conference Paper;2020;neurology
+A deep learning identification system for different epileptic seizure disease stages;2-s2.0-85089162485;;Article;2020;neurology
+A Classification Approach to Recognize the Firing of Spinal Motoneurons in Amyotrophic Lateral Sclerosis;2-s2.0-85091027374;10.1109/EMBC44109.2020.9176551;Conference Paper;2020;neurology
+Intelligent comprehensive Occupational health monitoring system for mine workers;2-s2.0-85119604308;10.1016/j.ifacol.2020.12.751;Conference Paper;2020;neurology
+Hybrid architecture of deep convolutional variational auto-encoder for remaining useful life prediction;2-s2.0-85110305731;;Conference Paper;2020;neurology
+Hybrid architecture of deep convolutional variational auto-encoder for remaining useful life prediction;2-s2.0-85107293668;10.3850/978-981-14-8593-0_4876-cd;Conference Paper;2020;neurology
+An Online Framework for Earlier Cancer Diagnosis: Association Rules and Decision Tree Based Approach;2-s2.0-85080897182;10.1007/978-3-030-36674-2_11;Conference Paper;2020;neurology
+Epileptic seizures detection using deep learning techniques: A review;2-s2.0-85106566014;10.3390/ijerph18115780;Review;2021;neurology
+Artificial intelligence: A powerful paradigm for scientific research;2-s2.0-85119590481;10.1016/j.xinn.2021.100179;Review;2021;neurology
+Advanced meta-heuristics, convolutional neural networks, and feature selectors for efficient COVID-19 X-ray chest image classification;2-s2.0-85101743756;10.1109/ACCESS.2021.3061058;Article;2021;neurology
+Deep learning for detection and segmentation of artefact and disease instances in gastrointestinal endoscopy;2-s2.0-85101620260;10.1016/j.media.2021.102002;Article;2021;neurology
+Diabetic Retinopathy Diagnosis from Fundus Images Using Stacked Generalization of Deep Models;2-s2.0-85111578483;10.1109/ACCESS.2021.3101142;Article;2021;neurology
+A data-driven digital-twin prognostics method for proton exchange membrane fuel cell remaining useful life prediction;2-s2.0-85095759807;10.1016/j.ijhydene.2020.10.108;Article;2021;neurology
+A multilayer multimodal detection and prediction model based on explainable artificial intelligence for Alzheimerâ€™s disease;2-s2.0-85100118850;10.1038/s41598-021-82098-3;Article;2021;neurology
+Robust hybrid deep learning models for Alzheimer's progression detection;2-s2.0-85099654736;10.1016/j.knosys.2020.106688;Article;2021;neurology
+Federated learning for COVID-19 screening from Chest X-ray images;2-s2.0-85103116245;10.1016/j.asoc.2021.107330;Article;2021;neurology
+Diagnostic power of resting-state fMRI for detection of network connectivity in Alzheimer's disease and mild cognitive impairment: A systematic review;2-s2.0-85104989944;10.1002/hbm.25369;Review;2021;neurology
+Deep learning with backtracking search optimization based skin lesion diagnosis model;2-s2.0-85114555037;10.32604/cmc.2022.018396;Article;2021;neurology
+Artificial intelligence with big data analytics-based brain intracranial hemorrhage e-diagnosis using CT images;2-s2.0-85108378811;10.1007/s00521-021-06240-y;Article;2021;neurology
+How do you feel during the COVID-19 pandemic? A survey using psychological and linguistic self-report measures, and machine learning to investigate mental health, subjective experience, personality, and behaviour during the COVID-19 pandemic among university students;2-s2.0-85107210724;10.1186/s40359-021-00574-x;Article;2021;neurology
+COVID-19 detection using federated machine learning;2-s2.0-85107439850;10.1371/journal.pone.0252573;Article;2021;neurology
+Application of deep learning and machine learning models to detect COVID-19 face masks - A review;2-s2.0-85118667352;10.1016/j.susoc.2021.08.001;Review;2021;neurology
+Computer vision, IoT and data fusion for crop disease detection using machine learning: A survey and ongoing research;2-s2.0-85109417501;10.3390/rs13132486;Review;2021;neurology
+A study of the possible factors affecting COVID-19 spread, severity and mortality and the effect of social distancing on these factors: Machine learning forecasting model;2-s2.0-85102173963;10.1111/ijcp.14116;Article;2021;neurology
+Reviewing Machine Learning and Image Processing Based Decision-Making Systems for Breast Cancer Imaging;2-s2.0-85100125842;10.1007/s10916-020-01689-1;Article;2021;neurology
+Diagnosis of diabetes mellitus using gradient boosting machine (Lightgbm);2-s2.0-85116641175;10.3390/diagnostics11091714;Article;2021;neurology
+A recent investigation on detection and classification of epileptic seizure techniques using eeg signal;2-s2.0-85107390030;10.3390/brainsci11050668;Article;2021;neurology
+Automated seizure diagnosis system based on feature extraction and channel selection using EEG signals;2-s2.0-85101452232;10.1186/s40708-021-00123-7;Article;2021;neurology
+Improved heart disease prediction using particle swarm optimization based stacked sparse autoencoder;2-s2.0-85115791077;10.3390/electronics10192347;Article;2021;neurology
+Using artificial intelligence techniques for detecting Covid-19 epidemic fake news in Moroccan tweets;2-s2.0-85105252998;10.1016/j.rinp.2021.104266;Article;2021;neurology
+Alzheimer's disease progression detection model based on an early fusion of cost-effective multimodal data;2-s2.0-85092710449;10.1016/j.future.2020.10.005;Article;2021;neurology
+Tackling pandemics in smart cities using machine learning architecture;2-s2.0-85116023457;10.3934/mbe.2021418;Article;2021;neurology
+GPS driving: a digital biomarker for preclinical Alzheimer disease;2-s2.0-85107985410;10.1186/s13195-021-00852-1;Article;2021;neurology
+A CNN based framework for classification of Alzheimerâ€™s disease;2-s2.0-85102297445;10.1007/s00521-021-05799-w;Article;2021;neurology
+Artificial intelligence for classification of temporal lobe epilepsy with ROI-level MRI data: A worldwide ENIGMA-Epilepsy study;2-s2.0-85111563148;10.1016/j.nicl.2021.102765;Article;2021;neurology
+Essential tremor;2-s2.0-85118980405;10.1038/s41572-021-00314-w;Article;2021;neurology
+The large footprint of small-scale artisanal gold mining in Ghana;2-s2.0-85104950092;10.1016/j.scitotenv.2021.146644;Article;2021;neurology
+Integration of water quality indices and multivariate modeling for assessing surface water quality in qaroun lake, Egypt;2-s2.0-85113561252;10.3390/w13162258;Article;2021;neurology
+Maternal fecal microbiome predicts gestational age, birth weight and neonatal growth in rural Zimbabwe.;2-s2.0-85107772625;10.1016/j.ebiom.2021.103421;Article;2021;neurology
+A Multi-agent Feature Selection and Hybrid Classification Model for Parkinson's Disease Diagnosis;2-s2.0-85107281580;10.1145/3433180;Article;2021;neurology
+Efficient anomaly detection for smart hospital iot systems;2-s2.0-85100264670;10.3390/s21041026;Article;2021;neurology
+Energetic Glaucoma Segmentation and Classification Strategies Using Depth Optimized Machine Learning Strategies;2-s2.0-85120811544;10.1155/2021/5709257;Article;2021;neurology
+Deciphering the interactions of bioactive compounds in selected traditional medicinal plants against alzheimerâ€™s diseases via pharmacophore modeling, auto-QSAR, and molecular docking approaches;2-s2.0-85105195945;10.3390/molecules26071996;Article;2021;neurology
+Exploiting Feature Selection and Neural Network Techniques for Identification of Focal and Nonfocal EEG Signals in TQWT Domain;2-s2.0-85114623329;10.1155/2021/6283900;Article;2021;neurology
+Parkinsonâ€™s disease diagnosis in cepstral domain using MFCC and dimensionality reduction with SVM classifier;2-s2.0-85104504766;10.1155/2021/8822069;Article;2021;neurology
+Application of deep and machine learning techniques for multi-label classification performance on psychotic disorder diseases;2-s2.0-85103372300;10.1016/j.imu.2021.100545;Article;2021;neurology
+Coronavirus disease 2019 (COVID-19): survival analysis using deep learning and Cox regression model;2-s2.0-85101450268;10.1007/s10044-021-00958-0;Article;2021;neurology
+Histo-CADx: duo cascaded fusion stages for breast cancer diagnosis from histopathological images;2-s2.0-85109413903;10.7717/peerj-cs.493;Article;2021;neurology
+GASTRO-CADx: a three stages framework for diagnosing gastrointestinal diseases;2-s2.0-85103337183;10.7717/peerj-cs.423;Article;2021;neurology
+Advance Machine Learning Methods for Dyslexia Biomarker Detection: A Review of Implementation Details and Challenges;2-s2.0-85101815798;10.1109/ACCESS.2021.3062709;Article;2021;neurology
+A novel hybrid deep learning model for detecting covid-19-related rumors on social media based on lstm and concatenated parallel cnns;2-s2.0-85114346908;10.3390/APP11177940;Article;2021;neurology
+Classifying epilepsy pragmatically: Past, present, and future;2-s2.0-85108437428;10.1016/j.jns.2021.117515;Review;2021;neurology
+Multidisease Deep Learning Neural Network for the Diagnosis of Corneal Diseases;2-s2.0-85104109996;10.1016/j.ajo.2021.01.018;Article;2021;neurology
+Artificial Intelligence in Potato Leaf Disease Classification: A Deep Learning Approach;2-s2.0-85132927033;10.1007/978-3-030-59338-4_4;Book Chapter;2021;neurology
+Prediction of malaria incidence using climate variability and machine learning;2-s2.0-85099233220;10.1016/j.imu.2020.100508;Article;2021;neurology
+Multi-sensor mapping of honey bee habitats and fragmentation in agro-ecological landscapes in Eastern Kenya;2-s2.0-85067661673;10.1080/10106049.2019.1629645;Article;2021;neurology
+Classification of initial stages of alzheimerâ€™s disease through pet neuroimaging modality and deep learning: Quantifying the impact of image filtering approaches;2-s2.0-85120639689;10.3390/math9233101;Article;2021;neurology
+Early assessment of lung function in coronavirus patients using invariant markers from chest X-rays images;2-s2.0-85107606829;10.1038/s41598-021-91305-0;Article;2021;neurology
+Diarop: Automated deep learning-based diagnostic tool for retinopathy of prematurity;2-s2.0-85118874589;10.3390/diagnostics11112034;Article;2021;neurology
+Intelligent condition monitoring of wind power systems: State of the art review;2-s2.0-85115361833;10.3390/en14185967;Review;2021;neurology
+HANA: A Healthy Artificial Nutrition Analysis model during COVID-19 pandemic;2-s2.0-85109425471;10.1016/j.compbiomed.2021.104606;Article;2021;neurology
+Impact of the choice of cross-validation techniques on the results of machine learning-based diagnostic applications;2-s2.0-85114613543;10.4258/HIR.2021.27.3.189;Article;2021;neurology
+Tonic-Myoclonic Epileptic Seizure Classification based on Surface Electromyography;2-s2.0-85107481391;10.1109/SSD52085.2021.9429401;Conference Paper;2021;neurology
+Early Prediction of Plant Diseases using CNN and GANs;2-s2.0-85107605030;10.14569/IJACSA.2021.0120563;Article;2021;neurology
+On the hybridization of pre-trained deep learning and differential evolution algorithms for semantic crack detection and recognition in ensemble of infrastructures;2-s2.0-85102697189;10.1108/SASBE-01-2021-0010;Article;2021;neurology
+Modelling the Psychological Impact of COVID-19 in Saudi Arabia Using Machine Learning;2-s2.0-85102497917;10.32604/cmc.2021.014873;Article;2021;neurology
+Alzheimer's disease diagnosis framework from incomplete multimodal data using convolutional neural networks;2-s2.0-85111222113;10.1016/j.jbi.2021.103863;Article;2021;neurology
+Epileptic seizures identification with autoregressive model and firefly optimization based classification;2-s2.0-85077037177;10.1007/s12530-019-09319-z;Article;2021;neurology
+Classification of Alzheimerâ€™s Disease Using Deep Convolutional Spiking Neural Network;2-s2.0-85105211094;10.1007/s11063-021-10514-w;Article;2021;neurology
+An affective learning-based system for diagnosis and personalized management of diabetes mellitus;2-s2.0-85097708020;10.1016/j.future.2020.10.035;Article;2021;neurology
+Modeling the spatial distribution of anthrax in southern kenya;2-s2.0-85103945917;10.1371/journal.pntd.0009301;Article;2021;neurology
+Brain graph synthesis by dual adversarial domain alignment and target graph prediction from a source graph;2-s2.0-85097735772;10.1016/j.media.2020.101902;Article;2021;neurology
+Towards robust deep neural networks for affect and depression recognition from speech;2-s2.0-85110649987;10.1007/978-3-030-68790-8_1;Conference Paper;2021;neurology
+Automated Brain Imaging Diagnosis and Classification Model using Rat Swarm Optimization with Deep Learning based Capsule Network;2-s2.0-85110292625;10.1142/S0219467822400010;Article;2021;neurology
+Structural dynamics and allostery of Rab proteins: Strategies for drug discovery and design;2-s2.0-85098664554;10.1093/bib/bbz161;Review;2021;neurology
+Automated Clinical Assessment of Corneal Guttae in Fuchs Endothelial Corneal Dystrophy;2-s2.0-85093069374;10.1016/j.ajo.2020.07.029;Article;2021;neurology
+Application of intelligence-based computational techniques for classification and early differential diagnosis of COVID-19 disease;2-s2.0-85126586554;10.1016/j.dsm.2021.12.001;Article;2021;neurology
+A machine learning framework for predicting long-term graft survival after kidney transplantation;2-s2.0-85106882130;10.1016/j.eswa.2021.115235;Article;2021;neurology
+Classification of impedance cardiography dZ/dt complex subtypes using pattern recognition artificial neural networks;2-s2.0-85109074049;10.1515/bmt-2020-0267;Article;2021;neurology
+Longitudinal machine learning modeling of MS patient trajectories improves predictions of disability progression;2-s2.0-85107912293;10.1016/j.cmpb.2021.106180;Article;2021;neurology
+Voice-Based Deep Learning Medical Diagnosis System for Parkinson's Disease Prediction;2-s2.0-85112355457;10.1109/ICOTEN52080.2021.9493456;Conference Paper;2021;neurology
+Correlation Analysis for Determining Effective Data in Machine Learning: Detection of Heart Failure;2-s2.0-85120619484;10.1007/s42979-021-00617-5;Article;2021;neurology
+A novel deep autoencoder based survival analysis approach for microarray dataset;2-s2.0-85109957201;10.7717/peerj-cs.492;Article;2021;neurology
+A novel Machine Learning approach for epilepsy diagnosis using EEG signals based on Correlation Dimension;2-s2.0-85120867505;10.1016/j.ifacol.2021.11.018;Conference Paper;2021;neurology
+Comparable Study of Pre-trained Model on Alzheimer Disease Classification;2-s2.0-85115679934;10.1007/978-3-030-86976-2_5;Conference Paper;2021;neurology
+Data Clustering Improves Siamese Neural Networks Classification of Parkinson's Disease;2-s2.0-85108650808;10.1155/2021/3112771;Article;2021;neurology
+An efficient CNN-based automated diagnosis framework from COVID-19 CT images;2-s2.0-85107762164;10.32604/cmc.2021.017385;Article;2021;neurology
+Machine learning based network intrusion detection for data streaming IoT applications;2-s2.0-85105041185;10.1109/SNPDWinter52325.2021.00019;Conference Paper;2021;neurology
+Machine learning techniques to predict daily rainfall amount;2-s2.0-85120888029;10.1186/s40537-021-00545-4;Article;2021;neurology
+Machine learning predicts mortality based on analysis of ventilation parameters of critically ill patients: multi-centre validation;2-s2.0-85105462293;10.1186/s12911-021-01506-w;Article;2021;neurology
+Dynamics of T-Lymphocyte Activation Related to Paradoxical Tuberculosis-Associated Immune Reconstitution Inflammatory Syndrome in Persons With Advanced HIV;2-s2.0-85117565637;10.3389/fimmu.2021.757843;Article;2021;neurology
+Identification of Snails and Schistosoma of Medical Importance via Convolutional Neural Networks: A Proof-of-Concept Application for Human Schistosomiasis;2-s2.0-85111613204;10.3389/fpubh.2021.642895;Article;2021;neurology
+Real-Time Application for Covid-19 Class Detection based CNN Architecture;2-s2.0-85114853248;10.1109/DTS52014.2021.9498055;Conference Paper;2021;neurology
+Detection of subthalamic nucleus using novel higher-order spectra features in microelectrode recordings signals;2-s2.0-85107078634;10.1016/j.bbe.2021.04.016;Article;2021;neurology
+Comprehensive and accurate genetic variant identification from contaminated and low-coverage Mycobacterium tuberculosis whole genome sequencing data;2-s2.0-85121993748;10.1099/mgen.0.000689;Article;2021;neurology
+Comparison of autonomous as-oct deep learning algorithm and clinical dry eye tests in diagnosis of dry eye disease;2-s2.0-85117938360;10.2147/OPTH.S321764;Article;2021;neurology
+The Role of Medication Data to Enhance the Prediction of Alzheimer's Progression Using Machine Learning;2-s2.0-85116657921;10.1155/2021/8439655;Article;2021;neurology
+A Novel Machine Learning Model for the Detection of Epilepsy and Epileptic Seizures Using Electroencephalographic Signals Based on Chaos and Fractal Theories;2-s2.0-85113738509;10.1155/2021/2107113;Article;2021;neurology
+Multi source retinal fundus image classification using convolution neural networks fusion and Gabor-based texture representation;2-s2.0-85111560643;10.1504/IJCVR.2021.116557;Article;2021;neurology
+Data and Machine Learning Fusion Architecture for Cardiovascular Disease Prediction;2-s2.0-85110707849;10.32604/cmc.2021.019013;Article;2021;neurology
+Rul estimation enhancement using hybrid deep learning methods;2-s2.0-85106668441;10.36001/IJPHM.2021.V12I1.2378;Article;2021;neurology
+NSGA-III-based deep-learning model for biomedical search engines;2-s2.0-85105980939;10.1155/2021/9935862;Article;2021;neurology
+Deep Learning-Based Smart IoT Health System for Blindness Detection Using Retina Images;2-s2.0-85105865857;10.1109/ACCESS.2021.3078241;Article;2021;neurology
+Automatic diagnosis of common carotid artery disease using different machine learning techniques;2-s2.0-85105861117;10.1007/s12652-021-03295-6;Article;2021;neurology
+Enhancement of blood pressure estimation method via machine learning;2-s2.0-85107583872;10.1016/j.aej.2021.04.035;Article;2021;neurology
+Exploratory data mining techniques (decision tree models) for examining the impact of internet-based cognitive behavioral therapy for tinnitus: Machine learning approach;2-s2.0-85118997219;10.2196/e28999;Article;2021;neurology
+Deep multiple-instance learning for abnormal cell detection in cervical histopathology images;2-s2.0-85116055859;10.1016/j.compbiomed.2021.104890;Article;2021;neurology
+Deep learning based early detection framework for preliminary diagnosis of covid-19 via onboard smartphone sensors;2-s2.0-85117034452;10.3390/s21206853;Article;2021;neurology
+An optimized rnn-lstm approach for parkinsonâ€™s disease early detection using speech features;2-s2.0-85116619381;10.11591/eei.v10i5.3128;Article;2021;neurology
+Determinants of brain swelling in pediatric and adult cerebral malaria;2-s2.0-85116078472;10.1172/jci.insight.145823;Article;2021;neurology
+A comparison of prediction approaches for identifying prodromal Parkinson disease;2-s2.0-85113730177;10.1371/journal.pone.0256592;Article;2021;neurology
+A novel pre-processing technique in pathologic voice detection: Application to Parkinson's disease phonation;2-s2.0-85103687967;10.1016/j.bspc.2021.102604;Article;2021;neurology
+Deep convolutional neural network for the automated detection of Subthalamic nucleus using MER signals;2-s2.0-85103549682;10.1016/j.jneumeth.2021.109145;Article;2021;neurology
+A novel dwt-based discriminant features extraction from task-based fmri: An asd diagnosis study using cnn;2-s2.0-85107199190;10.1109/ISBI48211.2021.9433768;Conference Paper;2021;neurology
+A Comparative Study of Deep Learning Networks for COVID-19 Recognition in Chest X-ray Images;2-s2.0-85103842780;10.1109/IHSH51661.2021.9378703;Conference Paper;2021;neurology
+Epileptic Seizure Motion Classification based on sEMG and Artificial Neural Network;2-s2.0-85126854665;10.1109/IWIS54661.2021.9711793;Conference Paper;2021;neurology
+Alzheimer's Disease Diagnosis Based on a Semantic Rule-Based Modeling and Reasoning Approach;2-s2.0-85115907938;10.32604/cmc.2021.019069;Article;2021;neurology
+Adversarial neural network classifiers for COVID-19 diagnosis in ultrasound images;2-s2.0-85114556150;10.32604/cmc.2022.018564;Article;2021;neurology
+VIRFIM: an AI and Internet of Medical Things-driven framework for healthcare using smart sensors;2-s2.0-85114096782;10.1007/s00521-021-06434-4;Article;2021;neurology
+Analysis of Sentimental Behaviour over Social Data Using Machine Learning Algorithms;2-s2.0-85112720759;10.1007/978-3-030-79457-6_34;Conference Paper;2021;neurology
+DenTcov: Deep Transfer Learning-Based Automatic Detection of Coronavirus Disease (COVID-19) Using Chest X-ray Images;2-s2.0-85111253379;10.1007/978-3-030-73882-2_88;Conference Paper;2021;neurology
+Optimisation of Composite Briquette Made From Sawdust / Rice Husk Using Starch and Clay Binder;2-s2.0-85107729058;10.30880/ijie.2021.13.04.019;Article;2021;neurology
+Mapping global research on climate and health using machine learning (a systematic evidence map);2-s2.0-85105732886;10.12688/wellcomeopenres.16415.1;Article;2021;neurology
+Improved model of eye disease recognition based on VGG model;2-s2.0-85105510272;10.32604/iasc.2021.016569;Article;2021;neurology
+A new model for early diagnosis of alzheimer's disease based on bat-svm classifier;2-s2.0-85102992273;10.11591/eei.v10i2.2714;Article;2021;neurology
+Evaluation of acoustic features for early diagnosis of Alzheimer disease;2-s2.0-85090041750;10.1007/978-3-030-49342-4_17;Conference Paper;2021;neurology
+Machine learning for detecting epistasis interactions and its relevance to personalized medicine in alzheimer's disease: Systematic review;2-s2.0-85113196844;10.4015/S1016237221500472;Review;2021;neurology
+The rise of deep learning and transformations in bioactivity prediction power of molecular modeling tools;2-s2.0-85115050412;10.1111/cbdd.13750;Article;2021;neurology
+A novel deep recurrent convolutional neural network for subthalamic nucleus localization using local field potential signals;2-s2.0-85117185277;10.1016/j.bbe.2021.09.005;Article;2021;neurology
+Cnn applied in public transport for the protection against the covid-19 spread;2-s2.0-85117084739;10.14445/22315381/IJETT-V69I10P205;Article;2021;neurology
+Rheumatic heart disease screening based on phonocardiogram;2-s2.0-85116025553;10.3390/s21196558;Article;2021;neurology
+Application of Computational Methods in Understanding Mutations in Mycobacterium tuberculosis Drug Resistance;2-s2.0-85116881918;10.3389/fmolb.2021.643849;Review;2021;neurology
+Multiparametric MRI for the improved diagnostic accuracy of Alzheimer's disease and mild cognitive impairment: Research protocol of a case-control study design;2-s2.0-85115798421;10.1371/journal.pone.0252883;Article;2021;neurology
+Facial analysis technology for the detection of Down syndrome in the Democratic Republic of the Congo;2-s2.0-85108693929;10.1016/j.ejmg.2021.104267;Article;2021;neurology
+Optimized support vector machines for unveiling mortality incidence in Tilapia fish;2-s2.0-85101559447;10.1016/j.asej.2021.01.014;Article;2021;neurology
+Enhanced Predictive Modelling for 30-Day Readmission Diabetes Patients Based on Data Normalization Analysis;2-s2.0-85109181720;10.22266/ijies2021.0831.19;Article;2021;neurology
+COVID-19 diagnosis using X-ray images based on convolutional neural networks;2-s2.0-85114202801;10.1109/ICEEM52022.2021.9480659;Conference Paper;2021;neurology
+Detection of voice impairment for parkinson's disease using machine learning tools;2-s2.0-85112602014;10.1109/ISIVC49222.2021.9487544;Conference Paper;2021;neurology
+Automatic Hate and Offensive speech detection framework from social media: The case of Afaan Oromoo language;2-s2.0-85125351841;10.1109/ICT4DA53266.2021.9672232;Conference Paper;2021;neurology
+A novel epileptic seizure detection system using scalp EEG signals based on hybrid CNN-SVM classifier;2-s2.0-85124655396;10.1109/ISIEA51897.2021.9510002;Conference Paper;2021;neurology
+A Survey of Predictive Maintenance and Self-optimization in Telecom Field Based on Machine Learning;2-s2.0-85124377427;10.1109/ISCMI53840.2021.9654819;Conference Paper;2021;neurology
+Edge AI-based Respiratory Disease Recognition from Exhaled Breath Signatures;2-s2.0-85123757733;10.1109/JEEIT53412.2021.9634140;Conference Paper;2021;neurology
+EEG signal analysis using deep learning: A systematic literature review;2-s2.0-85123480267;10.1109/ICDS53782.2021.9626707;Conference Paper;2021;neurology
+Data Analysis and Computational Methods for Assessing Knowledge of Obesity Risk Factors among Saudi Citizens;2-s2.0-85119010716;10.1155/2021/1371336;Article;2021;neurology
+Managing the resource allocation for the COVID-19 pandemic in healthcare institutions: a pluralistic perspective;2-s2.0-85118661497;10.1108/IJQRM-09-2020-0315;Article;2021;neurology
+Multi-Tier Ensemble Learning Model with Neighborhood Component Analysis to Predict Health Diseases;2-s2.0-85117517882;10.1109/ACCESS.2021.3117963;Article;2021;neurology
+Distributionally Robust Segmentation ofÂ Abnormal Fetal Brain 3D MRI;2-s2.0-85117074289;10.1007/978-3-030-87735-4_25;Conference Paper;2021;neurology
+A Comparison of Computer Vision Methods for the Combined Detection of Glaucoma, Diabetic Retinopathy and Cataracts;2-s2.0-85112200242;10.1007/978-3-030-80432-9_3;Conference Paper;2021;neurology
+Deep Learning for Medical Image Segmentation;2-s2.0-85111104643;10.1007/978-3-030-76508-8_21;Conference Paper;2021;neurology
+Feature amplification capsule network for complex images;2-s2.0-85111002597;10.3233/JIFS-202080;Article;2021;neurology
+DCGAn for enhancing eye diseases classification;2-s2.0-85106180621;;Conference Paper;2021;neurology
+Automated model for tracking COVID-19 infected cases till final diagnosis;2-s2.0-85103818541;;Conference Paper;2021;neurology
+Deep Learning Hybrid with Binary Dragonfly Feature Selection for the Wisconsin Breast Cancer Dataset;2-s2.0-85103715227;10.14569/IJACSA.2021.0120314;Article;2021;neurology
+Diagnosis of Parkinsonâ€™s Disease by Deep Learning Techniques Using Handwriting Dataset;2-s2.0-85102506483;10.1007/978-981-16-0425-6_10;Conference Paper;2021;neurology
+The diagnosis of tuberculous meningitis in adults and adolescents: Protocol for a systematic review and individual patient data meta-analysis to inform a multivariable prediction model;2-s2.0-85100798569;10.12688/wellcomeopenres.15056.3;Article;2021;neurology
+Machine Learning Discrimination of Parkinsonâ€™s Disease Stages from Walker-Mounted Sensors Data;2-s2.0-85097067229;10.1007/978-3-030-53352-6_4;Conference Paper;2021;neurology
+Synthesis of Images from SMRI through Extreme Integrand Unstable Learning;2-s2.0-85111912053;10.1088/1742-6596/1964/6/062107;Conference Paper;2021;neurology
+Predicting of Sleep Behaviour in Smart Homes Based on Multi-residents Using Machine Learning Techniques;2-s2.0-85131784224;10.1007/s42979-021-00643-3;Article;2021;neurology
+ABCB1 Single Nucleotide Polymorphism Genotypes as Predictors of Paclitaxel-Induced Peripheral Neuropathy in Breast Cancer;2-s2.0-85111063944;10.1089/gtmb.2021.0014;Article;2021;neurology
+Automatic Segmentation of Multiple Sclerosis Lesions in Brain MR Images Using Ensemble Machine Learning;2-s2.0-85111388838;10.1109/MIUCC52538.2021.9447657;Conference Paper;2021;neurology
+Trabecular Bone Microarchitecture Assessment and Fracture Risk Prediction Using Machine Learning Techniques: A Short Review;2-s2.0-85113671921;10.1109/MI-STA52233.2021.9464362;Conference Paper;2021;neurology
+Drug resistant tuberculosis classification using logistic regression;2-s2.0-85098552290;10.1007/s41870-020-00592-9;Article;2021;neurology
+Medical Imaging-based Techniques for Alzheimer's Disease Detection: A Survey;2-s2.0-85107464244;10.1109/SSD52085.2021.9429494;Conference Paper;2021;neurology
+Sesame Seed Disease Detection Using Image Classification;2-s2.0-85107158727;10.1109/ICCCEEE49695.2021.9429640;Conference Paper;2021;neurology
+A Smartphone Application for Fall Detection Using Accelerometer and ConvLSTM Network;2-s2.0-85103842815;10.1109/IHSH51661.2021.9378743;Conference Paper;2021;neurology
+Mobile AI Stroke Health App: A Novel Mobile Intelligent Edge Computing Engine based on Deep Learning models for Stroke Prediction-Research and Industry Perspective;2-s2.0-85135380377;10.1109/ICCICC53683.2021.9811307;Conference Paper;2021;neurology
+Artificial Intelligence-Based Plant Diseases Classification;2-s2.0-85132884491;10.1007/978-3-030-59338-4_3;Book Chapter;2021;neurology
+Big Data in Psychiatry & Neurology;2-s2.0-85128105954;10.1016/B978-0-12-822884-5.09992-X;Book;2021;neurology
+Operational aspects of deep learning solutions for Alzheimerâ€™s disease;2-s2.0-85128105703;10.1016/B978-0-12-821334-6.00002-8;Book Chapter;2021;neurology
+Prediction of PM10 concentrations in the city of Agadir (Morocco) using non-linear autoregressive artificial neural networks with exogenous inputs (NARX);2-s2.0-85127294218;10.1016/j.matpr.2021.11.340;Conference Paper;2021;neurology
+An Efficient Algorithm for Analysis of Handwriting Task for the Detection of Parkinson's disease;2-s2.0-85126814095;10.1109/JAC-ECC54461.2021.9691312;Conference Paper;2021;neurology
+An Arabic Corpus for Covid-19 related Fake News;2-s2.0-85125965680;10.1109/ICRAMI52622.2021.9585909;Conference Paper;2021;neurology
+Investigate Risk Factors and Predict Neonatal and Infant Mortality Based on Maternal Determinants using Homogenous Ensemble Methods;2-s2.0-85125362659;10.1109/ICT4DA53266.2021.9671271;Conference Paper;2021;neurology
+An influence of Radon Transform Technique on Handwriting Task for the Detection of Parkinson's disease;2-s2.0-85125340904;10.1109/ICCES54031.2021.9686160;Conference Paper;2021;neurology
+Classifying Severity Level of Psychiatric Symptoms on Twitter Data;2-s2.0-85125339007;10.1109/ICT4DA53266.2021.9672228;Conference Paper;2021;neurology
+Automated Dental Diagnosis using Deep Learning;2-s2.0-85125305122;10.1109/ICCES54031.2021.9686185;Conference Paper;2021;neurology
+Predicting upper limb disability progression in primary progressive multiple sclerosis using machine learning and statistical methods;2-s2.0-85125198608;10.1109/BIBM52615.2021.9669665;Conference Paper;2021;neurology
+A new Deep Learning Model for COVID-19 Identification using Chest X-ray and CT Scan images;2-s2.0-85125055327;10.1109/AI-CSP52968.2021.9670891;Conference Paper;2021;neurology
+CT-Scans Images Segmentation for COVID-19 Detection Based CNN Models;2-s2.0-85124136876;10.1109/ICCAD52417.2021.9638745;Conference Paper;2021;neurology
+A new Machine Learning approach for epilepsy diagnostic based on Sample Entropy;2-s2.0-85120710680;10.1016/j.ifacol.2021.10.280;Conference Paper;2021;neurology
+Continuing professional development in eswatini: Factors affecting medical practitionersâ€™ participation;2-s2.0-85120053889;10.4102/safp.v63i1.5395;Article;2021;neurology
+Hybridization between deep learning algorithms and neutrosophic theory in medical image processing: A survey;2-s2.0-85119483532;;Article;2021;neurology
+A multi-branch deep learning network for automated detection of COVID-19;2-s2.0-85119186007;10.21437/Interspeech.2021-378;Conference Paper;2021;neurology
+IRegNet: Non-rigid registration of MRI to interventional US for brain-shift compensation using convolutional neural networks;2-s2.0-85117806883;10.1109/ACCESS.2021.3120306;Article;2021;neurology
+Genetic variations analysis for complex brain disease diagnosis using machine learning techniques: opportunities and hurdles;2-s2.0-85117231513;10.7717/PEERJ-CS.697;Article;2021;neurology
+Dull bit grading using video intelligence;2-s2.0-85116712445;10.2118/206254-MS;Conference Paper;2021;neurology
+Medical image enhancement based on convolutional denoising autoencoders and GMD model;2-s2.0-85111868993;;Conference Paper;2021;neurology
+A Language-Based Approach for Predicting Alzheimer Disease Severity;2-s2.0-85111138156;10.1007/978-3-030-75018-3_19;Conference Paper;2021;neurology
+Analyzing Moroccan Tweets to Extract Sentiments Related to the Coronavirus Pandemic: A New Classification Approach;2-s2.0-85111131489;10.1007/978-3-030-76508-8_3;Conference Paper;2021;neurology
+Stacking and Chaining of Normalization Methods in Deep Learning-Based Classification of Colorectal Cancer Using Gut Microbiome Data;2-s2.0-85110431663;10.1109/ACCESS.2021.3094529;Article;2021;neurology
+Location Intelligence Powered by Machine Learning Automation for Mapping Malaria Mosquito Habitats Employing an Unmanned Aerial Vehicle (UAV) for Implementing â€œSeek and Destroyâ€ for Commercial Roadside Ditch Foci and Real Time Larviciding Rock Pit Quarry Habitats in Peri-Domestic Agro-Pastureland Ecosystems in Northern Uganda;2-s2.0-85107284648;10.1007/978-3-030-71998-2_8;Book Chapter;2021;neurology
+Nomogram to early screen multiparous women for preterm birth in a cohort study;2-s2.0-85106373941;10.46300/91011.2021.15.17;Article;2021;neurology
+Design and development of machine learning model for osteoarthritis identification;2-s2.0-85105101134;10.1007/978-981-33-4543-0_84;Book Chapter;2021;neurology
+AN EFFICIENT LABEL-RELATIONSHIP DETECTION APPROACH FOR MULTILABEL CLASSIFICATION;2-s2.0-85104694217;;Article;2021;neurology
+Skin Cancer Prediction and Diagnosis Using Convolutional Neural Network (CNN) Deep Learning Algorithm;2-s2.0-85102649298;10.1007/978-3-030-66840-2_42;Conference Paper;2021;neurology
+Artificial intelligence strategy in the age of COVID-19: opportunities and challenges;2-s2.0-85102626135;10.1007/978-3-030-63307-3_5;Book Chapter;2021;neurology
+COVID-19 Patient Classification Strategy Using a Hybrid BWM-SVM Model;2-s2.0-85102622656;10.1007/978-3-030-66840-2_92;Conference Paper;2021;neurology
+Quantitative Longitudinal Predictions of Alzheimer's Disease by Multi-Modal Predictive Learning;2-s2.0-85101257969;10.3233/JAD-200906;Article;2021;neurology
+A smart agricultural system to classify agricultural plants and fungus diseases using deep learning;2-s2.0-85101057947;10.1007/978-3-030-53440-0_25;Book Chapter;2021;neurology
+Machine Learning and Deep Learning: Recent Overview in Medical Care;2-s2.0-85091524369;10.1007/978-3-030-49932-7_22;Conference Paper;2021;neurology
+Automatic detection of Parkinsonâ€™s disease from speech using acoustic, prosodic and phonetic features;2-s2.0-85090030701;10.1007/978-3-030-49342-4_8;Conference Paper;2021;neurology
+Efficient deep learning approach for augmented detection of Coronavirus disease;2-s2.0-85099542868;10.1007/s00521-020-05410-8;Article;2022;neurology
+Identification of malnutrition and prediction of BMI from facial images using real-time image processing and machine learning;2-s2.0-85113952288;10.1049/ipr2.12222;Article;2022;neurology
+The ENIGMA-Epilepsy working group: Mapping disease from large data sets;2-s2.0-85085547126;10.1002/hbm.25037;Review;2022;neurology
+High efficient Cefixime removal from water by the sillenite Bi12TiO20: Photocatalytic mechanism and degradation pathway;2-s2.0-85120865723;10.1016/j.jclepro.2021.129934;Article;2022;neurology
+A Novel Diabetes Healthcare Disease Prediction Framework Using Machine Learning Techniques;2-s2.0-85123745975;10.1155/2022/1684017;Article;2022;neurology
+A novel hybrid approach based on deep cnn to detect glaucoma using fundus imaging;2-s2.0-85121438510;10.3390/electronics11010026;Article;2022;neurology
+Viral outbreaks detection and surveillance using wastewater-based epidemiology, viral air sampling, and machine learning techniques: A comprehensive review and outlook;2-s2.0-85114771539;10.1016/j.scitotenv.2021.149834;Article;2022;neurology
+Optimal deep learning based fusion model for biomedical image classification;2-s2.0-85109388934;10.1111/exsy.12764;Article;2022;neurology
+Multi-Label Active Learning-Based Machine Learning Model for Heart Disease Prediction;2-s2.0-85123934462;10.3390/s22031184;Article;2022;neurology
+Deep Learning Approach for Early Detection of Alzheimerâ€™s Disease;2-s2.0-85118496348;10.1007/s12559-021-09946-2;Article;2022;neurology
+A new approach in identifying the psychological impact of COVID-19 on university student's academic performance;2-s2.0-85118706612;10.1016/j.aej.2021.10.046;Article;2022;neurology
+A Novel Deep Learning-Based Black Fungus Disease Identification Using Modified Hybrid Learning Methodology;2-s2.0-85124057208;10.1155/2022/4352730;Article;2022;neurology
+A machine learning approach involving functional connectivity features to classify rest-eeg psychogenic non-epileptic seizures from healthy controls;2-s2.0-85121653783;10.3390/s22010129;Article;2022;neurology
+Automated Detection of Alzheimerâ€™s via Hybrid Classical Quantum Neural Networks;2-s2.0-85125388540;10.3390/electronics11050721;Article;2022;neurology
+The Role of Artificial Intelligence and Machine Learning Amid the COVID 19 Pandemic: What Lessons Are We Learning on 4IR and the Sustainable Development Goals;2-s2.0-85124333120;10.3390/ijerph19031879;Article;2022;neurology
+Blockchain-Based Deep Learning to Process IoT Data Acquisition in Cognitive Data;2-s2.0-85125005186;10.1155/2022/5038851;Article;2022;neurology
+CU-Net: A New Improved Multi-Input Color U-Net Model for Skin Lesion Semantic Segmentation;2-s2.0-85124249273;10.1109/ACCESS.2022.3148402;Article;2022;neurology
+A robust method for collider bias correction in conditional genome-wide association studies;2-s2.0-85124059458;10.1038/s41467-022-28119-9;Article;2022;neurology
+P Wave Parameters and Indices: A Critical Appraisal of Clinical Utility, Challenges, and Future Researchâ€”A Consensus Document Endorsed by the International Society of Electrocardiology and the International Society for Holter and Noninvasive Electrocardiology;2-s2.0-85128800370;10.1161/CIRCEP.121.010435;Review;2022;neurology
+Reported Adverse Effects and Attitudes among Arab Populations Following COVID-19 Vaccination: A Large-Scale Multinational Study Implementing Machine Learning Tools in Predicting Post-Vaccination Adverse Effects Based on Predisposing Factors;2-s2.0-85128472418;10.3390/vaccines10030366;Article;2022;neurology
+Fineâ€Tuning Fuzzy KNN Classifier Based on Uncertainty Membership for the Medical Diagnosis of Diabetes;2-s2.0-85122985751;10.3390/app12030950;Article;2022;neurology
+Autism spectrum disorder prediction by an explainable deep learning approach;2-s2.0-85118644392;10.32604/cmc.2022.022170;Article;2022;neurology
+Potential of Deep Learning Algorithms in Mitigating the Spread of COVID-19;2-s2.0-85111927289;10.1007/978-3-030-74761-9_10;Book Chapter;2022;neurology
+Deep Learning Segmentation of Satellite Imagery Identifies Aquatic Vegetation Associated with Snail Intermediate Hosts of Schistosomiasis in Senegal, Africa;2-s2.0-85129741249;10.3390/rs14061345;Article;2022;neurology
+Deep Learning Prediction of Response to Anti-VEGF among Diabetic Macular Edema Patients: Treatment Response Analyzer System (TRAS);2-s2.0-85124105964;10.3390/diagnostics12020312;Article;2022;neurology
+COVID-19 detection in CT and CXR images using deep learning models;2-s2.0-85123299026;10.1007/s10522-021-09946-7;Article;2022;neurology
+Human emotion recognition from EEG-based brainâ€“computer interface using machine learning: a comprehensive review;2-s2.0-85129513424;10.1007/s00521-022-07292-4;Review;2022;neurology
+An Exploration: Alzheimer's Disease Classification Based on Convolutional Neural Network;2-s2.0-85123963543;10.1155/2022/8739960;Article;2022;neurology
+A Hybrid Machine-Learning Model Based on Global and Local Learner Algorithms for Diabetes Mellitus Prediction;2-s2.0-85123316564;10.4028/www.scientific.net/JBBBE.54.65;Article;2022;neurology
+Machine learning based depression, anxiety, and stress predictive model during COVID-19 crisis;2-s2.0-85117017416;10.32604/cmc.2022.021195;Article;2022;neurology
+Access denied: the shortage of digitized fitness resources for people with disabilities;2-s2.0-85106847715;10.1080/09638288.2020.1854873;Article;2022;neurology
+Interventional neurorehabilitation for promoting functional recovery post-craniotomy: a proof-of-concept;2-s2.0-85125214165;10.1038/s41598-022-06766-8;Article;2022;neurology
+Voice disorder classification using speech enhancement and deep learning models;2-s2.0-85126865153;10.1016/j.bbe.2022.03.002;Article;2022;neurology
+Alzheimer's Disease and Î²-secretase Inhibition: An Update with a Focus on Computer-aided Inhibitor Design;2-s2.0-85126389254;10.2174/1389450122666210809100050;Review;2022;neurology
+Deep Learning Models for Predicting Epileptic Seizures Using iEEG Signals;2-s2.0-85124617910;10.3390/electronics11040605;Article;2022;neurology
+Digital Approaches to Automated and Machine Learning Assessments of Hearing: Scoping Review;2-s2.0-85124056113;10.2196/32581;Review;2022;neurology
+Application of Deep Learning to Community-Science-Based Mosquito Monitoring and Detection of Novel Species;2-s2.0-85123645962;10.1093/jme/tjab161;Article;2022;neurology
+Machine Learning: Assisted Cardiovascular Diseases Diagnosis;2-s2.0-85126773623;10.14569/IJACSA.2022.0130216;Article;2022;neurology
+Toward deep MRI segmentation for Alzheimerâ€™s disease detection;2-s2.0-85113856766;10.1007/s00521-021-06430-8;Article;2022;neurology
+Field evaluation of the diagnostic performance of EasyScan GO: a digital malaria microscopy device based on machine-learning;2-s2.0-85128011870;10.1186/s12936-022-04146-1;Article;2022;neurology
+Multidimensional analysis of the host response reveals prognostic and pathogen-driven immune subtypes among adults with sepsis in Uganda;2-s2.0-85124282769;10.1186/s13054-022-03907-3;Article;2022;neurology
+Mobile and wearable sensors for data-driven health monitoring system: State-of-the-art and future prospect;2-s2.0-85129976791;10.1016/j.eswa.2022.117362;Review;2022;neurology
+Two-stage deep learning model for Alzheimerâ€™s disease detection and prediction of the mild cognitive impairment time;2-s2.0-85129575868;10.1007/s00521-022-07263-9;Article;2022;neurology
+Early wildfire detection using machine learning model deployed in the fog/edge layers of IoT;2-s2.0-85135488674;10.11591/ijeecs.v27.i2.pp1062-1073;Article;2022;neurology
+Intelligent modeling of dye removal by aluminized activated carbon;2-s2.0-85127573905;10.1007/s11356-022-19906-4;Article;2022;neurology
+Deep learning auto-segmentation of cervical skeletal muscle for sarcopenia analysis in patients with head and neck cancer;2-s2.0-85135274472;10.3389/fonc.2022.930432;Article;2022;neurology
+MTM-Inspired Graphene-Based THz MIMO Antenna Configurations Using Characteristic Mode Analysis for 6G/IoT Applications;2-s2.0-85136378561;10.3390/electronics11142152;Article;2022;neurology
+A3 C-TL-GTO: Alzheimer Automatic Accurate Classification Using Transfer Learning and Artificial Gorilla Troops Optimizer;2-s2.0-85131152952;10.3390/s22114250;Article;2022;neurology
+Advanced Echocardiography Techniques: The Future Stethoscope of Systemic Diseases;2-s2.0-85105793662;10.1016/j.cpcardiol.2021.100847;Review;2022;neurology
+Negation and Speculation in NLP: A Survey, Corpora, Methods, and Applications;2-s2.0-85131081333;10.3390/app12105209;Review;2022;neurology
+COVID-19 Tweets Classification Based on a Hybrid Word Embedding Method;2-s2.0-85130691911;10.3390/bdcc6020058;Article;2022;neurology
+The Role of Different Retinal Imaging Modalities in Predicting Progression of Diabetic Retinopathy: A Survey;2-s2.0-85129362588;10.3390/s22093490;Article;2022;neurology
+Automating Pitted Red Blood Cell Counts Using Deep Neural Network Analysis: A New Method for Measuring Splenic Function in Sickle Cell Anaemia;2-s2.0-85128769682;10.3389/fphys.2022.859906;Article;2022;neurology
+MDA-Unet: A Multi-Scale Dilated Attention U-Net For Medical Image Segmentation;2-s2.0-85128524655;10.3390/app12073676;Article;2022;neurology
+Machine Learning for Early Parkinsonâ€™s Disease Identification within SWEDD Group Using Clinical and DaTSCAN SPECT Imaging Features;2-s2.0-85128316459;10.3390/jimaging8040097;Article;2022;neurology
+Survey of BERT-Base Models for Scientific Text Classification: COVID-19 Case Study;2-s2.0-85128457938;10.3390/app12062891;Article;2022;neurology
+Modelling Covid-19 infections in Zambia using data mining techniques;2-s2.0-85124287851;10.1016/j.rineng.2022.100363;Article;2022;neurology
+An Artificial Intelligence Approach for Expurgating Edible and Non-Edible Items;2-s2.0-85124507498;10.3389/fpubh.2021.825468;Article;2022;neurology
+An Ontological Model based on Machine Learning for Predicting Breast Cancer;2-s2.0-85135857854;10.14569/IJACSA.2022.0130715;Article;2022;neurology
+Multi-step Ahead Forecasting of River Water Temperature Using Advance Artificial Intelligence Models: Voting Based Extreme Learning Machine Based on Empirical Mode Decomposition;2-s2.0-85134155047;10.1007/978-981-19-2519-1_18;Book Chapter;2022;neurology
+Improved Metaheuristics with Machine Learning Enabled Medical Decision Support System;2-s2.0-85132345851;10.32604/cmc.2022.028878;Article;2022;neurology
+Hybrid Optimized GRU-ECNN Models for Gait Recognition with Wearable IOT Devices;2-s2.0-85130645597;10.1155/2022/5422428;Article;2022;neurology
+Development of a chickpea disease detection and classification model using deep learning;2-s2.0-85130357061;10.1016/j.imu.2022.100970;Article;2022;neurology
+Smart Cities-Based Improving Atmospheric Particulate Matters Prediction Using Chi-Square Feature Selection Methods by Employing Machine Learning Techniques;2-s2.0-85130133395;10.1080/08839514.2022.2067647;Article;2022;neurology
+IoT-Based Wearable Devices for Patients Suffering from Alzheimer Disease;2-s2.0-85129460752;10.1155/2022/3224939;Review;2022;neurology
+Parkinson's disease classification using machine learning algorithms: performance analysis and comparison;2-s2.0-85127964196;10.1109/IRASET52964.2022.9738264;Conference Paper;2022;neurology
+Deep Learning 3D Convolutional Neural Networks for Predicting Alzheimerâ€™s Disease (ALD);2-s2.0-85127864792;10.1007/978-981-16-8558-3_11;Conference Paper;2022;neurology
+Deep Squeeze and Excitation-Densely Connected Convolutional Network with cGAN for Alzheimerâ€™s Disease Early Detection;2-s2.0-85127696464;10.1007/978-3-030-96308-8_41;Conference Paper;2022;neurology
+Enhanced Prediction of Chronic Kidney Disease Using Feature Selection and Boosted Classifiers;2-s2.0-85127664801;10.1007/978-3-030-96308-8_49;Conference Paper;2022;neurology
+Analyzing the Patient Behavior for Improving the Medical Treatment Using Smart Healthcare and IoT-Based Deep Belief Network;2-s2.0-85126852529;10.1155/2022/6389069;Article;2022;neurology
+A Novel Strategy for Waste Prediction Using Machine Learning Algorithm with IoT Based Intelligent Waste Management System;2-s2.0-85125271514;10.1155/2022/2063372;Article;2022;neurology
+Employing Machine Learning-Based Predictive Analytical Approaches to Classify Autism Spectrum Disorder Types;2-s2.0-85123749598;10.1155/2022/8134018;Article;2022;neurology
+Metaheuristics with Deep Learning-Enabled Parkinson's Disease Diagnosis and Classification Model;2-s2.0-85123659832;10.1155/2022/9276579;Article;2022;neurology
+Enhancing Parkinson's Disease Prediction Using Machine Learning and Feature Selection Methods;2-s2.0-85122754355;10.32604/cmc.2022.023124;Article;2022;neurology
+Determinant of Covariance Matrix Model Coupled with AdaBoost Classification Algorithm for EEG Seizure Detection;2-s2.0-85122687167;10.3390/diagnostics12010074;Article;2022;neurology
+Deep Learning Models for Magnetic Cardiography Edge Sensors Implementing Noise Processing and Diagnostics;2-s2.0-85122314259;10.1109/ACCESS.2021.3138976;Article;2022;neurology
+Affective Concept-Based Encoding of Patient Narratives via Sentic Computing and Neural Networks;2-s2.0-85112762055;10.1007/s12559-021-09903-z;Article;2022;neurology
+Discovering epistasis interactions in Alzheimer's disease using deep learning model;2-s2.0-85137694006;10.1016/j.genrep.2022.101673;Article;2022;neurology
+Machine learning algorithms for predicting low birth weight in Ethiopia;2-s2.0-85137222401;10.1186/s12911-022-01981-9;Article;2022;neurology
+Bridging the resources gap: deep learning for fluorescein angiography and optical coherence tomography macular thickness map image translation;2-s2.0-85137110259;10.1186/s12886-022-02577-7;Article;2022;neurology
+Semiquantitative CT imaging as a tool in improving detection of ground glass patches in patients with COVID-19 pneumonia and for better follow-up;2-s2.0-85136035347;10.1186/s43055-022-00862-5;Article;2022;neurology
+Muscle and adipose tissue segmentations at the third cervical vertebral level in patients with head and neck cancer;2-s2.0-85135264779;10.1038/s41597-022-01587-w;Data Paper;2022;neurology
+Speech processing for early Parkinsonâ€™s disease diagnosis: machine learning and deep learning-based approach;2-s2.0-85133348139;10.1007/s13278-022-00905-9;Article;2022;neurology
+Automatic detection of Alzheimer's disease progression: An efficient information fusion approach with heterogeneous ensemble classifiers;2-s2.0-85138426483;10.1016/j.neucom.2022.09.009;Article;2022;neurology
+Explainable deep convolutional neural networks for insect pest recognition;2-s2.0-85136281253;10.1016/j.jclepro.2022.133638;Review;2022;neurology
+Manual versus automatic analysis of microglial density and distribution: a comparison in the hippocampus of healthy and lipopolysaccharide-challenged mature male mice;2-s2.0-85135788458;10.1016/j.micron.2022.103334;Article;2022;neurology
+A novel fraud detection and prevention method for healthcare claim processing using machine learning and blockchain technology;2-s2.0-85137728319;10.1016/j.dajour.2022.100122;Article;2022;neurology
+A Deep Learning and Handcrafted Based Computationally Intelligent Technique for Effective COVID-19 Detection from X-ray/CT-scan Imaging;2-s2.0-85134372338;10.1007/s10723-022-09615-0;Article;2022;neurology
+Diabetic Retinopathy Classification Using Hybrid Deep Learning Approach;2-s2.0-85133469259;10.1007/s42979-022-01240-8;Article;2022;neurology
+An empirical study on machine learning algorithms for heart disease prediction;2-s2.0-85133134615;10.11591/ijai.v11.i3.pp1066-1073;Article;2022;neurology
+Machine learning and deep learning-driven methods for predicting ambient particulate matters levels: A case study;2-s2.0-85128868980;10.1002/cpe.7035;Article;2022;neurology
+EEG brain signals to detect the sleep health of a driver: An automated framework system based on deep learning;2-s2.0-85137995221;10.3389/fnhum.2022.915276;Article;2022;neurology
+An Overview of Technologies for Improving Storage Efficiency in Blockchain-Based IIoT Applications;2-s2.0-85137384208;10.3390/electronics11162513;Review;2022;neurology
+Imperative Role of Machine Learning Algorithm for Detection of Parkinsonâ€™s Disease: Review, Challenges and Recommendations;2-s2.0-85137381762;10.3390/diagnostics12082003;Review;2022;neurology
+Enhancement of Hand Gesture Recognition Using Convolutional Neural Networks Integrating a Combination of an Autoencoder Network and PCA;2-s2.0-85137060041;10.1142/S0218001422560158;Article;2022;neurology
+Towards an Accurate Faults Detection Approach in Internet of Medical Things Using Advanced Machine Learning Techniques;2-s2.0-85136341982;10.3390/s22155893;Article;2022;neurology
+A novel deep learning model for STN localization from LFPs in Parkinson's disease;2-s2.0-85134017530;10.1016/j.bspc.2022.103830;Article;2022;neurology
+Machine learning and Serious Game for the Early Diagnosis of Alzheimerâ€™s Disease;2-s2.0-85131543742;10.1177/10468781221106850;Article;2022;neurology
+Computer-aided diagnosis system for retinal disorder classification using optical coherence tomography images;2-s2.0-85130955537;10.1515/bmt-2021-0330;Article;2022;neurology
+Comparing automated and non-automated machine learning for autism spectrum disorders classification using facial images;2-s2.0-85126866164;10.4218/etrij.2021-0097;Article;2022;neurology
+An approach to detect human body movement using different channel models and machine learning techniques;2-s2.0-85104809004;10.1007/s12652-021-03237-2;Article;2022;neurology
+An optimized Parkinson's disorder identification through evolutionary fast learning network;2-s2.0-85120669388;10.1108/IJICC-07-2021-0138;Article;2022;neurology
+Machine Learning Smart System for Parkinson Disease Classification Using the Voice as a Biomarker;2-s2.0-85136283086;10.4258/hir.2022.28.3.210;Article;2022;neurology
+Multiple Ocular Disease Diagnosis Using Fundus Images Based on Multi-Label Deep Learning Classification;2-s2.0-85132419797;10.3390/electronics11131966;Article;2022;neurology
+Detection of neurodegenerative disease in brain using region splitting based segmentation with deep unsupervised neural networks;2-s2.0-85111420869;10.1111/exsy.12775;Article;2022;neurology
+Healthsheet: Development of a Transparency Artifact for Health Datasets;2-s2.0-85132965239;10.1145/3531146.3533239;Conference Paper;2022;neurology
+An automated deep learning enabled brain signal classification for epileptic seizure detection on complex measurement systems;2-s2.0-85129326878;10.1016/j.measurement.2022.111226;Article;2022;neurology
+A Novel Deep Convolutional Neural Network Model for Alzheimerâ€™s Disease Classification Using Brain MRI;2-s2.0-85134206794;10.3103/S0146411622030063;Article;2022;neurology
+Image Classification Using a Fully Convolutional Neural Network CNN;2-s2.0-85133784782;10.18280/mmep.090325;Article;2022;neurology
+Early-Stage Alzheimerâ€™s Disease Categorization Using PET Neuroimaging Modality and Convolutional Neural Networks in the 2D and 3D Domains;2-s2.0-85132935111;10.3390/s22124609;Article;2022;neurology
+An Efficient Hybrid Model for Patient-Independent Seizure Prediction Using Deep Learning;2-s2.0-85131505290;10.3390/app12115516;Article;2022;neurology
+Deep-learning-based seizure detection and prediction from electroencephalography signals;2-s2.0-85129799816;10.1002/cnm.3573;Article;2022;neurology
+Risk assessment of ICU patients through deep learning technique: A big data approach;2-s2.0-85133222431;10.7189/jogh.12.04044;Article;2022;neurology
+A supervised machine learning approach for diagnosing Lassa fever and viral Hemorrhagic fever types reliant on observed signs;2-s2.0-85131877245;10.14456/apst.2022.65;Article;2022;neurology
+Multimodal deep learning based on the combination of EfficientNetV2 and ViT for Alzheimerâ€™s disease early diagnosis enhanced by SAGAN data augmentation;2-s2.0-85130486347;;Article;2022;neurology
+Extreme Learning Machine model for assessment of stream health using the Qualitative Habitat Evaluation Index;2-s2.0-85131209677;10.2166/ws.2022.166;Article;2022;neurology
+Application of Deep Learning and WT-SST in Localization of Epileptogenic Zone Using Epileptic EEG Signals;2-s2.0-85130575202;10.3390/app12104879;Article;2022;neurology
+A Novel Multicolor-thresholding Auto-detection Method to Detect the Location and Severity of Inflammation in Confirmed SARS-COV-2 Cases using Chest X-Ray Images;2-s2.0-85129209367;10.2174/1573405617666210910150119;Article;2022;neurology
+Identifying Individuals Who Currently Report Feelings of Anxiety Using Walking Gait and Quiet Balance: An Exploratory Study Using Machine Learning;2-s2.0-85128371933;10.3390/s22093163;Article;2022;neurology
+Differentiating Between COVID-19 and Tuberculosis Using Machine Learning and Natural Language Processing;2-s2.0-85131088403;10.18280/ria.360216;Article;2022;neurology
+Deep and Statistical-Based Methods for Alzheimer's Disease Detection: A Survey;2-s2.0-85130068040;10.5626/JCSE.2022.16.1.1;Article;2022;neurology
+Disease-Course Adapting Machine Learning Prognostication Models in Elderly Patients Critically Ill With COVID-19: Multicenter Cohort Study With External Validation;2-s2.0-85128145770;10.2196/32949;Article;2022;neurology
+Current Status of Next-Generation Sequencing Approaches for Candidate Gene Discovery in Familial ParkinsonÂ´s Disease;2-s2.0-85127353365;10.3389/fgene.2022.781816;Article;2022;neurology
+Economic costs of childhood stunting to the private sector in low- and middle-income countries;2-s2.0-85126568488;10.1016/j.eclinm.2022.101320;Article;2022;neurology
+An Eigenvalues-Based Covariance Matrix Bootstrap Model Integrated With Support Vector Machines for Multichannel EEG Signals Analysis;2-s2.0-85124882954;10.3389/fninf.2021.808339;Article;2022;neurology
+Diabetes classification application with efficient missing and outliers data handling algorithms;2-s2.0-85134077675;10.1007/s40747-021-00349-2;Article;2022;neurology
+Classification of Bird Sound Using High-and Low-Complexity Convolutional Neural Networks;2-s2.0-85128146262;10.18280/ts.390119;Article;2022;neurology
+Machine Learning Based Prediction and Modeling in Healthcare Secured Internet of Things;2-s2.0-85100174978;10.1007/s11036-020-01711-3;Article;2022;neurology
+Deep multiple instance learning for automatic glaucoma prevention and auto-annotation using color fundus photography;2-s2.0-85138383809;10.1007/s13748-022-00292-4;Article;2022;neurology
+A machine-learning approach for predicting impaired consciousness in absence epilepsy;2-s2.0-85138216817;10.1002/acn3.51647;Article;2022;neurology
+Automatic classification Infectious disease X-ray images based on Deep learning Algorithms;2-s2.0-85137826203;10.1109/ITNT55410.2022.9848538;Conference Paper;2022;neurology
+Performance of Artificial Intelligence Models in Analysis and Prediction of Water Potability;2-s2.0-85137784813;10.1109/ITC-Egypt55520.2022.9855743;Conference Paper;2022;neurology
+Using Machine Learning Methods Incorporating Individual Reader Annotations to Classify Paediatric Chest Radiographs in Epidemiological Studies;2-s2.0-85137756075;10.12688/wellcomeopenres.17164.2;Article;2022;neurology
+Genetic Algorithm-Based Human Mental Stress Detection and Alerting in Internet of Things;2-s2.0-85137653398;10.1155/2022/4086213;Article;2022;neurology
+Automated COVID-19 Classification Using Heap-Based Optimization with the Deep Transfer Learning Model;2-s2.0-85137036627;10.1155/2022/7508836;Article;2022;neurology
+Multithreshold Segmentation and Machine Learning Based Approach to Differentiate COVID-19 from Viral Pneumonia;2-s2.0-85136866817;10.1155/2022/2728866;Article;2022;neurology
+Towards a better multivariate time-series detection of epileptic seizures in electroencephalogram (EEG) using Machine Learning algorithms;2-s2.0-85136817180;10.1109/SMARTTECH54121.2022.00041;Conference Paper;2022;neurology
+Machine Learning-Based Multimodel Computing for Medical Imaging for Classification and Detection of Alzheimer Disease;2-s2.0-85136711635;10.1155/2022/9211477;Article;2022;neurology
+Effective Evaluation of Medical Images Using Artificial Intelligence Techniques;2-s2.0-85136672047;10.1155/2022/8419308;Article;2022;neurology
+A CAD System for Alzheimer's Disease Classification Using Neuroimaging MRI 2D Slices;2-s2.0-85136113249;10.1155/2022/8680737;Article;2022;neurology
+Sentiment-Based Spatiotemporal Prediction Framework for Pandemic Outbreaks Awareness Using Social Networks Data Classification;2-s2.0-85135215522;10.1109/ACCESS.2022.3192417;Article;2022;neurology
+Biocomposite's Multiple Uses for a New Approach in the Diagnosis of Parkinson's Disease Using a Machine Learning Algorithm;2-s2.0-85135132848;10.1155/2022/6159392;Article;2022;neurology
+Detection of Fungal Infections in Gloriosa Superba Plant Using the Convolution Neural Network Model;2-s2.0-85135123547;10.1155/2022/7413983;Article;2022;neurology
+Reducing Exposure to Hateful Speech Online;2-s2.0-85135041596;10.1007/978-3-031-10467-1_38;Conference Paper;2022;neurology
+Automated volumetric determination of high R2* regions in substantia nigra: A feasibility study of quantifying substantia nigra atrophy in progressive supranuclear palsy;2-s2.0-85134584927;10.1002/nbm.4795;Article;2022;neurology
+Diverse activation functions based-hybrid RBF-ELM neural network for medical classification;2-s2.0-85134530443;10.1007/s12065-022-00758-3;Article;2022;neurology
+A Novel Machine Learning Approach Based on Fast Multi-Scale Hybrid Wavelet Network for Supporting Diagnosis of Neuromuscular Disorders;2-s2.0-85134324117;10.1117/12.2623016;Conference Paper;2022;neurology
+Epileptic Seizures Detection on EEG Signal Using Deep Learning Techniques;2-s2.0-85134264302;10.1109/ATSIP55956.2022.9805860;Conference Paper;2022;neurology
+Cross-Modal Learning for Audio-Visual Emotion Recognition in Acted Speech;2-s2.0-85134253015;10.1109/ATSIP55956.2022.9805959;Conference Paper;2022;neurology
+Multiple Sclerosis Segmentation using Deep Learning Models : Comparative Study;2-s2.0-85134235047;10.1109/ATSIP55956.2022.9805983;Conference Paper;2022;neurology
+Fatigue State Detection for Tired Persons in Presence of Driving Periods;2-s2.0-85133655196;10.1109/ACCESS.2022.3185251;Article;2022;neurology
+Role of Artificial Intelligence and Deep Learning in Easier Skin Cancer Detection through Antioxidants Present in Food;2-s2.0-85133641104;10.1155/2022/5890666;Article;2022;neurology
+PCA-Based Incremental Extreme Learning Machine (PCA-IELM) for COVID-19 Patient Diagnosis Using Chest X-Ray Images;2-s2.0-85133591701;10.1155/2022/9107430;Article;2022;neurology
+Improved Cerebral Images Semantic Segmentation Using Advanced Approaches ofÂ Deep Learning;2-s2.0-85133242612;10.1007/978-3-031-08277-1_6;Conference Paper;2022;neurology
+Classification and Diagnosis of Alzheimer's Disease based on a combination of Deep Features and Machine Learning;2-s2.0-85133136759;10.1109/ISPA54004.2022.9786318;Conference Paper;2022;neurology
+Parkinson's Disease Prediction Using Graphic User Interface-Machine Learning Algorithm;2-s2.0-85133134380;10.1109/ISPA54004.2022.9786325;Conference Paper;2022;neurology
+Epileptic Disease Prediction Using Graphic User Interface-Machine Learning Algorithm;2-s2.0-85133121883;10.1109/ISPA54004.2022.9786366;Conference Paper;2022;neurology
+Augmented Reality for COVID-19 Aid Diagnosis: Ct-Scan segmentation based Deep Learning;2-s2.0-85133120142;10.1109/ISPA54004.2022.9786298;Conference Paper;2022;neurology
+Deeply Trained Real-Time Body Sensor Networks for Analyzing the Symptoms of Parkinson-s Disease;2-s2.0-85132704395;10.1109/ACCESS.2022.3181985;Article;2022;neurology
+ESEEG: An Efficient Epileptic Seizure Detection using EEG signals based on Machine Learning Algorithms;2-s2.0-85132405512;10.1109/MIUCC55081.2022.9781762;Conference Paper;2022;neurology
+Supervised learning: Classification using decision trees for better practice in epidemiology Case study: The prevalence of tuberculosis;2-s2.0-85132150131;10.1016/j.procs.2022.03.107;Conference Paper;2022;neurology
+Real-Time Multi-Class Infection Classification for Respiratory Diseases;2-s2.0-85132125294;10.32604/cmc.2022.028847;Article;2022;neurology
+EEG Signals inÂ Mental Fatigue Detection: A Comparing Study ofÂ Machine Learning Technics VS Deep Learning;2-s2.0-85132032372;10.1007/978-3-031-06242-1_62;Conference Paper;2022;neurology
+Barnacles Mating Optimizer with Deep Transfer Learning Enabled Biomedical Malaria Parasite Detection and Classification;2-s2.0-85131851465;10.1155/2022/7776319;Article;2022;neurology
+Machine Learning Model-Based Applications for Food Management in Alzheimer's Using Regression Analysis Approach;2-s2.0-85131161975;10.1155/2022/1519451;Article;2022;neurology
+Smart Healthcare: Disease Prediction Using the Cuckoo-Enabled Deep Classifier in IoT Framework;2-s2.0-85130603165;10.1155/2022/2090681;Article;2022;neurology
+Computational Approach for Detection of Diabetes from Ocular Scans;2-s2.0-85130455314;10.1155/2022/5066147;Article;2022;neurology
+An Investigation in Analyzing the Food Quality Well-Being for Lung Cancer Using Blockchain through CNN;2-s2.0-85130400017;10.1155/2022/5845870;Article;2022;neurology
+Transfer Learning and Pressure Effect for Handwriting to Early Detection of Parkinsonâ€™s Disease;2-s2.0-85130211715;10.1007/978-3-031-01942-5_46;Conference Paper;2022;neurology
+NuCLS: A scalable crowdsourcing approach and dataset for nucleus classification and segmentation in breast cancer;2-s2.0-85130126960;10.1093/gigascience/giac037;Article;2022;neurology
+Machine Learning based Network Security in Healthcare System;2-s2.0-85130093250;10.1109/ICSCDS53736.2022.9760977;Conference Paper;2022;neurology
+WaterNet: A Network for Monitoring and Assessing Water Quality for Drinking and Irrigation Purposes;2-s2.0-85129608396;10.1109/ACCESS.2022.3172274;Article;2022;neurology
+A Convolutional Neural Network for Artifacts Detection in EEG Data;2-s2.0-85129313239;10.1007/978-981-16-7618-5_1;Conference Paper;2022;neurology
+Classification and signal processing analysis of the pathological electromyogram signal;2-s2.0-85129239726;10.1504/IJMEI.2022.122286;Article;2022;neurology
+Classification of Bioinformatics EEG Data Signals to Identify Depressed Brain State Using CNN Model;2-s2.0-85128801402;10.1155/2022/5214195;Article;2022;neurology
+Optimization-Based Ensemble Feature Selection Algorithm and Deep Learning Classifier for Parkinson's Disease;2-s2.0-85128801306;10.1155/2022/1487212;Article;2022;neurology
+QASIS: a QoC aware stress identification system using machine learning approach;2-s2.0-85128738469;10.1504/IJHPSA.2022.121881;Conference Paper;2022;neurology
+Deep Learning Model for Automatic Classification and Prediction of Brain Tumor;2-s2.0-85128691333;10.1155/2022/3065656;Article;2022;neurology
+Fuzzy Logic System Implementation on the Performance Parameters of Health Data Management Frameworks;2-s2.0-85128640405;10.1155/2022/9382322;Review;2022;neurology
+Intelligent Approach for Clustering Mutationsâ€™ Nature of COVID-19 Genome;2-s2.0-85128616160;10.32604/cmc.2022.023974;Article;2022;neurology
+Automated Detection of Infection in Diabetic Foot Ulcer Images Using Convolutional Neural Network;2-s2.0-85128351136;10.1155/2022/2349849;Article;2022;neurology
+An Automatic Voice Disorder Detection System Based On Extreme Gradient Boosting Classifier;2-s2.0-85127985499;10.1109/IRASET52964.2022.9737980;Conference Paper;2022;neurology
+Air Quality Forecasting using decision trees algorithms;2-s2.0-85127981512;10.1109/IRASET52964.2022.9737814;Conference Paper;2022;neurology
+TextBlob and BiLSTM for Sentiment analysis toward COVID-19 vaccines;2-s2.0-85127896297;10.1109/CDMA54072.2022.00017;Conference Paper;2022;neurology
+Prediction of COVID-19 Active Cases Using Polynomial Regression and ARIMA Models;2-s2.0-85127638254;10.1007/978-3-030-96308-8_125;Conference Paper;2022;neurology
+Impacts of the COVID-19 outbreak on older-age cohorts in European Labor Markets: A machine learning exploration of vulnerable groups;2-s2.0-85126808909;10.1111/rsp3.12520;Article;2022;neurology
+Comparing the Performance of Various Supervised Machine Learning Techniques for Early Detection of Breast Cancer;2-s2.0-85126385421;10.1007/978-3-030-96305-7_44;Conference Paper;2022;neurology
+Hybrid Encoder-Decoder Model forÂ Retinal Blood Vessels Segmentation;2-s2.0-85126248640;10.1007/978-3-030-96302-6_49;Conference Paper;2022;neurology
+Deep Learning Identifies Tomato Leaf Disease by Comparing Four Architectures Using Two Types of Optimizers;2-s2.0-85126203966;10.1007/978-3-030-96040-7_21;Conference Paper;2022;neurology
+Parkinsonâ€™s Disease Diagnosis Through Electroencephalographic Signal Processing and Sub-optimal Feature Extraction;2-s2.0-85126193052;10.1007/978-3-030-96293-7_12;Conference Paper;2022;neurology
+Detecting Ransomware within Real Healthcare Medical Records Adopting Internet of Medical Things using Machine and Deep Learning Techniques;2-s2.0-85126108971;10.14569/IJACSA.2022.0130270;Article;2022;neurology
+Mining Electronic Health Records of Patients Using Linked Data for Ranking Diseases;2-s2.0-85125955286;10.1007/978-3-030-77185-0_13;Book Chapter;2022;neurology
+Rice Leaves Disease Diagnose Empowered with Transfer Learning;2-s2.0-85124940120;10.32604/csse.2022.022017;Article;2022;neurology
+Machine Learning Algorithms for COPD Patients Readmission Prediction: A Data Analytics Approach;2-s2.0-85124233695;10.1109/ACCESS.2022.3148600;Article;2022;neurology
+Combining Clinical Symptoms and Patient Features for Malaria Diagnosis: Machine Learning Approach;2-s2.0-85124156901;10.1080/08839514.2022.2031826;Article;2022;neurology
+Automatic Fake News Detection based on Deep Learning, FastText and News Title;2-s2.0-85124070292;10.14569/IJACSA.2022.0130118;Article;2022;neurology
+Early Ginger Disease Detection Using Deep Learning Approach;2-s2.0-85122579818;10.1007/978-3-030-93709-6_32;Conference Paper;2022;neurology
+Detecting Physiological Needs Using Deep Inverse Reinforcement Learning;2-s2.0-85122439127;10.1080/08839514.2021.2022340;Article;2022;neurology
+Enhancing Parkinson's disease diagnosis accuracy through speech signal algorithm modeling;2-s2.0-85116052529;10.32604/cmc.2022.020109;Article;2022;neurology
+Breast Cancer Classification in IoT Framework;2-s2.0-85115121238;10.1007/978-981-16-2275-5_29;Conference Paper;2022;neurology
+COVID19 Infectious Disease Detection and Diagnosis System Using Case-Based Reasoning and Fuzzy Logic Inference Model;2-s2.0-85115100033;10.1007/978-3-030-85626-7_20;Conference Paper;2022;neurology
+BACH: Grand challenge on breast cancer histology images;2-s2.0-85067343074;10.1016/j.media.2019.05.010;Article;2019;neurology
+A review on a deep learning perspective in brain cancer classification;2-s2.0-85061909070;10.3390/cancers11010111;Review;2019;neurology
+ENIGMA and the individual: Predicting factors that affect the brain in 35 countries worldwide;2-s2.0-84975760946;10.1016/j.neuroimage.2015.11.057;Article;2017;neurology
+Artificial intelligence using deep learning to screen for referable and vision-threatening diabetic retinopathy in Africa: a clinical validation study;2-s2.0-85069971542;10.1016/S2589-7500(19)30004-4;Article;2019;neurology
+A review of image analysis and machine learning techniques for automated cervical cancer screening from pap-smear images;2-s2.0-85049506605;10.1016/j.cmpb.2018.05.034;Review;2018;neurology
+One-shot domain adaptation in multiple sclerosis lesion segmentation using convolutional neural networks;2-s2.0-85058214278;10.1016/j.nicl.2018.101638;Article;2019;neurology
+Fall detection monitoring systems: a comprehensive review;2-s2.0-85049582873;10.1007/s12652-017-0592-3;Article;2018;neurology
+Recognition of Alzheimer's disease and Mild Cognitive Impairment with multimodal image-derived biomarkers and Multiple Kernel Learning;2-s2.0-84994709944;10.1016/j.neucom.2016.08.041;Article;2017;neurology
+Protein-RNA interface residue prediction using machine learning: an assessment of the state of the art;2-s2.0-84860696343;10.1186/1471-2105-13-89;Article;2012;neurology
+Classification of Alzheimer Disease on Imaging Modalities with Deep CNNs Using Cross-Modal Transfer Learning;2-s2.0-85050978829;10.1109/CBMS.2018.00067;Conference Paper;2018;neurology
+The application of unsupervised clustering methods to Alzheimerâ€™s disease;2-s2.0-85068487040;10.3389/fncom.2019.00031;Review;2019;neurology
+Health monitoring of bearing and gear faults by using a new health indicator extracted from current signals;2-s2.0-85064476764;10.1016/j.measurement.2019.03.065;Article;2019;neurology
+Baseline exposure, antibody subclass, and hepatitis B response differentially affect malaria protective immunity following RTS,S/AS01E vaccination in African children;2-s2.0-85055630542;10.1186/s12916-018-1186-4;Article;2018;neurology
+Deep transfer learning models for medical diabetic retinopathy detection;2-s2.0-85084636753;10.5455/aim.2019.27.327-332;Article;2019;neurology
+FuseMe: Classification of sMRI images by fusion of deep CNNs in 2D+e projections;2-s2.0-85021804754;10.1145/3095713.3095749;Conference Paper;2017;neurology
+A comparison of supervised machine learning techniques for predicting short-term in-hospital length of stay among diabetic patients;2-s2.0-84939183820;10.1109/ICMLA.2014.76;Conference Paper;2014;neurology
+Features and machine learning classification of connected speech samples from patients with autopsy proven Alzheimer's disease with and without additional vascular pathology;2-s2.0-84920573084;10.3233/JAD-140555;Conference Paper;2014;neurology
+Very deep feature extraction and fusion for arrhythmias detection;2-s2.0-85049583842;10.1007/s00521-018-3616-9;Article;2018;neurology
+A supervised framework with intensity subtraction and deformation field features for the detection of new T2-w lesions in multiple sclerosis;2-s2.0-85034780618;10.1016/j.nicl.2017.11.015;Article;2018;neurology
+Maintaining patient oral health by using a xeno-genetic spiking neural network;2-s2.0-85058450264;10.1007/s12652-018-1166-8;Article in Press;2018;neurology
+Sparse modeling reveals miRNA signatures for diagnostics of inflammatory bowel disease;2-s2.0-84948978330;10.1371/journal.pone.0140155;Article;2015;neurology
+Adversarial Inpainting of Medical Image Modalities;2-s2.0-85068978568;10.1109/ICASSP.2019.8682677;Conference Paper;2019;neurology
+Multiple Sclerosis Lesion Synthesis in MRI Using an Encoder-Decoder U-NET;2-s2.0-85062731462;10.1109/ACCESS.2019.2900198;Article;2019;neurology
+Detecting Abnormal Ozone Measurements with a Deep Learning-Based Strategy;2-s2.0-85049318176;10.1109/JSEN.2018.2852001;Article;2018;neurology
+PRAXIS: Towards automatic cognitive assessment using gesture recognition;2-s2.0-85045092852;10.1016/j.eswa.2018.03.063;Article;2018;neurology
+A robust swarm intelligence-based feature selection model for neuro-fuzzy recognition of mild cognitive impairment from resting-state fMRI;2-s2.0-85068817881;10.1016/j.ins.2019.07.026;Article;2019;neurology
+Identification of the presence of ischaemic stroke lesions by means of texture analysis on brain magnetic resonance images;2-s2.0-85063342062;10.1016/j.compmedimag.2019.02.006;Article;2019;neurology
+Classification of sMRI for AD diagnosis with convolutional neuronal networks: A pilot 2-D+Ïµ study on ADNI;2-s2.0-85009804121;10.1007/978-3-319-51811-4_56;Conference Paper;2017;neurology
+Multiscale characterization of heart failure;2-s2.0-85060346764;10.1016/j.actbio.2018.12.053;Article;2019;neurology
+Machine Learning Approaches in Smart Health;2-s2.0-85074785000;10.1016/j.procs.2019.06.052;Conference Paper;2018;neurology
+Efficient cell classification of mitochondrial images by using deep learning;2-s2.0-85059832657;10.1007/s12596-018-0508-4;Article;2019;neurology
+RTS,S/AS01E immunization increases antibody responses to vaccine-unrelated Plasmodium falciparum antigens associated with protection against clinical malaria in African children: A case-control study;2-s2.0-85070743290;10.1186/s12916-019-1378-6;Article;2019;neurology
+An improved machine learning technique based on downsized KPCA for Alzheimer's disease classification;2-s2.0-85058800178;10.1002/ima.22304;Article;2019;neurology
+Classification of sMRI for Alzheimer's disease diagnosis with CNN: Single Siamese networks with 2D+Ïµ Approach and fusion on ADNI;2-s2.0-85021839643;10.1145/3078971.3079010;Conference Paper;2017;neurology
+Gatifloxacin Pharmacokinetics/Pharmacodynamics-based Optimal Dosing for Pulmonary and Meningeal Multidrug-resistant Tuberculosis;2-s2.0-85057539611;10.1093/cid/ciy618;Article;2018;neurology
+Wearable accelerometer and sEMG-based upper limb BSN for tele-rehabilitation;2-s2.0-85068897151;10.3390/app9142795;Article;2019;neurology
+Breast cancer diagnosis based on joint variable selection and Constructive Deep Neural Network;2-s2.0-85050012273;10.1109/MECBME.2018.8402426;Conference Paper;2018;neurology
+Predictors of Post-operative Mycetoma Recurrence Using Machine-Learning Algorithms: The Mycetoma Research Center Experience;2-s2.0-85021858085;10.1371/journal.pntd.0005007;Article;2016;neurology
+Fast unsupervised nuclear segmentation and classification scheme for automatic allred cancer scoring in immunohistochemical breast tissue images;2-s2.0-85051670704;10.1016/j.cmpb.2018.08.005;Article;2018;neurology
+Computer-aided diagnosis system of alzheimer's disease based on multimodal fusion: Tissue quantification based on the hybrid fuzzy-genetic-possibilistic model and discriminative classification based on the SVDD model;2-s2.0-85074232955;10.3390/brainsci9100289;Article;2019;neurology
+Ontology-based clinical information extraction from physician's free-text notes;2-s2.0-85071693084;10.1016/j.jbi.2019.103276;Article;2019;neurology
+Driver Fatigue Detection with Single EEG Channel Using Transfer Learning;2-s2.0-85082008605;10.1109/IST48021.2019.9010483;Conference Paper;2019;neurology
+Prediction of diabetic foot ulceration using spatial and temporal dynamic plantar pressure;2-s2.0-85015307998;10.1109/CIBEC.2016.7836116;Conference Paper;2017;neurology
+DEVELOPING AN EARLY PREDICTIVE SYSTEM for IDENTIFYING GENETIC BIOMARKERS ASSOCIATED to Alzheimer'S DISEASE USING MACHINE LEARNING TECHNIQUES;2-s2.0-85071005129;10.4015/S1016237219500406;Article;2019;neurology
+An exploration of mortality risk factors in non-severe pneumonia in children using clinical data from Kenya;2-s2.0-85033789732;10.1186/s12916-017-0963-9;Article;2017;neurology
+An MR brain images classification technique via the Gaussian radial basis kernel and SVM;2-s2.0-85048529266;10.1109/STA.2017.8314948;Conference Paper;2018;neurology
+Robust feature selection algorithm based on transductive SVM wrapper and genetic Algorithm: Application on computer-aided glaucoma classification;2-s2.0-85051766734;10.1504/IJISTA.2018.094018;Article;2018;neurology
+Prediction of visual attention with deep CNN on artificially degraded videos for studies of attention of patients with Dementia;2-s2.0-85019183731;10.1007/s11042-017-4796-5;Article;2017;neurology
+Feature selection and extraction for class prediction in dysphonia measures analysis:A case study on Parkinson's disease speech rehabilitation;2-s2.0-85027531779;10.3233/THC-170824;Article;2017;neurology
+The human face of mobile;2-s2.0-84958547456;10.1007/978-3-642-55032-4_1;Conference Paper;2014;neurology
+Machine Learning Model for Imbalanced Cholera Dataset in Tanzania;2-s2.0-85070471706;10.1155/2019/9397578;Article;2019;neurology
+A review of applications of image analysis and machine learning techniques in automated diagnosis and classification of cervical cancer from pap-smear images;2-s2.0-85051227250;;Conference Paper;2018;neurology
+The impact of simulated spectral noise on random forest and oblique random forest classification performance;2-s2.0-85055896071;10.1155/2018/8316918;Article;2018;neurology
+Identifying genetic biomarkers associated to Alzheimer's disease using Support Vector Machine;2-s2.0-85015296964;10.1109/CIBEC.2016.7836087;Conference Paper;2017;neurology
+Voice analysis for detecting patients with Parkinsonâ€™s disease using the hybridization of the best acoustic features;2-s2.0-84964292239;10.15676/ijeei.2016.8.1.8;Article;2016;neurology
+Epileptic Seizure Detection Using a Convolutional Neural Network;2-s2.0-85114066630;10.1007/978-3-030-11800-6_9;Book Chapter;2019;neurology
+Detection of retinal abnormalities using smartphone-captured fundus images: A survey;2-s2.0-85072566797;10.1117/12.2519094;Conference Paper;2019;neurology
+Ocular diseases diagnosis in fundus images using a deep learning: Approaches, tools and performance evaluation;2-s2.0-85072562954;10.1117/12.2519098;Conference Paper;2019;neurology
+Defining character computing from the perspective of computer science and psychology;2-s2.0-85059973085;10.1145/3282894.3289721;Conference Paper;2018;neurology
+A new neural network method for peripheral vestibular disorder recognition using VNG parameter optimisation;2-s2.0-85052626565;10.1504/IJBET.2018.094299;Article;2018;neurology
+Influence of community experiences on first-year medical students' reflective writing;2-s2.0-19144366489;10.1080/01421590400029590;Article;2005;neurology
+Multi-view learning-based data proliferator for boosting classification using highly imbalanced classes;2-s2.0-85070892031;10.1016/j.jneumeth.2019.108344;Article;2019;neurology
+Using longitudinal targeted maximum likelihood estimation in complex settings with dynamic interventions;2-s2.0-85070887429;10.1002/sim.8340;Article;2019;neurology
+Deep MRI segmentation: A convolutional method applied to alzheimer disease detection;2-s2.0-85077239531;10.14569/IJACSA.2019.0101151;Article;2019;neurology
+Decision Support System (DSS) for Fraud Detection in Health Insurance Claims Using Genetic Support Vector Machines (GSVMs);2-s2.0-85072386494;10.1155/2019/1432597;Article;2019;neurology
+Supervised machine-learning reveals that old and obese people achieve low dapsone concentrations;2-s2.0-85023625483;10.1002/psp4.12208;Article;2017;neurology
+Generating fuzzy rules for constructing interpretable classifier of diabetes disease;2-s2.0-84870935899;10.1007/s13246-012-0155-z;Review;2012;neurology
+The geographical region of origin determines the phagocytic vulnerability of Lichtheimia strains;2-s2.0-85070784743;10.1111/1462-2920.14752;Article;2019;neurology
+3D MRI classification using KNN and deep neural network for Alzheimerâ€™s disease diagnosis;2-s2.0-85063450329;10.1007/978-3-030-11884-6_14;Conference Paper;2019;neurology
+Use of classification and regression tree (CART), to identify hemoglobin A1C (HbA1C) cut-off thresholds predictive of poor tuberculosis treatment outcomes and associated risk factors;2-s2.0-85044119242;10.1016/j.jctube.2018.01.002;Article;2018;neurology
+A practical measurement of Parkinson's patients gait using simple walker-based motion sensing and Data Analysis;2-s2.0-85042142518;10.1115/1.4038810;Article;2018;neurology
+Performance evaluation of machine learning based big data processing framework for prediction of heart disease;2-s2.0-85084283573;10.1109/ISACS48493.2019.9068901;Conference Paper;2019;neurology
+Quality analysis of various deep learning neural network classifiers for Alzheimer's disease detection;2-s2.0-85047461656;10.3923/jeasci.2017.8334.8339;Article;2017;neurology
+Multinomial modelling of TB/HIV co-infection yields a robust predictive signature and generates hypotheses about the HIV+TB+ disease state;2-s2.0-85069651941;10.1371/journal.pone.0219322;Article;2019;neurology
+Deep learning for detecting diseases in gastrointestinal biopsy images;2-s2.0-85068545035;10.1109/SIEDS.2019.8735619;Conference Paper;2019;neurology
+Statistical and predictive analytics of chronic kidney disease;2-s2.0-85063535373;10.1007/978-3-030-11884-6_3;Conference Paper;2019;neurology
+Automatic detection of stereotyped movements in autistic children using the Kinect sensor;2-s2.0-85061204583;10.1504/IJBET.2019.097621;Article;2019;neurology
+Using Multi-Feature Selection with machine learning for de novo Acute Myeloid Leukemia in Egypt;2-s2.0-85084281820;10.1109/ISACS48493.2019.9068905;Conference Paper;2019;neurology
+Brain Tumor Segmentation Based on Deep Learning;2-s2.0-85084281565;10.1109/ISACS48493.2019.9068878;Conference Paper;2019;neurology
+Integrated higher-order evidence-based framework for prediction of higher-order epistasis interactions in Alzheimer's disease;2-s2.0-85021124456;;Article;2017;neurology
+Prediction of visual attention with Deep CNN for studies of neurodegenerative diseases;2-s2.0-84978828120;10.1109/CBMI.2016.7500243;Conference Paper;2016;neurology
+Evidence of chaos in EEG signals: An application to BCI;2-s2.0-84963787518;10.1007/978-3-319-30340-6_25;Book Chapter;2016;neurology
+Exploring the effects of compression via principal components analysis on X-ray image cassification;2-s2.0-85081565117;10.1109/ISCMI47871.2019.9004301;Conference Paper;2019;neurology
+Automated Gastrointestinal Disease Recognition for Endoscopic Images;2-s2.0-85084511882;10.1109/ICCCIS48478.2019.8974458;Conference Paper;2019;neurology
+Detecting failed elements in an arbitrary antenna array using machine learning;2-s2.0-85074943068;10.1109/ICEAA.2019.8879067;Conference Paper;2019;neurology
+Prediction of Battery Remaining Useful Life on Board Satellites Using Logical Analysis of Data;2-s2.0-85068316825;10.1109/AERO.2019.8741717;Conference Paper;2019;neurology
+The diagnosis of tuberculous meningitis in adults and adolescents: Protocol for a systematic review and individual patient data meta-analysis to inform a multivariable prediction model [version 2: peer review: 1 approved, 1 approved with reservations];2-s2.0-85078352993;10.12688/wellcomeopenres.15056.1;Article;2019;neurology
+Alzheimer'S Disease Classification Using Bag-Of-Words Based on Visual Pattern of Diffusion Anisotropy for DTI Imaging;2-s2.0-85056652939;10.1109/EMBC.2018.8512203;Conference Paper;2018;neurology
+EEG signals classification for epileptic detection: A review;2-s2.0-85044659117;10.1145/3018896.3018970;Conference Paper;2017;neurology
+Features selection for building an early diagnosis machine learning model for Parkinson's disease;2-s2.0-84995691227;10.1109/ICAIPR.2016.7585225;Conference Paper;2016;neurology
+A decision tree-based approach for cardiovascular dysautonomias diagnosis: A case study;2-s2.0-84964940639;10.1109/SSCI.2015.121;Conference Paper;2015;neurology
+Transfer learning based histopathologic image classification for burns recognition;2-s2.0-85083484518;10.1109/ICECCO48375.2019.9043205;Conference Paper;2019;neurology
+Improve Extremely Fast Decision Tree Performance through Training Dataset Size for Early Prediction of Heart Diseases;2-s2.0-85082675101;10.1109/SysCoBIoTS48768.2019.9028026;Conference Paper;2019;neurology
+Seizure prediction segmentation merge yielding a boosted low power model;2-s2.0-85082133018;10.1109/ICM48031.2019.9021703;Conference Paper;2019;neurology
+Enhancing the performance of an image steganalysis approach using variable batch size-based CNN on GPUs;2-s2.0-85077070356;10.1109/IDAACS.2019.8924348;Conference Paper;2019;neurology
+Generation of Head Models for Brain Stimulation Using Deep Convolution Networks;2-s2.0-85076810716;10.1109/ICIP.2019.8803334;Conference Paper;2019;neurology
+Deep neural network for heart disease medical prescription expert system;2-s2.0-85050334642;10.11591/ijeei.v6i2.456;Article;2018;neurology
+Semi-automated method for the glaucoma monitoring;2-s2.0-85031999059;10.1007/978-3-319-63754-9_11;Book Chapter;2018;neurology
+Harnessing infant cry for swift, cost-effective diagnosis of Perinatal Asphyxia in low-resource settings;2-s2.0-84988305151;10.1109/IHTC.2014.7147559;Conference Paper;2014;neurology
+Case-based reasoning algorithms applied in a medical acquisition tool;2-s2.0-84907111954;10.3109/14639239309034477;Article;1993;neurology
+Robust and reliable PPG and ECG integrated biosensor;2-s2.0-85079245402;10.1109/ISPA48434.2019.8966922;Conference Paper;2019;neurology
+Automatic classification of gastrointestinal diseases based on machine learning techniques;2-s2.0-85111448890;10.1109/ICCTA48790.2019.9478820;Conference Paper;2019;neurology
+Hybrid Genetic Algorithm with SVM for Medical Data Classification;2-s2.0-85063458267;10.1109/ICASS.2018.8651947;Conference Paper;2019;neurology
+Machine Learning Model for Breast Cancer Prediction;2-s2.0-85075883359;10.1109/ICFIR.2019.8894777;Conference Paper;2019;neurology
+Leveraging genomic diversity to promote human and animal health;2-s2.0-85076358358;10.1038/s42003-019-0708-8;Article;2019;neurology
+Malaria detection and classification using machine learning algorithms;2-s2.0-85049879879;10.1007/978-3-319-95153-9_3;Conference Paper;2018;neurology
+Machine learning and sentiment analysis: Examining the contextual polarity of public sentiment on malaria disease in social networks;2-s2.0-85048558271;;Conference Paper;2018;neurology
+Machine learning-based measurement system for Spinal Cord Injuries rehabilitation length of stay;2-s2.0-84946434649;10.1007/978-3-319-21206-7_45;Conference Paper;2015;neurology
+The application of data mining techniques and feature selection methods in the risk classification of Egyptian liver cancer patients using clinical and genetic data;2-s2.0-85068599878;10.1145/3328833.3328849;Conference Paper;2019;neurology
+New kernel method for MRI classification;2-s2.0-85075640256;10.1109/SSD.2019.8893225;Conference Paper;2019;neurology
+Caracterisation of Dementia by 3D Analysis of Cerebral Structures;2-s2.0-85074395981;10.1109/ASET.2019.8871017;Conference Paper;2019;neurology
+Automated Cell-Type Classification and Death-Detection of Spinal Motoneurons;2-s2.0-85063233190;10.1109/CIBEC.2018.8641824;Conference Paper;2019;neurology
+Speech Processing for Early Alzheimer Disease Diagnosis: Machine Learning Based Approach;2-s2.0-85061903933;10.1109/AICCSA.2018.8612831;Conference Paper;2019;neurology
+Classification of liver fibrosis patients by multi-dimensional analysis and SVM classifier: An egyptian case study;2-s2.0-85062894229;10.1007/978-3-319-56994-9_75;Book Chapter;2018;neurology
+Speaker emotion recognition: From classical classifiers to deep neural networks;2-s2.0-85046482098;10.1117/12.2309476;Conference Paper;2018;neurology
