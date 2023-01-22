@@ -37241,26 +37241,26 @@ speech;communication;2-s2.0-85134253015;2022;False;True;False;False
 attention;mental process;2-s2.0-85019183731;2017;True;True;False;True
 mathematical model;knowledge organization system;2-s2.0-85040711643;2018;False;False;True;True
 mathematical model;knowledge organization system;2-s2.0-85068118271;2019;False;False;False;False
-Data set;computer file;2-s2.0-85076119250;2020;True;True;True;False
+data set;computer file;2-s2.0-85076119250;2020;True;True;True;False
 authentication;verification;2-s2.0-85064046656;2020;False;True;False;False
 chest;organism subdivision type;2-s2.0-85078655338;2020;False;True;True;True
-Data set;computer file;2-s2.0-85131830822;2021;True;False;True;True
+data set;computer file;2-s2.0-85131830822;2021;True;False;True;True
 authentication;verification;2-s2.0-85110619385;2021;False;False;True;False
 authentication;verification;2-s2.0-85108095036;2021;False;True;False;True
-Data set;computer file;2-s2.0-85116055859;2021;False;False;True;True
+data set;computer file;2-s2.0-85116055859;2021;False;False;True;True
 obesity;overnutrition;2-s2.0-85126683291;2021;False;False;False;False
 computer-aided diagnosis;procedure;2-s2.0-85112200242;2021;False;False;False;False
 evaluation;method;2-s2.0-85107238380;2021;False;False;True;False
-Data set;computer file;2-s2.0-85126874654;2021;False;True;False;False
-Data set;computer file;2-s2.0-85124553363;2022;False;False;False;True
+data set;computer file;2-s2.0-85126874654;2021;False;True;False;False
+data set;computer file;2-s2.0-85124553363;2022;False;False;False;True
 computer-aided diagnosis;procedure;2-s2.0-85132216133;2022;False;True;False;True
-Data set;computer file;2-s2.0-85127852770;2022;False;False;False;False
-Data set;computer file;2-s2.0-85136168439;2022;False;False;True;True
-Data set;computer file;2-s2.0-85129979212;2022;False;True;False;True
-Data set;computer file;2-s2.0-85136327894;2022;False;False;False;False
+data set;computer file;2-s2.0-85127852770;2022;False;False;False;False
+data set;computer file;2-s2.0-85136168439;2022;False;False;True;True
+data set;computer file;2-s2.0-85129979212;2022;False;True;False;True
+data set;computer file;2-s2.0-85136327894;2022;False;False;False;False
 glioblastoma TERFF;class of disease;2-s2.0-85135048901;2022;False;True;True;False
 authentication;verification;2-s2.0-85133418612;2022;False;True;False;False
-Data set;computer file;2-s2.0-85132032372;2022;False;True;False;False
+data set;computer file;2-s2.0-85132032372;2022;False;True;False;False
 computer-aided diagnosis;procedure;2-s2.0-84869489087;2012;True;True;True;False
 glioblastoma TERFF;class of disease;2-s2.0-85051037790;2018;True;True;False;True
 computer-aided diagnosis;procedure;2-s2.0-85023161130;2017;False;True;False;False
@@ -37359,7 +37359,7 @@ technology;applied science;2-s2.0-85137384208;2022;False;False;True;False
 evaluation;method;2-s2.0-85126798336;2022;False;True;False;True
 evaluation;method;2-s2.0-85135932893;2022;False;False;False;False
 chest;organism subdivision type;2-s2.0-85135895820;2022;False;True;False;False
-Data set;computer file;2-s2.0-85135760183;2022;False;True;False;False
+data set;computer file;2-s2.0-85135760183;2022;False;True;False;False
 chest;organism subdivision type;2-s2.0-85133975954;2022;False;False;False;False
 chest;organism subdivision type;2-s2.0-85132247859;2022;False;False;True;True
 design;activity;2-s2.0-85125733794;2022;False;True;True;True
@@ -37378,7 +37378,7 @@ design;activity;2-s2.0-85006340393;2016;False;True;False;False
 evaluation;method;2-s2.0-85006340393;2016;False;True;False;False
 evaluation;method;2-s2.0-85039957157;2017;False;True;False;False
 evaluation;method;2-s2.0-84973868613;2016;False;True;False;False
-Data set;computer file;2-s2.0-85060805761;2018;False;True;False;False
+data set;computer file;2-s2.0-85060805761;2018;False;True;False;False
 natural language processing;industry;2-s2.0-85104656151;2021;False;True;True;True
 natural language processing;industry;2-s2.0-85112075661;2021;False;True;True;True
 natural language processing;industry;2-s2.0-85101153573;2021;False;True;False;False
@@ -41740,7 +41740,7 @@ heart rate;frequency;2-s2.0-85079096140;2020;False;True;False;True
 computer-aided diagnosis;procedure;2-s2.0-85112850596;2021;True;True;True;True
 artificial intelligence;specialization;2-s2.0-85105104290;2021;True;True;True;True
 interpretability;relation;2-s2.0-85095984983;2021;True;False;True;True
-	 birth mass;mass;2-s2.0-85107772625;2021;False;False;True;True
+birth mass;mass;2-s2.0-85107772625;2021;False;False;True;True
 computer-aided diagnosis;procedure;2-s2.0-85101771435;2021;False;False;True;True
 facial recognition system;procedure;2-s2.0-85103353506;2021;False;False;True;True
 autism spectrum disorder;class of disease;2-s2.0-85104884371;2021;False;False;True;False
@@ -41790,7 +41790,7 @@ health care;industry;2-s2.0-85096595498;2020;True;True;True;False
 body mass index;clinical sign;2-s2.0-85097438509;2020;True;True;True;True
 database system;computer system;2-s2.0-85089507299;2020;True;True;False;True
 case-based reasoning;reasoning;2-s2.0-85080913192;2020;True;True;False;True
-	 birth mass;mass;2-s2.0-85096456805;2020;True;False;True;True
+birth mass;mass;2-s2.0-85096456805;2020;True;False;True;True
 knowledge acquisition;mental skill;2-s2.0-85075912650;2020;True;True;False;True
 health care costs;economic concept;2-s2.0-85092704142;2020;True;True;True;True
 immune response;biological process;2-s2.0-85078710978;2020;True;False;True;True
@@ -41844,7 +41844,7 @@ health care costs;economic concept;2-s2.0-85092717393;2020;False;True;False;Fals
 artificial intelligence;specialization;2-s2.0-85103852221;2020;False;True;False;False
 health system;system;2-s2.0-85079659260;2020;False;True;False;True
 health professional;profession;2-s2.0-85117943995;2020;False;False;True;True
-	 birth mass;mass;2-s2.0-85099725149;2020;False;False;True;True
+birth mass;mass;2-s2.0-85099725149;2020;False;False;True;True
 interpretability;relation;2-s2.0-85097332472;2020;False;False;False;False
 knowledge-based system;information system;2-s2.0-85095426373;2020;False;True;False;False
 knowledge-based system;information system;2-s2.0-85093362075;2020;False;True;True;False
@@ -41889,7 +41889,7 @@ medical guideline;policy;2-s2.0-85100910370;2021;False;False;True;True
 mutation;biological process;2-s2.0-85117584569;2021;False;True;True;False
 body mass index;clinical sign;2-s2.0-85106864765;2021;False;False;True;True
 comorbidity;epidemiologic factor;2-s2.0-85099233220;2021;False;False;True;True
-	 birth mass;mass;2-s2.0-85118874589;2021;False;True;True;True
+birth mass;mass;2-s2.0-85118874589;2021;False;True;True;True
 discrete wavelet transform;integral transform;2-s2.0-85118874589;2021;False;True;True;True
 tumor biomarkers;aptitude;2-s2.0-85119931744;2021;False;False;True;True
 database system;computer system;2-s2.0-85111935865;2021;False;False;True;True
@@ -41913,10 +41913,10 @@ case-based reasoning;reasoning;2-s2.0-85120450423;2021;False;False;True;True
 early diagnosis;diagnosis;2-s2.0-85117300086;2021;False;False;True;False
 discrete wavelet transform;integral transform;2-s2.0-85116265092;2021;False;True;True;True
 immune response;biological process;2-s2.0-85122546225;2021;False;False;True;True
-	 birth mass;mass;2-s2.0-85120570702;2021;False;False;True;True
+birth mass;mass;2-s2.0-85120570702;2021;False;False;True;True
 heart rate;frequency;2-s2.0-85120570702;2021;False;False;True;True
 database system;computer system;2-s2.0-85115688602;2021;False;True;False;True
-	 birth mass;mass;2-s2.0-85114399035;2021;False;False;True;True
+birth mass;mass;2-s2.0-85114399035;2021;False;False;True;True
 comorbidity;epidemiologic factor;2-s2.0-85116078472;2021;False;False;True;True
 tumor biomarkers;aptitude;2-s2.0-85105123274;2021;False;True;False;True
 health professional;profession;2-s2.0-85098876064;2021;False;False;False;True
@@ -41927,7 +41927,7 @@ knowledge-based system;information system;2-s2.0-85115907938;2021;False;True;Tru
 artificial intelligence;specialization;2-s2.0-85097223399;2021;False;True;True;True
 health system;system;2-s2.0-85117169525;2021;False;False;True;True
 heart rate;frequency;2-s2.0-85117127358;2021;False;True;True;True
-	 birth mass;mass;2-s2.0-85115090202;2021;False;False;True;True
+birth mass;mass;2-s2.0-85115090202;2021;False;False;True;True
 body mass index;clinical sign;2-s2.0-85115018842;2021;False;False;True;True
 body mass index;clinical sign;2-s2.0-85126683291;2021;False;False;False;False
 health care;industry;2-s2.0-85124012602;2021;False;True;False;False
@@ -41939,7 +41939,7 @@ computer-aided diagnosis;procedure;2-s2.0-85103818541;2021;False;True;False;Fals
 knowledge acquisition;mental skill;2-s2.0-85102726120;2021;False;False;True;False
 computer-aided diagnosis;procedure;2-s2.0-85102726120;2021;False;False;True;False
 autism spectrum disorder;class of disease;2-s2.0-85101472406;2021;False;True;True;True
-	 birth mass;mass;2-s2.0-85121232678;2021;False;False;True;True
+birth mass;mass;2-s2.0-85121232678;2021;False;False;True;True
 body mass index;clinical sign;2-s2.0-85121232678;2021;False;False;True;True
 tumor biomarkers;aptitude;2-s2.0-85119399231;2021;False;False;True;False
 interpretability;relation;2-s2.0-85119421282;2021;False;False;False;False
@@ -41992,12 +41992,12 @@ classification;information handling;2-s2.0-85127964196;2022;False;True;False;Fal
 artificial intelligence;specialization;2-s2.0-85127503177;2022;False;True;True;True
 feature selection;calculation;2-s2.0-85122754355;2022;False;True;True;True
 knowledge acquisition;mental skill;2-s2.0-85112762055;2022;False;True;True;True
-	 birth mass;mass;2-s2.0-85137222401;2022;False;False;True;True
+birth mass;mass;2-s2.0-85137222401;2022;False;False;True;True
 medical guideline;policy;2-s2.0-85135572434;2022;False;False;True;True
 body mass index;clinical sign;2-s2.0-85134015074;2022;False;False;True;True
 medical guideline;policy;2-s2.0-85134015074;2022;False;False;True;True
 health care;industry;2-s2.0-85132989913;2022;False;True;True;True
-	 birth mass;mass;2-s2.0-85127451600;2022;False;False;True;True
+birth mass;mass;2-s2.0-85127451600;2022;False;False;True;True
 knowledge-based system;information system;2-s2.0-85135411757;2022;False;True;True;True
 heart arrhythmia;class of disease;2-s2.0-85137572068;2022;False;True;True;True
 knowledge acquisition;mental skill;2-s2.0-85127753019;2022;False;True;False;True
@@ -42084,7 +42084,7 @@ comorbidity;epidemiologic factor;2-s2.0-85070743290;2019;True;False;True;True
 immune response;biological process;2-s2.0-85070743290;2019;True;False;True;True
 comorbidity;epidemiologic factor;2-s2.0-85057539611;2018;True;False;True;True
 interpretability;relation;2-s2.0-85071000896;2019;True;True;False;False
-	 birth mass;mass;2-s2.0-85062195404;2019;True;False;True;True
+birth mass;mass;2-s2.0-85062195404;2019;True;False;True;True
 database system;computer system;2-s2.0-79958714444;2011;True;True;False;False
 database system;computer system;2-s2.0-85060686079;2018;True;True;False;True
 rough set;mathematical concept;2-s2.0-84897542211;2013;True;True;False;True
